@@ -1,4 +1,4 @@
-# csrla
+# csr-la
 
 > Verantwortungsvolle Unternehmensführung in Lateinamerika
 
