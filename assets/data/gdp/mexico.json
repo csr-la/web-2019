@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Entstehung des mexikanischen Bruttoinlandsprodukts, 2017",
+      "sourceCopy": "2017 trugen der Groß- und Einzelhandel sowie das Gastgewerbe 22,5% zur Entstehung des Bruttoinlandsprodukts bei. Gefolgt vom Verarbeitenden Gewerbe (18,2%), Verkehr, Lagerhaltung und Kommunikation (8,4%) sowie dem Bergbau- und Energiesektor (6,7%). Diese Zahlen machen deutlich, dass im lateinamerikanischen Vergleich sowohl das produzierende Gewerbe als auch der Rohstoffsektor für Mexiko einen hohen Stellenwert haben. Demgegenüber spielt der Agrarsektor eine vergleichsweise weniger bedeutende Rolle (3,6%)."
+    },
+    "en": {
+      "header": "Formation of the Mexican Gross Domestic Product, 2017",
+      "sourceCopy": "In 2017, the wholesale, retail and hospitality industry contributed 22.5% to the creation of the gross domestic product. This was followed by manufacturing (18.2%), traffic, warehousing and communication  (8.4%), construction (7,7%) and the mining and energy supply sector (6,7%). These figures make it clear that both the manufacturing industry and the raw materials sector are of great importance for Mexico in a Latin American comparison. In contrast, the agricultural sector plays a comparatively less important role (3.6%)."
+    },
+    "es": {
+      "header": "Generación del PIB mexicano, 2017",
+      "sourceCopy": "En 2017, el comercio al por mayor y minorista, gastronomía / hotelería aportaron 22,5% al PIB, seguido por la industria manufacturera (18,2%), transporte, almacenamiento, comunicación ()8,4 %, construcción (7,7%) y el sector minería / suministro de energía (6,7%). Estas cifras demuestran la gran importancia de la industria manufacturera y del sector de materias primas en comparación con otros países de América Latina. Por el contrario, la agricultura tiene una importancia relativamente menor (3,6%)."
+    },
+    "pt": {
+      "header": "Geração do produto interno bruto do México em 2017",
+      "sourceCopy": "Em 2017, os setores do atacado e varejo e da hospitalidade contribuíram com 22,5% do produto interno bruto mexicano. Em seguida vem a indústria de transformação (18,2%) e o setor de transporte, logística e comunicação (8,4%), construção (7,7%) e mineração e energia (6,7%). Esses números provam que, comparado com outros países da América Latina, a indústria de transformação e o setor das matérias-primas têm grande importância para México. Em contrapartida, o setor agropecuário tem uma relevância relativamente menor (3,6%)."
+    },
+    "source": "United Nations Statistics Division (2019a)"
+  },
+  "data": [
+    {
+      "title": "agriculture",
+      "percentage": 3.6
+    },
+    {
+      "title": "mining",
+      "percentage": 6.7
+    },
+    {
+      "title": "manufacturing",
+      "percentage": 18.2
+    },
+    {
+      "title": "construction",
+      "percentage": 7.7
+    },
+    {
+      "title": "wholesale",
+      "percentage": 22.5
+    },
+    {
+      "title": "traffic",
+      "percentage": 8.4
+    },
+    {
+      "title": "other",
+      "percentage": 32.9
+    }
+  ]
+}

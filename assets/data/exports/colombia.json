@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Anteil der wichtigsten Ausfuhrgüter an den kolumbianischen Gesamtausfuhren, 2017",
+      "sourceCopy": "Das mit Abstand wichtigste Exportprodukt Kolumbien ist Erdöl, das 2017 mit fast einem Drittel zu den Gesamtausfuhren beitrug (29,0%). Gefolgt von Kohle (19,6%), Nahrungsmitteln (14,0%), petrochemischen Produkten (5,4%) sowie Rohstoffen (5,0%). Diese Zahlen belegen die hohe Bedeutung, die energetische, agrarische und mineralische Rohstoffe für den kolumbianischen Exportsektor haben."
+    },
+    "en": {
+      "header": "Main exports as a percentage of total Colombian exports, 2017",
+      "sourceCopy": "Colombia's most important export product by far is petroleum, which accounted for almost one third of total exports in 2017 (29.0%). This is followed by coal (19.6%), the food sector (14.0%), chemical (8.1%) and petrochemical products (5.4%) and raw materials (5.0%). These figures demonstrate the high importance of energy, agricultural and mineral raw materials for the Colombian export sector."
+    },
+    "es": {
+      "header": "Participación de los principales productos al total de las exportaciones colombianas, 2017",
+      "sourceCopy": "El producto de exportación más importante de Colombia es el petróleo crudo, que representó casi un tercio de las exportaciones totales en 2017 (29,0%), seguido por carbón (19,6%), alimentos (14,0%),  productos químicos (8,1%) y petroquímicos (5,4%) y materias primas (5,0%). Estas cifras demuestran la gran importancia que tienen los productos energéticos, agrícolas y minerales para el sector exportador colombiano."
+    },
+    "pt": {
+      "header": "Participação dos bens de exportação mais importantes no total das exportações colombianas em 2017",
+      "sourceCopy": "O produto de exportação colombiano mais importante é o petróleo, que em 2017 contribuiu com mais de um quarto do total das exportações (29%). Os setores que seguem são carvão (19,6%), alimentos (14,0%), produtos químicos (8,1%) e petroquímicos (5,4%) e matérias-primas (5,0%). Estes números provam a grande importância que as matérias-primas energéticas, agropecuárias e minerais têm para as exportações colombianas."
+    },
+    "source": "GTAI (2019)"
+  },
+  "data": [
+    {
+      "title": "petroleum",
+      "percentage": 29.0
+    },
+    {
+      "title": "food",
+      "percentage": 14.0
+    },
+    {
+      "title": "coal",
+      "percentage": 19.6
+    },
+    {
+      "title": "chemicalProducts",
+      "percentage": 8.1
+    },
+    {
+      "title": "petrochemistry",
+      "percentage": 5.4
+    },
+    {
+      "title": "rawMaterialsExcPetroleum",
+      "percentage": 5.0
+    },
+    {
+      "title": "other",
+      "percentage": 18.9
+    }
+  ]
+}

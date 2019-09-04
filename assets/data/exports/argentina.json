@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Anteil der wichtigsten Ausfuhrgüter an den argentinischen Gesamtausfuhren, 2017",
+      "sourceCopy": "2017 hatte der Nahrungsmittelsektor mit 44,2% den mit deutlichem Abstand größten Anteil an den argentinischen Ausfuhren gefolgt von Kraftfahrzeugen und Kfz-Teilen (9,9%), chemischen Produkte (9,6%), natürlichen Ölen, Fetten und Wachse (8,1%) sowie dem Rohstoffsektor (7,7%). Diese Zahlen belegen, dass die argentinische Exportwirtschaft sehr stark vom Nahrungsmittelsektor dominiert wird."
+    },
+    "en": {
+      "header": "Share of main exports in Argentina’s total exports, 2017",
+      "sourceCopy": "In 2017, the food sector accounted for by far the largest share of Argentinian exports (44.2%), followed by motor vehicles and parts (9.9%), chemical products (9.6%),  natural oils, fats and waxes (8.1%) as well as raw materials (7,7%). These figures show that Argentina’s export sector is very much dominated by the food sector."
+    },
+    "es": {
+      "header": "Participación de los principales productos al total de las exportaciones argentinas, 2017",
+      "sourceCopy": "Con 44,2% en 2017, el sector alimenticio fue lejos el mayor contribuyente a las exportaciones argentinas, seguido por el sector de automóviles y piezas automotrices (9,9%) y aceites, grasas y ceras naturales (8,1%) y materias primas (7,7%).  Estas cifras muestran que la industria exportadora argentina está fuertemente dominada por el sector alimentario."
+    },
+    "pt": {
+      "header": "Participação dos bens de exportação mais importantes no total das exportações argentinas no ano 2017",
+      "sourceCopy": "Em 2017, o setor dos alimentos tinha de longe a maior participação, com 44,2% das exportações argentinas, seguido pelas automóveis e peças de veículos (9,9%), produtos químicos (9,6 %) matérias-primas (7,7%), e óleos naturais, gorduras e ceras (8,6%). Esses números provam que a economia de exportação argentina é fortemente dominada pelo setor de alimentos."
+    },
+    "source": "GTAI (2019)"
+  },
+  "data": [
+    {
+      "title": "food",
+      "percentage": 44.2
+    },
+    {
+      "title": "rawMaterials",
+      "percentage": 7.7
+    },
+    {
+      "title": "automotive",
+      "percentage": 9.9
+    },
+    {
+      "title": "chemicalProducts",
+      "percentage": 9.6
+    },
+    {
+      "title": "oils",
+      "percentage": 8.1
+    },
+    {
+      "title": "drinks",
+      "percentage": 2.1
+    },
+    {
+      "title": "other",
+      "percentage": 18.4
+    }
+  ]
+}

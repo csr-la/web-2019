@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Entstehung des brasilianischen Bruttoinlandsprodukts, 2017",
+      "sourceCopy": "2017 steuerten der Groß- und Einzelhandel sowie das Gastgewerbe 16,0% zur Entstehung der brasilianischen Wirtschaftsleistung bei. Es folgten das Verarbeitende Gewerbe mit 12,1% und der Sektor Verkehr, Lagerhaltung und Kommunikation mit 8,0%. Das Baugewerbe trug 5,6%, der Agrarsektor 5,2% sowie Bergbau und Energieversorgung 4,9% bei. Auffallend ist, dass in Brasilien fast die Hälfte des Bruttoinlandsproduktes (48,2%) in den sonstigen Sektoren (ISIC J-P) entstehen. Dieser Wert ist ähnlich hoch wie in Deutschland und der Schweiz und liegt deutlich über den Werten der anderen lateinamerikanischen Länder. Damit gleicht sich die brasilianische Wirtschaftsstruktur prinzipiell der von postindustriellen Ländern an, auch wenn dem Agrar- und Rohstoffsektor immer noch eine überproportionale Bedeutung zukommt."
+    },
+    "en": {
+      "header": "Formation of the Brazilian Gross Domestic Product, 2017",
+      "sourceCopy": "In 2017, the wholesale, retail and hospitality sectors contributed 16.0% to Brazil's economic output. This was followed by manufacturing with 12.1% and the transport, warehousing and communications sector with 8.0%. Mining and energy supply contributed 4.9%, the construction sector 5.6% and the agricultural sector 5.2%. It is striking that in Brazil, almost half of the gross domestic product (48.2%) is generated in the other sectors (ISIC J-P). This figure is similarly high as in Germany and Switzerland, and is significantly higher than in the other Latin American countries. The Brazilian economic structure is thus in principle similar to that of post-industrial countries, even though the agricultural and raw materials sector still plays a disproportionately important role."
+    },
+    "es": {
+      "header": "Generación del PIB brasileño, 2017",
+      "sourceCopy": "En 2017, el comercio al por mayor y minorista, gastronomía / hotelería contribuyeron con un 16,0% al desempeño económico de Brasil. A éste le siguieron el sector manufacturero con 12,1% y el sector de transporte, almacenamiento y comunicaciones con 8,0%. La minería y el suministro de energía contribuyeron con un 4,9%, la construcción con un 5,6% y la agricultura con un 5,2%. Llama la atención que en Brasil casi la mitad del producto interno bruto (48,2%) se genera en los demás sectores (CIIU J-P). Este valor es similar al de Alemania y Suiza y muy por encima de los otros países latinoamericanos. Por lo tanto, la estructura económica brasileña es, en principio, similar a la de los países post industrializados, incluso a pesar de que el sector agrícola y de materias primas sigue teniendo una relevancia excesiva."
+    },
+    "pt": {
+      "header": "Geração do produto interno bruto do Brasil em 2017",
+      "sourceCopy": "No ano 2017, os setores do atacado e varejo e de hospitalidade contribuíram com 16, 4% do produto interno bruto brasileiro. Logo após veio a indústria de transformação com 12,1% e o setor de transporte, logística e comunicação, com 8,04%. O setor da mineração e do abastecimento energético aportaram 4,9%, a construção 5,6% e o setor agrário 5,2%. Chama a atenção que, no Brasil, quase a metade do produto interno bruto (48,2%) é gerado no setor outros serviços (ISIC J-P). Este valor é similar ao da Alemanha e Suíça, superando claramente os outros países da América Latina. Assim, a estrutura da economia brasileira assemelha-se àquela dos países pós-industriais, mesmo que os setor agropecuário e de matéria prima ainda tenham uma relevância desproporcional."
+    },
+    "source": "United Nations Statistics Division (2019a)"
+  },
+  "data": [
+    {
+      "title": "agriculture",
+      "percentage": 5.2
+    },
+    {
+      "title": "mining",
+      "percentage": 4.9
+    },
+    {
+      "title": "manufacturing",
+      "percentage": 12.1
+    },
+    {
+      "title": "construction",
+      "percentage": 5.6
+    },
+    {
+      "title": "wholesale",
+      "percentage": 16.0
+    },
+    {
+      "title": "traffic",
+      "percentage": 8.0
+    },
+    {
+      "title": "other",
+      "percentage": 48.2
+    }
+  ]
+}

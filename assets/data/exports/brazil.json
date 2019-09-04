@@ -1,0 +1,55 @@
+{
+  "info": {
+    "de": {
+      "header": "Anteil der wichtigsten Ausfuhrgüter an den brasilianischen Gesamtausfuhren, 2017",
+      "sourceCopy": "2017 machten Rohstoffe 28,6% aller brasilianischen Exporte aus, dicht gefolgt von Nahrungsmitteln mit 22,1%. Der Anteil von Maschinen (6,8%) sowie Kfz und -Teile (6,6%) lag dagegen bedeutend niedriger. Die Erdölexporte trugen mit 7,6% zu den Gesamtausfuhren bei. Diese Zahlen belegen, dass die brasilianische Exportwirtschaft stark rohstoffgetrieben ist. Demgegenüber spielt der Export von Industriegütern eine untergeordnete Rolle."
+    },
+    "en": {
+      "header": "Share of main exports in total Brazilian exports, 2017",
+      "sourceCopy": "In 2017, raw materials accounted for 28.6% of all Brazilian exports, closely followed by food with 22.1%. By contrast, the share of machinery (6.8%) and motor vehicles and parts (6.6%) was significantly lower. Oil exports accounted for 7.6% of total exports. These figures prove that the Brazilian export economy is strongly driven by raw materials. In contrast, exports of industrial goods play a subordinate role."
+    },
+    "es": {
+      "header": "Participación de los principales productos al total de las exportaciones brasileñas, 2017",
+      "sourceCopy": "En 2017, las materias primas representaron el 28,6% de todas las exportaciones brasileñas, seguidas de cerca por los alimentos con un 22,1%. Las exportaciones de petróleo representaron el 7,6% de las exportaciones totales. Por el contrario, la participación de máquinas (6,8%) y de automóviles y sus piezas (6,6%) fue significativamente menor.  Estas cifras demuestran que la industria exportadora brasileña es fuertemente impulsada por las materias primas, mientras la exportación de productos manufacturados desempeña un papel subordinado."
+    },
+    "pt": {
+      "header": "Participação dos bens de exportação mais importantes no total das exportações brasileiras em 2017",
+      "sourceCopy": "Em 2017, as matérias-primas aportaram 28,6% de todas as exportações brasileiras, seguido pelos alimentos com 22,1%. As participações de maquinários (6,8%) e automóveis e peças de veículos (6,6%) são muito menores. As exportações de petróleo contribuíram 7,6% do total. Essas cifras demonstram que a economia exportadora brasileira está fortemente impulsada pelas matérias-primas. Em contrapartida, a exportação de bens industriais desempenha um papel menor."
+    },
+    "source": "GTAI (2019)"
+  },
+  "data": [
+    {
+      "title": "rawMaterialsExcPetroleum",
+      "percentage": 28.6
+    },
+    {
+      "title": "food",
+      "percentage": 22.1
+    },
+    {
+      "title": "machines",
+      "percentage": 6.8
+    },
+    {
+      "title": "automotive",
+      "percentage": 6.6
+    },
+    {
+      "title": "petroleum",
+      "percentage": 7.6
+    },
+    {
+      "title": "iron",
+      "percentage": 5.2
+    },
+    {
+      "title": "chemicalProducts",
+      "percentage": 5.5
+    },
+    {
+      "title": "other",
+      "percentage": 17.6
+    }
+  ]
+}

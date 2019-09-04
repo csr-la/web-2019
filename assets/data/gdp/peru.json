@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Entstehung des peruanischen Bruttoinlandsprodukts, 2017",
+      "sourceCopy": "Im Jahr 2017 machten der Groß- und Einzelhandel sowie das Gastgewerbe 16,1% der peruanischen Wirtschaftsleistung aus. Das Verarbeitende Gewerbe trug mit 14,0% und der Bergbau sowie die Energieversorgung mit 12,6% zum Bruttoinlandsprodukt bei. Es folgten die Wirtschaftszweige Verkehr, Lagerhaltung und Kommunikation (9,9%), der Agrarsektor (7,4%) sowie das Baugewerbe (7,2%). Die Daten belegen, dass der Primärsektor, der den Agrar- und Bergbausektor umfasst, eine überdurchschnittlich hohe Bedeutung für die peruanische Wirtschaft hat. Dagegen ist der industrielle Sektor eher unterdurchschnittlich ausgeprägt."
+    },
+    "en": {
+      "header": "Formation of the Peruvian Gross Domestic Product, 2017",
+      "sourceCopy": "In 2017, the wholesale, retail and hospitality sectors accounted for 16.1% of Peru's economic output. Manufacturing contributed 14.0% to the gross domestic product, while mining and energy supply contributed 12.6%. This was followed by transport, warehousing and communications (9.9%), agriculture (7.4%) and construction (7.2%). The data show that the primary sector, which comprises the agricultural and mining sectors, is of above-average importance for the Peruvian economy. On the other hand, the industrial sector tends to be below average."
+    },
+    "es": {
+      "header": "Generación del PIB mexicano, 2017",
+      "sourceCopy": "En 2017, el comercio al por mayor y minorista, gastronomía / hotelería aportaron 16,1% al PIB. La industria manufacturera aportó 14,0% y el sector minería / suministro de energía 12,6%, seguido por transporte, almacenamiento, comunicación (9,9%), agricultura (7,4%) y construcción (7,2%). Estas cifras demuestran que el sector primario, que incluye agricultura y minería, es de extraordinaria importancia para la economía peruana. Por el contrario, la industria está escasamente desarrollada."
+    },
+    "pt": {
+      "header": "Geração do produto interno bruto do Peru em 2017",
+      "sourceCopy": "Em 2017, os setores do comércio no atacado e varejo e da hospitalidade contribuíram com 16,1% da produção econômica do Peru. A indústria de transformação com 14,0% e a mineração e o abastecimento de energia com 12,6% contribuíram com a maior parte da geração do produto interno bruto. Seguem os setores de transporte, logística e comunicação (9,9%), agricultura (7,4%) e a construção (7,2%). Os dados provam que o setor primário, que abrange a agricultura e a mineração, tem uma relevância acima da média para a economia peruana. Em contrapartida, o setor industrial mostra um desenvolvimento abaixo da média."
+    },
+    "source": "United Nations Statistics Division (2019a)"
+  },
+  "data": [
+    {
+      "title": "agriculture",
+      "percentage": 7.4
+    },
+    {
+      "title": "mining",
+      "percentage": 12.6
+    },
+    {
+      "title": "manufacturing",
+      "percentage": 14.0
+    },
+    {
+      "title": "construction",
+      "percentage": 7.2
+    },
+    {
+      "title": "wholesale",
+      "percentage": 16.1
+    },
+    {
+      "title": "traffic",
+      "percentage": 9.9
+    },
+    {
+      "title": "other",
+      "percentage": 32.8
+    }
+  ]
+}

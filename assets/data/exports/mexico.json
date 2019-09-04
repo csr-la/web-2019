@@ -1,0 +1,47 @@
+{
+  "info": {
+    "de": {
+      "header": "Anteil der wichtigsten Ausfuhrgüter an den mexikanischen Gesamtausfuhren, 2018",
+      "sourceCopy": "2018 machten Kraftfahrzeuge und Kfz-Teile 25,6% der mexikanischen Exporte aus, gefolgt von Elektronik (15,5%), Maschinen (9,9%), Elektrotechnik (9,7%) und Nahrungsmitteln (5,9%). Diese Zahlen zeigen, dass die verarbeitende Industrie für die mexikanische Exportwirtschaft von hoher Bedeutung ist."
+    },
+    "en": {
+      "header": "Share of main exports in total Mexican exports, 2018",
+      "sourceCopy": "In 2018, motor vehicles and parts accounted for 25.6% of Mexican exports, followed by electronics (15.5%), machinery (9.9%), electrical engineering (9.7%) and food (5.9%). These figures show that the manufacturing industry is of great importance for Mexican exports."
+    },
+    "es": {
+      "header": "Participación de los principales productos al total de las exportaciones mexicanas, 2018",
+      "sourceCopy": "En 2018, el 25,6% de las exportaciones mexicanas consistió en automóviles y sus piezas, seguido por productos electrónicos  (15,5%), máquinas (9,9%), tecnología electrónica (9,7%) y alimentos (5,9%). Estas cifras demuestran que la industria manufacturera es de alta importancia para las exportaciones mexicanas."
+    },
+    "pt": {
+      "header": "Participação dos bens de exportação mais importantes no total das exportações mexicanas no ano 2018",
+      "sourceCopy": "Em 2018, os automóveis e peças de veículos tinham uma participação do 25,6% das exportações mexicanas, seguido pela eletrônica (15,5%), maquinários (9,9%), eletrotécnica (9,7%) e alimentos (5,9%). Os números demonstram que a indústria de transformação é de grande importância para as exportações do México."
+    },
+    "source": "GTAI (2019)"
+  },
+  "data": [
+    {
+      "title": "automotive",
+      "percentage": 25.6
+    },
+    {
+      "title": "electronics",
+      "percentage": 15.5
+    },
+    {
+      "title": "machines",
+      "percentage": 9.9
+    },
+    {
+      "title": "electricalEngineering",
+      "percentage": 9.7
+    },
+    {
+      "title": "food",
+      "percentage": 5.9
+    },
+    {
+      "title": "other",
+      "percentage": 33.4
+    }
+  ]
+}

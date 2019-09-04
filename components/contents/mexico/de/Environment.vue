@@ -1,0 +1,7 @@
+<template>
+  <div>
+    <p>
+      Das systematische Recycling von gebrauchten Produkten und Materialien ist in Mexiko noch vergleichsweise wenig verbreitet. In den letzten Jahren haben verschiedene Unternehmen damit begonnen Recyclingprogramme einzuführen, die dazu dienen Papier, Verpackungsmaterialien oder Wasserflaschen wie&shy;der&shy;zu&shy;ver&shy;wer&shy;ten. Um die Mitarbeitenden zu motivieren an seinem Recyclingprogramm mitzumachen und gleichzeitig das Arbeitsklima zu verbessern, lobt ein mul&shy;ti&shy;na&shy;ti&shy;o&shy;nal&shy;es Unternehmen im Laufe des Jahres eine Reihe von Wettbewerben aus. Im Rahmen eines dieser Wettbewerbe gewinnt z.B. das Team, das die meisten Plastikflaschen einsammelt, eine Mahlzeit. Die Teams müssen aus vier bis fünf Mitarbeitenden bestehen, die aus unterschiedlichen Unternehmensbereichen stammen. Das führt dazu, dass sich Mitarbeitende für das Thema Recycling engagieren und gleichzeitig bereichsübergreifend kommunizieren und zu&shy;sam&shy;men&shy;ar&shy;bei&shy;ten. Durch Aktionen wie diese sammeln die Mitarbeitenden säckeweise Verpackungsmaterial, die das Unternehmen dann beispielsweise an eine ge&shy;mein&shy;nüt&shy;zige Organisation weiterleitet, die aus dem ausgedienten Material in Handarbeit neue Taschen oder sonstiges Kunsthandwerk herstellt.
+    </p>
+  </div>
+</template>

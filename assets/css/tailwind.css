@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.page-enter-active, .page-leave-active {
+  transition: opacity .35s
+}
+.page-enter, .page-leave-active {
+  opacity: 0
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: all 0.8s ease;
+  overflow: hidden;
+  visibility: visible;
+  opacity: 1;
+  position: absolute;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+  visibility: hidden;
+}

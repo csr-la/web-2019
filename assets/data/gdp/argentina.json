@@ -1,0 +1,51 @@
+{
+  "info": {
+    "de": {
+      "header": "Entstehung des argentinischen Bruttoinlandsprodukts, 2017",
+      "sourceCopy": "2017 steuerten der Groß- und Einzelhandel sowie das Gastgewerbe mit 18,3% sowie das Verarbeitende Gewerbe mit 15,4% die höchsten Einzelanteile zur Entstehung des argentinischen Bruttoinlandsproduktes bei. Gefolgt von den Sektoren Verkehr, Lagerhaltung und Kommunikation (6,7%), Landwirtschaft (6,7%), Bergbau und Energieversorgung (5,50%) sowie dem Baugewerbe (4,9%). Diese Daten machen deutlich, dass im lateinamerikanischen Vergleich sowohl der produzierenden Industrie als auch dem Agrarsektor eine überdurchschnittliche Bedeutung zukommt. Dagegen ist der Bergbausektor in Argentinien gemessen an anderen Ländern der Andenregion schwach ausgeprägt, bietet aber erhebliches Potential (z.B. Lithium)."
+    },
+    "en": {
+      "header": "Formation of the Argentinian Gross Domestic Product, 2017",
+      "sourceCopy": "In 2017, the wholesale, retail trade and hospitality sector contributed the highest individual shares to the emergence of Argentina’s gross domestic product with 18.3% and themanufacturing industry with 15.4%. These are followed by the transportation, warehousing and communications sectors (6.7%) and agriculture (6.7%), miningand energy supply (5.5%) and construction (4.9%). This data makes it clear that both the manufacturing industry and the agricultural sector are of above-average importance in a Latin American comparison. By contrast, the mining sector in Argentina is weak compared to other countries in the Andean region, but offers considerable potential (e.g. lithium)."
+    },
+    "es": {
+      "header": "Generación del PIB argentino, 2017",
+      "sourceCopy": "En 2017, el comercio al por mayor y minorista, así como la gastronomía / hotelería (con un 18,3%) y el sector manufacturero (con un 15,4%), registraron los mayores aportes por segmento al producto interno bruto de Argentina. A éstos les siguen los sectores transporte, almacenamiento y comunicación (6,7%) y agricultura (6,7%), minería, suministro de energía (5,5%) y construcción (4,9%). Estos datos dejan en claro que, en la comparación a nivel latinoamericano, tanto la industria manufacturera como el sector agrícola tienen una importancia superior al promedio. Por el contrario, el sector minero en Argentina es débil en comparación con otros países de la región andina, pero ofrece un potencial considerable (por ejemplo, litio)."
+    },
+    "pt": {
+      "header": "Geração do produto interno bruto da Argentina em 2017",
+      "sourceCopy": "Em 2017 a indústria de transformação, com 15,4%, e o comércio no atacado e varejo e a restauração, com um 18.3%, contribuíram com a maior parte da geração do produto interno bruto argentino. Seguem os setores de transporte, logística e comunicação (6,7%), agricultura (6,7%), mineração e abastecimento energético (5,5%) e construção (4,9%). Estes dados mostram que, na comparação com os países da América Latina, a indústria transformadora e o setor agropecuário têm uma relevância acima da média. O setor da mineração, no entanto, comparado com outros países da região andina, tem menor relevância, mas demonstra um potencial considerável (por exemplo, o lítio)."
+    },
+    "source": "United Nations Statistics Division (2019a)"
+  },
+  "data": [
+    {
+      "title": "agriculture",
+      "percentage": 6.7
+    },
+    {
+      "title": "mining",
+      "percentage": 5.5
+    },
+    {
+      "title": "manufacturing",
+      "percentage": 15.4
+    },
+    {
+      "title": "construction",
+      "percentage": 4.9
+    },
+    {
+      "title": "wholesale",
+      "percentage": 18.3
+    },
+    {
+      "title": "traffic",
+      "percentage": 6.7
+    },
+    {
+      "title": "other",
+      "percentage": 42.5
+    }
+  ]
+}

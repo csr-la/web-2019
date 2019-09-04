@@ -1,0 +1,184 @@
+{
+  "contents": [
+    {
+      "imgPath": "/images/mexico/humanrights.jpg",
+      "title": {
+        "de": "«Bei der unternehmerischen Verantwortung darf es kein Copyright geben»",
+        "en": "«Responsible management must not include copyright»",
+        "es": "«No puede haber copyright en la responsabilidad empresarial»",
+        "pt": "«Na responsabilidade empresarial, não deve existir o copyright»"
+      },
+      "topic": "humanrights",
+      "country": "mexico",
+      "countryUrl": "mex"
+    },
+    {
+      "imgPath": "/images/mexico/environment.jpg",
+      "title": {
+        "de": "«Langfristig betrachtet wird das Günstige teuer»",
+        "en": "«In the long term, the cheap will be expensive»",
+        "es": "«A largo plazo, lo barato sale costoso»",
+        "pt": "«No longo prazo, o barato sai caro»"
+      },
+      "topic": "environment",
+      "country": "mexico",
+      "countryUrl": "mex"
+    },
+    {
+      "imgPath": "/images/mexico/corruption.jpg",
+      "title": {
+        "de": "«Korruption ist ein Krebsgeschwür in Mexiko»",
+        "en": "«Corruption is a cancer in Mexico»",
+        "es": "«La corrupción es un cáncer en México»",
+        "pt": "«A corrupção é um câncer no México»"
+      },
+      "topic": "corruption",
+      "country": "mexico",
+      "countryUrl": "mex"
+    },
+    {
+      "imgPath": "/images/peru/humanrights.jpg",
+      "title": {
+        "de": "«In Peru findet keine ernsthafte Diskussion über Menschenrechte statt»",
+        "en": "«There is no serious discussion of human rights in Peru»",
+        "es": "«En Perú no hay una discusión seria sobre derechos humanos»",
+        "pt": "«No Peru não se discute seriamente sobre os direitos humanos»"
+      },
+      "topic": "humanrights",
+      "country": "peru",
+      "countryUrl": "per"
+    },
+    {
+      "imgPath": "/images/peru/environment.jpg",
+      "title": {
+        "de": "«Alleine sind wir nur eine Kerze, zusammen leuchten wir viel stärker»",
+        "en": "«Alone we are just a candle, together we shine much stronger»",
+        "es": "«Solos, somos solo una vela, juntos brillamos mucho más fuerte»",
+        "pt": "«Sozinho somos só uma vela, juntos iluminamos com muito mais força»"
+      },
+      "topic": "environment",
+      "country": "peru",
+      "countryUrl": "per"
+    },
+    {
+      "imgPath": "/images/peru/corruption.jpg",
+      "title": {
+        "de": "«Korruption verursacht mehr Schäden als eine Naturkatastrophe»",
+        "en": "«Corruption causes more damage than a natural disaster»",
+        "es": "«La corrupción causa más daño que un desastre natural»",
+        "pt": "«A corrupção provoca mais danos do que uma catástrofe natural»"
+      },
+      "topic": "corruption",
+      "country": "peru",
+      "countryUrl": "per"
+    },
+    {
+      "imgPath": "/images/colombia/humanrights.jpg",
+      "title": {
+        "de": "«Kolumbien durchlebte ein trauriges Zeitalter»",
+        "en": "«Colombia went through a sad age»",
+        "es": "«Colombia ha vivido una triste época»",
+        "pt": "«A Colômbia viveu uma era triste»"
+      },
+      "topic": "humanrights",
+      "country": "colombia",
+      "countryUrl": "col"
+    },
+    {
+      "imgPath": "/images/colombia/environment.jpg",
+      "title": {
+        "de": "«Umweltschutz zählt zu den größten Herausforderungen für Kolumbien»",
+        "en": "«Environmental protection is one of the greatest challenges facing Colombia»",
+        "es": "«La protección del medio ambiente es uno de los mayores desafíos para Colombia»",
+        "pt": "«A proteção do meio ambiente é um dos desafios maiores da Colômbia»"
+      },
+      "topic": "environment",
+      "country": "colombia",
+      "countryUrl": "col"
+    },
+    {
+      "imgPath": "/images/colombia/corruption.jpg",
+      "title": {
+        "de": "«Der informelle Sektor ist eine Tragödie für Kolumbien»",
+        "en": "«The informal sector is a tragedy for Colombia»",
+        "es": "«El sector informal es una tragedia para Colombia»",
+        "pt": "«O setor informal é uma tragédia para a Colômbia»"
+      },
+      "topic": "corruption",
+      "country": "colombia",
+      "countryUrl": "col"
+    },
+    {
+      "imgPath": "/images/brazil/humanrights.jpg",
+      "title": {
+        "de": "«Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»",
+        "en": "«Work is not lacking, but there are no jobs»",
+        "es": "«El trabajo no falta, pero no hay empleo»",
+        "pt": "«Trabalho não falta, mas emprego não tem»"
+      },
+      "topic": "humanrights",
+      "country": "brazil",
+      "countryUrl": "bra"
+    },
+    {
+      "imgPath": "/images/brazil/environment.jpg",
+      "title": {
+        "de": "«Nachhaltigkeit muss in das Kerngeschäft integriert werden»",
+        "en": "«Responsible management must be integrated into the core business»",
+        "es": "«La sostenibilidad debe integrarse en el negocio principal»",
+        "pt": "«A sustentabilidade deve estar no coração dos negócios»"
+      },
+      "topic": "environment",
+      "country": "brazil",
+      "countryUrl": "bra"
+    },
+    {
+      "imgPath": "/images/brazil/corruption.jpg",
+      "title": {
+        "de": "«Das Gesetz gilt für alle»",
+        "en": "«The law applies to all»",
+        "es": "«La ley se aplica a todos»",
+        "pt": "«A lei é para todos»"
+      },
+      "topic": "corruption",
+      "country": "brazil",
+      "countryUrl": "bra"
+    },
+    {
+      "imgPath": "/images/argentina/humanrights.jpg",
+      "title": {
+        "de": "«In diesem Land erfährt man nie die ganze Wahrheit»",
+        "en": "«In this country you never learn the whole truth»",
+        "es": "«En este país nunca se sabe toda la verdad»",
+        "pt": "«Neste país nunca se sabe toda a verdade»"
+      },
+      "topic": "humanrights",
+      "country": "argentina",
+      "countryUrl": "arg"
+    },
+    {
+      "imgPath": "/images/argentina/environment.jpg",
+      "title": {
+        "de": "«Wenn die anderen so handeln, wieso ich nicht auch?»",
+        "en": "«If the others act like this, why can’t I?»",
+        "es": "«Si los demás actúan de esa manera, ¿por qué yo no?»",
+        "pt": "«Se os outros agem desta forma, por que eu deveria fazer diferente?»"
+      },
+      "topic": "environment",
+      "country": "argentina",
+      "countryUrl": "arg"
+    },
+    {
+      "imgPath": "/images/argentina/corruption.jpg",
+      "title": {
+        "de": "«It takes two to tango»",
+        "en": "«It takes two to tango»",
+        "es": "«It takes two to tango»",
+        "pt": "«It takes two to tango»"
+      },
+      "topic": "corruption",
+      "country": "argentina",
+      "countryUrl": "arg"
+    }
+  ]
+}
