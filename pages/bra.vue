@@ -86,7 +86,7 @@ export default {
       gdpData: gdp,
       exportsData: exports,
       headerImg: "/images/brazil/header.jpg",
-      bgPosition: "bg-top",
+      bgPosition: "bg-top-left",
       iconData: {
         elevation: "1'172",
         gdp: "8'650",
