@@ -1,3 +1,17 @@
 /  /en  302  Language=en
 /  /es  302  Language=es
 /  /pt  302  Language=pt
+
+/de             /
+/de#chapter     /#chapter
+/de/int         /int
+/de/mex         /mex
+/de/per         /per
+/de/col         /col
+/de/bra         /bra
+/de/arg         /arg
+/de/conc        /conc
+/de/rec         /rec
+/de/dia         /dia
+/de/fue         /fue
+/de/cre         /cre
