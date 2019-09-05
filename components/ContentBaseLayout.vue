@@ -11,7 +11,7 @@
                 {{ $t('pages.' + page) }}
               </h1>
             </div>
-            <div class="copytext px-6 sm:px-10 md:px-20 py-20 rounded-b bg-white shadow-md">
+            <div class="copytext px-6 sm:px-10 md:px-20 py-10 sm:py-20 rounded-b bg-white shadow-md">
               <HeaderIcons v-if="country" :color="color" :page="page" :iconData="iconData"/>
               <div :class="[{ 'mx-auto': !country }]" class="xl:w-148">
                 <h2 v-if="country" class="uppercase tracking-widest text-lg" id="introduction">{{ $t('sections.introduction') }}</h2>
