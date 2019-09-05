@@ -5,7 +5,7 @@
     </template>
     <template v-slot:intro>
       <div>
-        <span class="block font-bold text-2xl leading-tight">{{ $t('imprint.author') }}</span>
+        <span class="block font-bold text-xl sm:text-2xl leading-tight">{{ $t('imprint.author') }}</span>
         <p class="mt-1">
           Christian Hauser<br>
           Schweizerisches Institut für Entrepreneurship (SIFE)<br>
@@ -13,13 +13,13 @@
           Comercialstrasse 22<br>
           CH-7000 Chur<br>
         </p>
-        <span class="mt-5 block font-bold text-2xl leading-tight">{{ $t('imprint.interviews') }}</span>
+        <span class="mt-5 block font-bold text-xl sm:text-2xl leading-tight">{{ $t('imprint.interviews') }}</span>
         <p class="mt-1">Christian Hauser, Carolin Deiner</p>
-        <span class="mt-5 block font-bold text-2xl leading-tight">{{ $t('imprint.editing') }}</span>
+        <span class="mt-5 block font-bold text-xl sm:text-2xl leading-tight">{{ $t('imprint.editing') }}</span>
         <p class="mt-1">Mary Leidescher</p>
-        <span class="mt-5 block font-bold text-2xl leading-tight">{{ $t('imprint.concept') }}</span>
+        <span class="mt-5 block font-bold text-xl sm:text-2xl leading-tight">{{ $t('imprint.concept') }}</span>
         <p class="mt-1">Myriam Frisano, Pascal Hanimann, Olivia Kasper, Ramon Kratzer, Jeremy Marugan, Damian Schurtenberger, Giada Zacheo</p>
-        <span class="mt-5 block font-bold text-2xl leading-tight">{{ $t('imprint.partner') }}</span>
+        <span class="mt-5 block font-bold text-xl sm:text-2xl leading-tight">{{ $t('imprint.partner') }}</span>
         <div class="mt-4 clearfix">
           <img class="md:mr-4 w-64 md:float-left" src="/images/imprint/konrad-adenauer-stiftung.png">
           <p class="mt-2 md:mt-0">{{ $t('imprint.sopla') }}</p>

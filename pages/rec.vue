@@ -41,7 +41,13 @@ export default {
 
 <style lang="postcss">
   .subtitle {
-    @apply block font-sans font-bold text-2xl mt-10;
+    @apply block font-sans font-bold text-xl mt-10;
+  }
+
+  @screen sm {
+    .subtitle {
+      @apply text-2xl;
+    }
   }
 
   .subitem {
