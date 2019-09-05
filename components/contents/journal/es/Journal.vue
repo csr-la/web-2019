@@ -713,8 +713,8 @@
 </template>
 
 <script>
-import JournalCard from '@/components/JournalCard'
-import JournalCardItem from '@/components/JournalCardItem'
+import JournalCard from '@/components/journal/JournalCard'
+import JournalCardItem from '@/components/journal/JournalCardItem'
 import ImageSlider from '@/components/ImageSlider'
 
 export default {

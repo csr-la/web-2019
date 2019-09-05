@@ -1,5 +1,5 @@
 import Vue from "vue";
-import IconBase from "@/components/IconBase";
+import IconBase from "@/components/common/IconBase";
 import IconMenu from "@/components/icons/IconMenu";
 import IconAltitude from "@/components/icons/IconAltitude";
 import IconMoney from "@/components/icons/IconMoney";
@@ -29,8 +29,8 @@ import IconArgentina from "@/components/icons/IconArgentina";
 import SideTable from "@/components/SideTable";
 import ImageSlider from "@/components/ImageSlider";
 import VideoCard from "@/components/VideoCard";
-import PageNavBtn from "@/components/PageNavBtn";
-import FloatingMenu from "@/components/FloatingMenu";
+import PageNavBtn from "@/components/common/PageNavBtn";
+import FloatingMenu from "@/components/common/FloatingMenu";
 
 Vue.component("IconBase", IconBase);
 Vue.component("IconMenu", IconMenu);

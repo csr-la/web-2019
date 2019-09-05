@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import FooterContent from '@/components/FooterContent'
-import ScrollToTop from '@/components/ScrollToTop'
+import FooterContent from '@/components/common/FooterContent'
+import ScrollToTop from '@/components/common/ScrollToTop'
 
 export default {
   components: {

@@ -82,7 +82,7 @@
 </template>
 
 <script>
-import ImageHomeHeader from '@/components/ImageHomeHeader'
+import ImageHomeHeader from '@/components/home/ImageHomeHeader'
 import HomeInfo from '@/components/home/HomeInfo'
 import contents from '~/assets/data/contents.json'
 
