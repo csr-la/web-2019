@@ -240,11 +240,12 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="8" month="august" country="peru">
-        <img class="pt-8" src="/images/journal/peru/2017-08-08.jpg">
+        <img class="pt-8" src="/images/journal/peru/2017-08-08_01.jpg">
         <div class="p-8">
           <p>Today we take part in the international conference on the fight against corruption organised by the <a href="http://www.kas.de/peru/" target="_blank">Konrad Adenauer Foundation</a> and the Peruvian <a href="https://www.minjus.gob.pe/" target="_blank">Ministry of Justice and Human Rights</a>. Since we are now regarded as representatives of the German Embassy, we are given preferential access.</p>
           <p class="pt-5">The Peruvian government has declared that it intends to take tough action against corruption. This is made clear by President Pedro Pablo Kuczynski in February 2017 in a television address on the corruption scandal surrounding the Brazilian construction company Odebrecht in Peru and he names the concrete measures his government is taking to prevent corruption:</p>
         </div>
+        <img class="pb-8" src="/images/journal/peru/2017-08-08_02.jpg">
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="9" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-09_01.jpg">

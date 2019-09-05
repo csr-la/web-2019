@@ -240,11 +240,12 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="8" month="august" country="peru">
-        <img class="pt-8" src="/images/journal/peru/2017-08-08.jpg">
+        <img class="pt-8" src="/images/journal/peru/2017-08-08_01.jpg">
         <div class="p-8">
           <p>Hoje participamos na conferência internacional O combate contra a corrupção, organizada pela <a href="http://www.kas.de/peru/" target="_blank">Fundação Konrad Adenauer</a> e o Ministério de <a href="https://www.minjus.gob.pe/" target="_blank">Justiça e Direitos Humanos</a> do Peru. Confundiram-nos com representantes da Embaixada da Alemanha, portanto, conseguimos acesso preferencial.</p>
           <p class="pt-5">O governo peruano declarou o seu propósito de combater a corrupção com toda firmeza. Em fevereiro de 2017, num discurso televisivo sobre o escândalo de corrupção com a empresa de construção brasileira Odebrecht no Peru, o presidente Pedro Pablo Kuczynski salientou essa atitude e indicou as medidas concretas de prevenção da corrupção do seu governo:</p>
         </div>
+        <img class="pb-8" src="/images/journal/peru/2017-08-08_02.jpg">
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="9" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-09_01.jpg">

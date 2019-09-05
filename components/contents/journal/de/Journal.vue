@@ -240,11 +240,12 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="8" month="august" country="peru">
-        <img class="pt-8" src="/images/journal/peru/2017-08-08.jpg">
+        <img class="pt-8" src="/images/journal/peru/2017-08-08_01.jpg">
         <div class="p-8">
           <p>Heute nehmen wir an der internationalen Konferenz zum Thema «Kampf gegen die Korruption» teil, die von der <a href="http://www.kas.de/peru/" target="_blank">Konrad-Adenauer-Stiftung</a> und dem peruanischen <a href="https://www.minjus.gob.pe/" target="_blank">Ministerium für Justiz und Menschenrechte</a> veranstaltet wird. Da wir zwischenzeitlich für Repräsentanten der deutschen Botschaft gehalten werden, erhalten wir bevorzugten Zutritt.</p>
           <p class="pt-5">Die peruanische Regierung hat erklärt mit aller Härte gegen Korruption vorgehen zu wollen. Dies macht Präsident Pedro Pablo Kuczynski im Februar 2017 in einer Fernsehansprache zum Korruptionsskandal um den brasilianischen Baukonzern Odebrecht in Peru deutlich und benennt die konkreten Maßnahmen seiner Regierung zur Korruptionsprävention:</p>
         </div>
+        <img class="pb-8" src="/images/journal/peru/2017-08-08_02.jpg">
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="9" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-09_01.jpg">
