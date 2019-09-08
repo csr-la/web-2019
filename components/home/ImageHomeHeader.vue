@@ -4,7 +4,7 @@
       <div v-lazy:background-image="imgUrl" :class="bgPosition" class="bg-gray-400 bg-no-repeat h-screen bg-cover bg-center xl:bg-right overflow-hidden lg:fixed h-full w-full transition-all transition-250 transition-ease-in-out">
         <div class="w-full h-full bg-black-t-30 md:bg-black-t-20"></div>
       </div>
-      <div class="absolute bottom-14p right-0 mx-4 lg:ml-0 lg:mr-20 antialiased">
+      <div class="absolute bottom-20p sm:bottom-14p right-0 mx-4 lg:ml-0 lg:mr-20 antialiased">
         <h1 class="site-title leading-tight text-right text-white font-bold text-2xl sm:text-4xl lg:text-5xl" v-html="$t('siteTitle')"></h1>
         <p class="mt-3 text-right text-white font-bold text-sm sm:text-base uppercase tracking-widest" v-html="$t('siteSubTitle')"></p>
       </div>
