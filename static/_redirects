@@ -15,3 +15,5 @@
 /de/dia         /dia
 /de/fue         /fue
 /de/cre         /cre
+
+https://csr-la.netlify.com/* https://csr-la.net/:splat 301!
