@@ -366,7 +366,7 @@
         <p class="p-8">Brasilien qualifiziert sich als eines der ersten Länder für die Fußballweltmeisterschaft 2018 in Russland. Das heutige 2:0 gegen Ecuador ist der 9. Sieg in Folge in der WM-Qualifikation.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="1" month="september" country="brazil">
-        <p class="p-8">Besuch im <a href="https://www.allianceforintegrity.org/de/regionen/brasilien/" target="_blank">Regionalbüro für Lateinamerika der Allianz für Integrität</a> in São Paulo. Die globale Multi-Stakeholder Initiative unterstützt mich durch die Vermittlung von Gesprächspartnern aktiv bei der Durchführung des Forschungsprojektes. Herzlichen Dank!</p>
+        <p class="p-8">Besuch im <a href="https://www.allianceforintegrity.org/" target="_blank">Regionalbüro für Lateinamerika der Allianz für Integrität</a> in São Paulo. Die globale Multi-Stakeholder Initiative unterstützt mich durch die Vermittlung von Gesprächspartnern aktiv bei der Durchführung des Forschungsprojektes. Herzlichen Dank!</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">

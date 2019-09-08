@@ -366,7 +366,7 @@
         <p class="p-8">Brasil califica como uno de los primeros países a la Copa Mundial 2018 en Rusia. El triunfo 2:0 de hoy contra Ecuador es la novena victoria consecutiva en las eliminatorias para la Copa Mundial.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="1" month="september" country="brazil">
-        <p class="p-8">Visita a la <a href="https://www.allianceforintegrity.org/de/regionen/brasilien/" target="_blank">Oficina para América Latina de la Alianza para la Integridad</a> en São Paulo. La iniciativa global de múltiples partes interesadas me apoya activamente en la implementación del proyecto de investigación a través de la mediación de interlocutores. ¡Muchísima gracias!</p>
+        <p class="p-8">Visita a la <a href="https://www.allianceforintegrity.org/" target="_blank">Oficina para América Latina de la Alianza para la Integridad</a> en São Paulo. La iniciativa global de múltiples partes interesadas me apoya activamente en la implementación del proyecto de investigación a través de la mediación de interlocutores. ¡Muchísima gracias!</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">

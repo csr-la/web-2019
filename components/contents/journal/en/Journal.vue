@@ -366,7 +366,7 @@
         <p class="p-8">Brazil is one of the first countries to qualify for the 2018 FIFA World Cup in Russia. Today's 2:0 against Ecuador is the 9th victory in a row in the World Cup qualification.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="1" month="september" country="brazil">
-        <p class="p-8">Visit to the Latin American Regional Office of the <a href="https://www.allianceforintegrity.org/de/regionen/brasilien/" target="_blank">Alliance for Integrity</a> in São Paulo. The global multi-stakeholder initiative actively supports me in the implementation of the research project by arranging dialogue partners. Thank you very much!</p>
+        <p class="p-8">Visit to the Latin American Regional Office of the <a href="https://www.allianceforintegrity.org/" target="_blank">Alliance for Integrity</a> in São Paulo. The global multi-stakeholder initiative actively supports me in the implementation of the research project by arranging dialogue partners. Thank you very much!</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">
@@ -441,7 +441,7 @@
         <img src="/images/journal/brazil/2017-09-17_01.jpg">
         <p class="p-8">In the in-flight magazine of Latin America's largest airline LATAM, Baiersbronn in the Black Forest in Germany is recommended as one of the world's six most romantic places to spend a honeymoon.</p>
         <img class="px-8 max-h-9 mx-auto" src="/images/journal/brazil/2017-09-17_02.jpg">
-        <p class="p-8">In the evening we have coconut with sugar loaf. Delicious ;-)</p>
+        <p class="p-8">In the evening I have coconut with Sugarloaf. Delicious ;-)</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="18" month="september" country="brazil">
         <p class="p-8">The economic crisis has hit Rio de Janeiro hard. Many try to supplement their salaries with apps like Uber or earn their entire livelihood with them. As the saying goes: "Está faltando emprego, mas não está faltando trabalho" ("There is work, but there are no jobs").</p>

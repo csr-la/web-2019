@@ -366,7 +366,7 @@
         <p class="p-8">O Brasil foi um dos primeiros países a se classificar para a Copa do Mundo 2018 na Rússia. O 2 a 0 de hoje contra Equador é a 9ª vitória consecutiva nas eliminatórias da Copa do Mundo.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="1" month="september" country="brazil">
-        <p class="p-8">Visita no escritório regional para a <a href="https://www.allianceforintegrity.org/de/regionen/brasilien/" target="_blank">América Latina da Aliança para a Integridade</a> em São Paulo. Recebo o apoio ativo da Multi-Stakeholder Initiative global para meu projeto de pesquisa através da apresentação de entrevistados. Muito obrigado!</p>
+        <p class="p-8">Visita no escritório regional para a <a href="https://www.allianceforintegrity.org/" target="_blank">América Latina da Aliança para a Integridade</a> em São Paulo. Recebo o apoio ativo da Multi-Stakeholder Initiative global para meu projeto de pesquisa através da apresentação de entrevistados. Muito obrigado!</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">
