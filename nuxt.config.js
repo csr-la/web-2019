@@ -25,10 +25,10 @@ export default {
    */
   webfontloader: {
     custom: {
-      families: ["Crimson Text:n4,n7", "Roboto:n4,n7"],
+      families: ["Crimson Text:n4,n7", "Nunito Sans:n4,n7"],
       urls: [
         "https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap",
-        "https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap"
+        "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap"
       ]
     }
   },

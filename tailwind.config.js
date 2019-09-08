@@ -7,7 +7,7 @@
 module.exports = {
   theme: {
     fontFamily: {
-      sans: ["Roboto", "sans-serif"],
+      sans: ["Nunito\\ Sans", "sans-serif"],
       serif: ["Crimson\\ Text", "serif"]
     },
     extend: {
