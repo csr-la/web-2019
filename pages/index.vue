@@ -57,7 +57,7 @@
                     </div>
                   </div>
                   <transition-group name="contents" tag="div" class="-mx-4 px-6 sm:px-10 md:px-20 pb-20 sm:flex sm:flex-wrap">
-                    <div v-for="item in contentsData.contents" :key="item.title.en" v-show="countryFilter[item.country] && topicFilter[item.topic]" class="contents-item max-w-full lg:w-1/2 xl:w-1/3 p-4">
+                    <div v-for="item in contentsData.contents" :key="item.title.en" v-show="countryFilter[item.country] && topicFilter[item.topic]" class="contents-item w-full lg:w-1/2 xl:w-1/3 p-4">
                       <nuxt-link :to="localePath({name: item.countryUrl, hash: '#' + item.topic})" class="block h-full bg-gray-200 rounded overflow-hidden block sm:flex sm:flex-col shadow hover:shadow-lg hover:scale-102 transition-all transition-100 transition-ease-in-out antialiased">
                         <img v-lazy="item.imgPath" class="sm:flex-shrink-0">
                         <div class="sm:flex sm:flex-col sm:h-full sm:justify-between">
