@@ -1,11 +1,11 @@
 <template>
   <div :class="'page-' + page">
     <FloatingMenu :active="page"/>
-    <ImageHeader v-if="hasImageHeader" :imgUrl="headerImg" :bgPosition="bgPosition"/>
-    <div class="bg-gray-200 relative" :class="[{ 'pt-4': !hasImageHeader && !country }]">
-      <div :class="[hasImageHeader ? 'lg:pt-px' : 'pt-16 sm:pt-0']" class="relative mt-4 md:mt-8 lg:mt-0 z-20">
+    <ImageHeader :imgUrl="headerImg" :bgPosition="bgPosition"/>
+    <div class="bg-gray-200 relative">
+      <div class="lg:pt-px relative mt-4 md:mt-8 lg:mt-0 z-20">
         <div class="container mx-auto">
-          <main :class="[hasImageHeader ? 'lg:-mt-24-25' : '']" class="main-content mx-2 lg:w-10/12 lg:mx-auto z-10">
+          <main class="main-content lg:-mt-24-25 mx-2 lg:w-10/12 lg:mx-auto z-10">
             <div :class="'bg-' + color + '-500'" class="h-24 px-6 sm:px-10 md:px-20 py-3 rounded-t flex items-center">
               <h1 class="text-white uppercase font-bold text-3xl sm:text-5xl">
                 {{ $t('pages.' + page) }}
@@ -15,7 +15,7 @@
               <HeaderIcons v-if="country" :color="color" :page="page" :iconData="iconData"/>
               <div :class="[{ 'mx-auto': !country }]" class="xl:w-148">
                 <h2 v-if="country" class="uppercase tracking-widest text-lg" id="introduction">{{ $t('sections.introduction') }}</h2>
-                <span v-if="hasImageHeader" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="$t('contentTitles.' + page)"></span>
+                <span v-if="country" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="$t('contentTitles.' + page)"></span>
                 <slot name="intro"></slot>
               </div>
               <div v-if="country" id="humanrights" class="relative bg-gray-400 mt-16 mb-12 -mx-6 sm:-mx-10 md:-mx-20" style="padding-bottom: 40%">
@@ -100,9 +100,6 @@ export default {
     color: {},
     bgPosition: {},
     country: {
-      default: true
-    },
-    hasImageHeader: {
       default: true
     },
     iconData: {}

@@ -1,5 +1,5 @@
 <template>
-  <ContentBaseLayout :page="page" :color="color" :country="false" :hasImageHeader="false">
+  <ContentBaseLayout :page="page" :color="color" :headerImg="headerImg" :bgPosition="bgPosition" :country="false">
     <template v-slot:prev-btn>
       <PageNavBtn link="fue" icon="prev" color="base-blue"/>
     </template>
@@ -42,6 +42,8 @@ export default {
     return {
       page: "imprint",
       color: "base-blue",
+      headerImg: "/images/imprint/header.jpg",
+      bgPosition: "bg-center",
     }
   }
 }
