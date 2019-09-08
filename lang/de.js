@@ -72,7 +72,7 @@ export default {
     language: "Sprache",
     menu: "Menü",
     interviewWith: "Interview mit",
-    conclusionVideo: "Fazitaufsager Video",
+    conclusionVideo: "Fazit-Video",
     close: "Schliessen"
   },
   gdp: {
