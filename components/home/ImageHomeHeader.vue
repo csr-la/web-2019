@@ -6,7 +6,7 @@
       </div>
       <div class="absolute bottom-20p sm:bottom-14p right-0 mx-4 lg:ml-0 lg:mr-20 antialiased">
         <h1 class="site-title leading-tight text-right text-white font-bold text-2xl sm:text-4xl lg:text-5xl" v-html="$t('siteTitle')"></h1>
-        <p class="mt-3 text-right text-white font-bold text-sm sm:text-base uppercase tracking-widest" v-html="$t('siteSubTitle')"></p>
+        <p class="mt-3 text-right text-white font-bold text-sm sm:text-base uppercase tracking-wider" v-html="$t('siteSubTitle')"></p>
       </div>
       <div class="fixed bottom-0 mb-2 w-10 rounded-full mx-auto left-0 right-0 text-white">
         <a href="#main" v-scroll-to="'#main'">

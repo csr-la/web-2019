@@ -14,7 +14,7 @@
             <div class="copytext px-6 sm:px-10 md:px-20 py-10 sm:py-20 rounded-b bg-white shadow-md">
               <HeaderIcons v-if="country" :color="color" :page="page" :iconData="iconData"/>
               <div :class="[{ 'mx-auto': !country }]" class="xl:w-148">
-                <h2 v-if="country" class="uppercase tracking-widest text-lg" id="introduction">{{ $t('sections.introduction') }}</h2>
+                <h2 v-if="country" class="uppercase tracking-wider text-lg" id="introduction">{{ $t('sections.introduction') }}</h2>
                 <span v-if="country" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="$t('contentTitles.' + page)"></span>
                 <slot name="intro"></slot>
               </div>
@@ -22,7 +22,7 @@
                 <img v-lazy="humanRightsImg" :alt="$t('sections.humanrights')" class="absolute h-full w-full object-cover">
               </div>
               <div v-if="country" class="xl:w-148">
-                <h2 class="uppercase tracking-widest text-lg">{{ $t('sections.humanrights') }}</h2>
+                <h2 class="uppercase tracking-wider text-lg">{{ $t('sections.humanrights') }}</h2>
                 <span class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="humanRightsTitle"></span>
                 <div class="xl:flex">
                   <div class="xl:w-148 xl:flex-none">
@@ -37,7 +37,7 @@
                 <img v-lazy="environmentImg" :alt="$t('sections.environment')" class="absolute h-full w-full object-cover">
               </div>
               <div v-if="country" class="xl:w-148">
-                <h2 class="uppercase tracking-widest text-lg">{{ $t('sections.environment') }}</h2>
+                <h2 class="uppercase tracking-wider text-lg">{{ $t('sections.environment') }}</h2>
                 <span class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="environmentTitle"></span>
                 <div class="xl:flex">
                   <div class="xl:w-148 xl:flex-none">
@@ -52,7 +52,7 @@
                 <img v-lazy="corruptionImg" :alt="$t('sections.corruption')" class="absolute h-full w-full object-cover">
               </div>
               <div v-if="country" class="xl:w-148">
-                <h2 class="uppercase tracking-widest text-lg">{{ $t('sections.corruption') }}</h2>
+                <h2 class="uppercase tracking-wider text-lg">{{ $t('sections.corruption') }}</h2>
                 <span class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="corruptionTitle"></span>
                 <div class="xl:flex">
                   <div class="xl:w-148 xl:flex-none">
@@ -64,10 +64,10 @@
                 </div>
               </div>
               <div v-if="country" class="mt-16">
-                <h2 class="xl:mt-0 uppercase tracking-widest text-lg" id="conclusion">{{ $t('sections.conclusion') }}</h2>
+                <h2 class="xl:mt-0 uppercase tracking-wider text-lg" id="conclusion">{{ $t('sections.conclusion') }}</h2>
                 <slot name="conclusion-video"></slot>
               </div>
-              <h2 v-if="country" class="mt-16 uppercase tracking-widest text-lg">{{ $t('sections.map') }}</h2>
+              <h2 v-if="country" class="mt-16 uppercase tracking-wider text-lg">{{ $t('sections.map') }}</h2>
               <span v-if="country" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128">{{ $t('sections.interviewsConducted') }}</span>
               <div v-if="country" class="mt-8 relative -mx-6 sm:-mx-10 md:-mx-20">
                 <slot name="map-iframe"></slot>
