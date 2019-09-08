@@ -15,21 +15,16 @@ export default {
         content: process.env.npm_package_description || ""
       }
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      {
+        rel: "stylesheet",
+        href:
+          "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700|DM+Sans:400,700&display=swap"
+      }
+    ],
     bodyAttrs: {
       class: "bg-gray-200"
-    }
-  },
-  /*
-   ** Nuxt Webfontloader
-   */
-  webfontloader: {
-    custom: {
-      families: ["Crimson Text:n4,n7", "DM Sans:n4,n7"],
-      urls: [
-        "https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap",
-        "https://fonts.googleapis.com/css?family=DM+Sans:400,700&display=swap"
-      ]
     }
   },
   /*
@@ -75,7 +70,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ["nuxt-i18n", "vue-scrollto/nuxt", "nuxt-webfontloader"],
+  modules: ["nuxt-i18n", "vue-scrollto/nuxt"],
   devModules: ["@nuxtjs/tailwindcss"],
   /*
    ** i18n options
