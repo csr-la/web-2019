@@ -95,7 +95,7 @@ export default {
    */
   i18n: {
     lazy: true,
-    baseUrl: "https://csr-la.net/",
+    baseUrl: "https://csr-la.net",
     locales: [
       { code: "de", iso: "de-DE", file: "de.js" },
       { code: "en", iso: "en-US", file: "en.js" },
