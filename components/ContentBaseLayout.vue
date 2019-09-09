@@ -15,7 +15,7 @@
               <HeaderIcons v-if="country" :color="color" :page="page" :iconData="iconData"/>
               <div :class="[{ 'mx-auto': !country }]" class="xl:w-148">
                 <h2 v-if="country" class="uppercase tracking-wider text-lg" id="introduction">{{ $t('sections.introduction') }}</h2>
-                <span v-if="country" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="$t('contentTitles.' + page)"></span>
+                <span v-if="contentTitles" class="mt-2 inline-block font-bold text-2xl sm:text-3xl leading-tight md:w-128" v-html="$t('contentTitles.' + page)"></span>
                 <slot name="intro"></slot>
               </div>
               <div v-if="country" id="humanrights" class="relative bg-gray-400 mt-16 mb-12 -mx-6 sm:-mx-10 md:-mx-20" style="padding-bottom: 40%">
@@ -100,6 +100,9 @@ export default {
     color: {},
     bgPosition: {},
     country: {
+      default: true
+    },
+    contentTitles: {
       default: true
     },
     iconData: {}

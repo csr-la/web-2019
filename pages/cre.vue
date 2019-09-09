@@ -1,5 +1,5 @@
 <template>
-  <ContentBaseLayout :page="page" :color="color" :headerImg="headerImg" :bgPosition="bgPosition" :country="false">
+  <ContentBaseLayout :page="page" :color="color" :headerImg="headerImg" :bgPosition="bgPosition" :country="false" :contentTitles="false">
     <template v-slot:prev-btn>
       <PageNavBtn link="fue" icon="prev" color="base-blue"/>
     </template>
