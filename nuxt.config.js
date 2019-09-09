@@ -75,14 +75,27 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ["nuxt-i18n", "vue-scrollto/nuxt", "nuxt-webfontloader"],
+  modules: [
+    "nuxt-i18n",
+    "vue-scrollto/nuxt",
+    "nuxt-webfontloader",
+    "@nuxtjs/sitemap"
+  ],
   devModules: ["@nuxtjs/tailwindcss"],
+  /*
+   ** Sitemap Module
+   */
+  sitemap: {
+    hostname: "https://csr-la.net/",
+    gzip: true,
+    routes: []
+  },
   /*
    ** i18n options
    */
   i18n: {
     lazy: true,
-    baseUrl: "https://preview-csrla-w5ca2b.netlify.com/",
+    baseUrl: "https://csr-la.net/",
     locales: [
       { code: "de", iso: "de-DE", file: "de.js" },
       { code: "en", iso: "en-US", file: "en.js" },
