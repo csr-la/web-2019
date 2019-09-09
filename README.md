@@ -2,6 +2,10 @@
 
 > Verantwortungsvolle Unternehmensführung in Lateinamerika
 
+## Netlify Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0dfaafd-9a1e-4b48-9703-02666d9d36d4/deploy-status)](https://app.netlify.com/sites/csr-la/deploys)
+
 ## Build Setup
 
 ``` bash
@@ -20,3 +24,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Dokumentation
+
+Detaillierte Beschreibung der Site im [Wiki](https://github.com/csr-la/web-2019/wiki).
