@@ -47,6 +47,11 @@ export default {
       headerImg: "/images/journal/header.jpg",
       bgPosition: "bg-top",
     }
+  },
+  head () {
+    return { 
+      title: this.$t('siteTitleTemplate') + this.$t('pages.' + this.page),
+    }
   }
 }
 </script>

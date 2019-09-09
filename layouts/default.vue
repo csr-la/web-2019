@@ -15,11 +15,10 @@ export default {
     FooterContent,
     ScrollToTop
   },
-  props: ['active'],
   head () {
     const i18nSeo = this.$nuxtI18nSeo()
     return { 
-      title: this.$t('siteTitleClean'),
+      title: this.$t('siteTitleTemplate') + this.$t('siteTitleClean'),
       meta: [
         {
           hid: 'description',

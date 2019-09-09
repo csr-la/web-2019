@@ -145,6 +145,11 @@ export default {
     if(this.$route.hash) {
       this.$scrollTo(this.$route.hash, 300)
     }
+  },
+  head () {
+    return { 
+      title: this.$t('siteTitleTemplate') + this.$t('pages.' + this.page),
+    }
   }
 }
 </script>
