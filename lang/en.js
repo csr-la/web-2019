@@ -1,6 +1,6 @@
 export default {
   siteTitle: "Responsible Management<br>in Latin America",
-  siteTitleClean: "Responsible Management in Latin America",
+  siteTitleClean: "CSR-LA | Responsible Management in Latin America",
   metaDescription:
     "Scientific studies on responsible management in Latin America are scarce",
   siteSubTitle: "Christian Hauser",

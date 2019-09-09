@@ -1,6 +1,6 @@
 export default {
   siteTitle: "Gestión empresarial responsable<br>en América Latina",
-  siteTitleClean: "Gestión empresarial responsable en América Latina",
+  siteTitleClean: "CSR-LA | Gestión empresarial responsable en América Latina",
   metaDescription:
     "Investigaciones científicas sobre la gestión responsable de empresas son escasas en América Latina",
   siteSubTitle: "Christian Hauser",
