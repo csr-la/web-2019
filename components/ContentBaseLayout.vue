@@ -210,6 +210,6 @@ export default {
     content: counter(sidestory,upper-roman);
     counter-increment: sidestory;
     transform: translateX(-100%);
-    @apply -ml-1 absolute text-xs text-right text-gray-500;
+    @apply -ml-1 absolute font-sans text-xxs text-right text-gray-500 leading-loose;
   }
 </style>
