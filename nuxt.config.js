@@ -105,7 +105,9 @@ export default {
     langDir: "lang/",
     defaultLocale: "en",
     seo: true,
-    detectBrowserLanguage: false
+    detectBrowserLanguage: {
+      useCookie: false
+    }
   },
   /*
    ** Build configuration
