@@ -1,19 +1,19 @@
-/  /en  302  Language=en
+/  /de  302  Language=de
 /  /es  302  Language=es
 /  /pt  302  Language=pt
 
-/de             /
-/de#chapter     /#chapter
-/de/int         /int
-/de/mex         /mex
-/de/per         /per
-/de/col         /col
-/de/bra         /bra
-/de/arg         /arg
-/de/conc        /conc
-/de/rec         /rec
-/de/dia         /dia
-/de/fue         /fue
-/de/cre         /cre
+/en             /
+/en#chapter     /#chapter
+/en/int         /int
+/en/mex         /mex
+/en/per         /per
+/en/col         /col
+/en/bra         /bra
+/en/arg         /arg
+/en/conc        /conc
+/en/rec         /rec
+/en/dia         /dia
+/en/fue         /fue
+/en/cre         /cre
 
 https://csr-la.netlify.com/* https://csr-la.net/:splat 301!

@@ -103,7 +103,7 @@ export default {
       { code: "pt", iso: "pt-PT", file: "pt.js" }
     ],
     langDir: "lang/",
-    defaultLocale: "de",
+    defaultLocale: "en",
     seo: true,
     detectBrowserLanguage: false
   },
