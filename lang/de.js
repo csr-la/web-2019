@@ -3,7 +3,7 @@ export default {
   siteTitleClean: "Verantwortungsvolle Unternehmensführung in Lateinamerika",
   siteTitleTemplate: "CSR-LA | ",
   metaDescription:
-    "Dieses Projekt untersucht, mit welchen Herausforderungen Unternehmen in Lateinamerika in den Handlungsfeldern Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption konfrontiert sind und wie sie eine verantwortungsvolle Unternehmensführung in diesen drei Bereichen konkret ausgestalten.",
+    "Die Studie beleuchtet verantwortungsvolle Unternehmensführung in Lateinamerika in den Bereichen Menschenrechte, Arbeitsbedingungen, Umwelt und Korruption.",
   siteSubTitle: "Christian Hauser",
   pages: {
     home: "Home",

@@ -3,7 +3,7 @@ export default {
   siteTitleClean: "Gestão responsável de empresas na América Latina",
   siteTitleTemplate: "CSR-LA | ",
   metaDescription:
-    "Existem poucas pesquisas científicas sobre a gestão responsável de empresas na América Latina",
+    "O estudo enfoca a gestão responsável de empresas na América Latina nas áreas de direitos humanos, condições de trabalho, meio ambiente e corrupção.",
   siteSubTitle: "Christian Hauser",
   pages: {
     home: "Início",

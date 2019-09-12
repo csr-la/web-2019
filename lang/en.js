@@ -3,7 +3,7 @@ export default {
   siteTitleClean: "Responsible Management in Latin America",
   siteTitleTemplate: "CSR-LA | ",
   metaDescription:
-    "Scientific studies on responsible management in Latin America are scarce",
+    "The study focuses on responsible management in Latin America in the areas of human rights, working conditions, environment and corruption.",
   siteSubTitle: "Christian Hauser",
   pages: {
     home: "Home",
