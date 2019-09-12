@@ -39,7 +39,7 @@
         <img class="pt-8" src="/images/journal/mexico/2017-07-07_01.jpg">
         <p class="p-8">According to Augusto Martínez of <a href="https://www.draeger.com/es_mx/Home" target="_blank">Draeger Mexico</a>, the definition of corruption is the same all over the world, without cultural differences. Accordingly, corruption means circumventing the rules in some way in order to gain an advantage. “Corrupción es brincar la ley mediante algún medio a ventajarse”.</p>
         <img class="px-8 max-h-9 mx-auto" src="/images/journal/mexico/2017-07-07_02.jpg">
-        <p class="p-8">Alberto Equihua, local coordinator of the <a href="http://www.bdi-mexico.com/" target="_blank">BDI's</a> innovation partnership cooperation project in Mexico, notes that there is unfortunately a general belief in the country that social responsibility is a luxury that few companies can afford. And these are usually larger companies.</p>
+        <p class="p-8">Alberto Equihua, local coordinator of the <a href="http://www.bdi-mexico.com/" target="_blank">BDI’s</a> innovation partnership cooperation project in Mexico, notes that there is unfortunately a general belief in the country that social responsibility is a luxury that few companies can afford. And these are usually larger companies.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="8" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-08.jpg">
@@ -58,7 +58,7 @@
       <JournalCardItem weekday="monday" day="10" month="july" country="mexico">
         <p class="p-8">Stefan Jost, head of the KAS foreign office in Mexico, reports that there is great patriotism in Mexico, but at the same time there is little trust in the government. The attitude “the less I am dependent on the official structures, the better off I am”, strengthens the informal sector.</p>
         <img src="/images/journal/mexico/2017-07-10.jpg">
-        <p class="p-8">Jorge Aguirre, a young entrepreneur from the state of Sonora, stresses that corruption, like stairs, must be swept from top to bottom, otherwise it won't work.</p>
+        <p class="p-8">Jorge Aguirre, a young entrepreneur from the state of Sonora, stresses that corruption, like stairs, must be swept from top to bottom, otherwise it won’t work.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="11" month="july" country="mexico">
         <p class="p-8">The smart TV in the accommodation does not receive a normal, linear television program. Only YouTube and Netflix are available via the Internet.</p>
@@ -123,7 +123,7 @@
         <p class="p-8">Talk at Roche. The Head of Procurement Mexico Arturo Alonso describes how the Swiss pharmaceutical company ensures sustainability in its supply chain. In his experience, local suppliers can learn a lot from multinational companies. At the same time, local suppliers are important to multinationals. The targeted exchange with suppliers on the subject of sustainability is also used as a driving force for innovation.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="21" month="july" country="mexico">
-        <p class="p-8">Netflix night: In the satirical film comedy <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">“La dictadura perfecta”</a> an influential television station helps a notoriously corrupt governor to improve his image and become Mexican president in exchange for a high bribe. After all we've learned about Mexico's political system, this is unfortunately not an absurd plot.</p>
+        <p class="p-8">Netflix night: In the satirical film comedy <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">“La dictadura perfecta”</a> an influential television station helps a notoriously corrupt governor to improve his image and become Mexican president in exchange for a high bribe. After all we’ve learned about Mexico’s political system, this is unfortunately not an absurd plot.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="22" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-22.jpg">
@@ -133,17 +133,17 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/YyB1oLtOF-o?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">After 16 days and 450 km walk, about 50'000 pilgrims from the city of Querétaro arrived today in the <a href="http://basilica.mxv.mx/web1/-home/index.html" target="_blank">Basilica Santa María de Guadalupe.</a></p>
+        <p class="p-8">After 16 days and 450 km walk, about 50’000 pilgrims from the city of Querétaro arrived today in the <a href="http://basilica.mxv.mx/web1/-home/index.html" target="_blank">Basilica Santa María de Guadalupe.</a></p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="24" month="july" country="mexico">
-        <p class="p-8">We're expecting an important express shipment with TNT. This is going to be a disaster. After an odyssey through Europe, the shipment is already ten days overdue and there is little hope that it will arrive on time before our onward journey.</p>
+        <p class="p-8">We’re expecting an important express shipment with TNT. This is going to be a disaster. After an odyssey through Europe, the shipment is already ten days overdue and there is little hope that it will arrive on time before our onward journey.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="25" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-25.jpg">
         <div class="p-8">
           <p>The first lecture of the expedition takes place at the AHK Mexico. About 60 people take part in the event on the topic of corruption prevention. This underlines the interest of companies in the topic. The event also serves as a kick-off event for a new AHK working group on compliance. Many thanks to Gabriel Carranza and his team!</p>
           <p class="pt-5">During his work in Mexico, a small German entrepreneur learned the following: It is more important to know someone who knows who you have to go to in order to achieve things than to have someone in the company who knows the laws.</p>
-          <p class="pt-5">After 23 days in Mexico City, today we will continue overnight on flight AV2653 to Lima. Departure is at 23:50 o'clock.</p>
+          <p class="pt-5">After 23 days in Mexico City, today we will continue overnight on flight AV2653 to Lima. Departure is at 23:50 o’clock.</p>
         </div>
       </JournalCardItem>
     </JournalCard>
@@ -162,7 +162,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="27" month="july" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-07-27.jpg">
-        <p class="p-8">Today is the first day of the four-day celebrations of Peru's national holiday, <i>Fiestas Patrias</i>, which commemorate the country's independence from Spain in 1821. Therefore, no interviews will take place today and tomorrow.</p>
+        <p class="p-8">Today is the first day of the four-day celebrations of Peru’s national holiday, <i>Fiestas Patrias</i>, which commemorate the country’s independence from Spain in 1821. Therefore, no interviews will take place today and tomorrow.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="28" month="july" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-07-28_01.jpg">
@@ -229,7 +229,7 @@
         <p class="p-8">Christian Hauser, Carolin Deiner and Sandro Sanchez with EMBA students of CENTRUM Católica Business School</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="6" month="august" country="peru">
-        <p class="p-8">Sunday doesn't seem to be a day in Lima when people go out to eat. Many restaurants remain closed or have shortened opening hours.</p>
+        <p class="p-8">Sunday doesn’t seem to be a day in Lima when people go out to eat. Many restaurants remain closed or have shortened opening hours.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="7" month="august" country="peru">
         <p class="p-8">Today, for the first time, an interview partner did not appear at the agreed appointment. The head of the institute and the secretary do not agree whether the intended interviewee works at the institute or not. Even if the originally planned interview did not take place, I was still able to have an interesting interview with the director of the institute, Giovanni Bonfiglio.</p>
@@ -281,7 +281,7 @@
         <img class="pt-8" src="/images/journal/colombia/2017-08-15.jpg">
         <div class="p-8">
           <p>The AHK Colombia in cooperation with the Swiss Chamber of Commerce in Colombia invites you today to my lecture “Lucha empresarial contra la corrupción”. Many thanks to Yolanda Rodríguez and her team!</p>
-          <p class="pt-5">Carlos Lozano of Coresponsables points out that no superhero, like Batman or Superman, will come to save Colombia. Rather, the Colombians themselves are called upon to tackle the country's social and ecological challenges.</p>
+          <p class="pt-5">Carlos Lozano of Coresponsables points out that no superhero, like Batman or Superman, will come to save Colombia. Rather, the Colombians themselves are called upon to tackle the country’s social and ecological challenges.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="16" month="august" country="colombia">
@@ -311,12 +311,12 @@
       <JournalCardItem weekday="monday" day="21" month="august" country="colombia">
         <div class="p-8">
           <p>Ascension was on the 15th of August. Colombians postpone most of the holidays to the following Monday, thus extending the weekend. They make “puente” (bridge). This regulation goes back to Raimundo Emiliani Román and is therefore called Ley Emiliani. The regulation is intended to promote Colombian tourism.</p>
-          <p class="pt-5">Originally we had three appointments for today. Luckily, we contacted all the people we talked to again. Two of them didn't have the holiday on their screens. If we hadn't asked, we would have been at the supposedly first appointment at 8 o'clock in front of a locked door.</p>
-          <p class="pt-5">A taxi driver complains that there are too many holidays in Colombia and therefore too little work. He says the government would invent a holiday for everything, to distract people from the real problems: “As long as they celebrate, they don't complain”.</p>
+          <p class="pt-5">Originally we had three appointments for today. Luckily, we contacted all the people we talked to again. Two of them didn’t have the holiday on their screens. If we hadn’t asked, we would have been at the supposedly first appointment at 8 o’clock in front of a locked door.</p>
+          <p class="pt-5">A taxi driver complains that there are too many holidays in Colombia and therefore too little work. He says the government would invent a holiday for everything, to distract people from the real problems: “As long as they celebrate, they don’t complain”.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="22" month="august" country="colombia">
-        <p class="p-8">According to Lothar Witte, head of the <a href="https://www.fes.de/de/?id=316" target="_blank">FES foreign office in Bogotá</a>, three dangers for pedestrians lurk today in the better quarters of the city: 1) to be robbed by trick thieves, 2) to be run over by cyclists, 3) to injure one's ankle in one of the numerous street holes.</p>
+        <p class="p-8">According to Lothar Witte, head of the <a href="https://www.fes.de/de/?id=316" target="_blank">FES foreign office in Bogotá</a>, three dangers for pedestrians lurk today in the better quarters of the city: 1) to be robbed by trick thieves, 2) to be run over by cyclists, 3) to injure one’s ankle in one of the numerous street holes.</p>
         <div class="video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/JiEffTAyHKc?rel=0" frameborder="0"></iframe>
         </div>
@@ -324,13 +324,13 @@
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="23" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-23.jpg">
-        <p class="p-8">The Andino Shopping Centre is located on the former site of the German School. In June 2017, a bomb attack was carried out on the women's toilet, killing three people. Therefore, explosive detection dogs are now being used at the entrances.</p>
+        <p class="p-8">The Andino Shopping Centre is located on the former site of the German School. In June 2017, a bomb attack was carried out on the women’s toilet, killing three people. Therefore, explosive detection dogs are now being used at the entrances.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="24" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-24.jpg">
         <div class="p-8">
           <p>Economic theory self-tested: hairdressers’ appointment in Bogotá. A male haircut costs COP 9,000; the equivalent of EUR 2.60 or CHF 2.95. The Balassa effect works ;-)</p>
-          <p class="pt-5">Today a trained shoemaker drives us. The competition from China is too overwhelming. That's why he has been driving his wife's car for Uber for four months now.</p>
+          <p class="pt-5">Today a trained shoemaker drives us. The competition from China is too overwhelming. That’s why he has been driving his wife’s car for Uber for four months now.</p>
           <p class="pt-5">Official launch of the <a href="http://www.swissbettergold.ch/en/about" target="_blank">Better Gold Initiative</a> in Colombia with ceremony in the residence of the Swiss Embassy. The aim of the initiative is to sustainably develop the small gold mining industry in Colombia and integrate it into the supply chain of the Swiss gold industry.</p>
         </div>
       </JournalCardItem>
@@ -345,10 +345,10 @@
         <img class="pt-8" src="/images/journal/colombia/2017-08-26_01.jpg">
         <p class="p-8">The local mountain Montserrat offers an impressive view over the megacity Bogotá. The view from above clearly shows the dimensions of the megacity.</p>
         <img src="/images/journal/colombia/2017-08-26_02.jpg">
-        <p class="p-8">In order to strengthen the tourist's position on the Montserrat Mountain, there are numerous snack stalls offering regional specialities.</p>
+        <p class="p-8">In order to strengthen the tourist’s position on the Montserrat Mountain, there are numerous snack stalls offering regional specialities.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="27" month="august" country="colombia">
-        <p class="p-8">Meeting with Diana, a cousin's sister-in-law. We meet at the Parque de la 93 in Chicó, the district where our accommodation is located. Diana greets us by saying that she couldn't live here, it would be too “orderly” for her. She has just bought a flat in the centre. In a “barrio bien popular”. Due to the location, the apartment was very cheap. Now she is hoping for the gentrification of the neighbourhood, as the city is planning a metro line that will have a stop nearby. To get an idea of the quarter, she goes to the apartment at different times of the day and week, which is currently being renovated.</p>
+        <p class="p-8">Meeting with Diana, a cousin’s sister-in-law. We meet at the Parque de la 93 in Chicó, the district where our accommodation is located. Diana greets us by saying that she couldn’t live here, it would be too “orderly” for her. She has just bought a flat in the centre. In a “barrio bien popular”. Due to the location, the apartment was very cheap. Now she is hoping for the gentrification of the neighbourhood, as the city is planning a metro line that will have a stop nearby. To get an idea of the quarter, she goes to the apartment at different times of the day and week, which is currently being renovated.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="28" month="august" country="colombia">
         <p class="p-8">Today we drove for the first time with a female Uber driver. She told us that she has been registered with Uber for 1.5 years, but has only been driving regularly for a few weeks because she has lost her job in the commercial sector. Finding a job in Bogotá is difficult; many companies have to close. In addition, many Venezuelans come to the country who accept a job for much less money than the Colombians. This is having an impact on the labour market. Our driver is currently looking for a new job and is working as a driver to bridge the gap.</p>
@@ -358,12 +358,12 @@
         <p class="p-8">Bogotá is preparing for the visit of Pope Francis. He is planning an apostolic trip to Colombia from the 6th to 11th September to support the reconciliation process between the government and the guerrilla groups.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="30" month="august" country="colombia">
-        <p class="p-8">After 19 days in Bogotá, we will continue today with flight AV0085 to São Paulo. The second night flight of the journey is scheduled. Departure is at 22:04 o'clock. After about six hours flight time, the landing will take place about 6:15 o'clock local time. The time difference between Colombia and the east coast of Brazil is two hours.</p>
+        <p class="p-8">After 19 days in Bogotá, we will continue today with flight AV0085 to São Paulo. The second night flight of the journey is scheduled. Departure is at 22:04 o’clock. After about six hours flight time, the landing will take place about 6:15 o’clock local time. The time difference between Colombia and the east coast of Brazil is two hours.</p>
       </JournalCardItem>
     </JournalCard>
     <JournalCard country="brazil" fromDay="31" fromMonth="august" toDay="6" toMonth="october">
       <JournalCardItem weekday="thursday" day="31" month="august" country="brazil">
-        <p class="p-8">Brazil is one of the first countries to qualify for the 2018 FIFA World Cup in Russia. Today's 2:0 against Ecuador is the 9th victory in a row in the World Cup qualification.</p>
+        <p class="p-8">Brazil is one of the first countries to qualify for the 2018 FIFA World Cup in Russia. Today’s 2:0 against Ecuador is the 9th victory in a row in the World Cup qualification.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="1" month="september" country="brazil">
         <p class="p-8">Visit to the Latin American Regional Office of the <a href="https://www.allianceforintegrity.org/" target="_blank">Alliance for Integrity</a> in São Paulo. The global multi-stakeholder initiative actively supports me in the implementation of the research project by arranging dialogue partners. Thank you very much!</p>
@@ -386,11 +386,11 @@
       <JournalCardItem weekday="wednesday" day="6" month="september" country="brazil">
         <div class="p-8">
           <p>Today I gave a lecture in the framework of the Anti-Corruption Working Group of the Brazilian Network of the UN Global Compact. The current corruption scandals give companies in Brazil a strong impetus towards a more transparent and integrated business culture. However, it is expected that cultural change will continue for decades to come.</p>
-          <p class="pt-5">The largest favela – i.e. slums – in São Paulo, Vila Nova Jaguaré, is located in the vicinity of the <a href="http://www.roche.com.br/" target="_blank">Roche company site</a>. After one of the company's service providers was attacked and killed in front of the company's premises, the company developed a programme that helped to improve conditions in the favela.</p>
+          <p class="pt-5">The largest favela – i.e. slums – in São Paulo, Vila Nova Jaguaré, is located in the vicinity of the <a href="http://www.roche.com.br/" target="_blank">Roche company site</a>. After one of the company’s service providers was attacked and killed in front of the company’s premises, the company developed a programme that helped to improve conditions in the favela.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="7" month="september" country="brazil">
-        <p class="p-8">Quote from an Uber driver: “São Paulo is not a city to live in, but a city to work in”. This is why all those who can afford it leave the city on a holiday like today's Brazilian Independence Day. On 7 September 1822, the Portuguese crown prince Dom Petro proclaimed Brazil's independence with the <i>Grito do Ipiranga</i>.</p>
+        <p class="p-8">Quote from an Uber driver: “São Paulo is not a city to live in, but a city to work in”. This is why all those who can afford it leave the city on a holiday like today’s Brazilian Independence Day. On 7 September 1822, the Portuguese crown prince Dom Petro proclaimed Brazil’s independence with the <i>Grito do Ipiranga</i>.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="8" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-08.jpg">
@@ -434,12 +434,12 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Eh_ggAILCM8?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">Impressions from Brazil's oldest pedestrian zone.</p>
+        <p class="p-8">Impressions from Brazil’s oldest pedestrian zone.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="17" month="september" country="brazil">
-        <p class="p-8">Today we travel from Curitiba to Rio de Janeiro in an Embraer 190 aircraft. The Brazilian company <a href="http://embraer.com/global" target="_blank">Embraer</a> is the world's fourth largest aircraft manufacturer.</p>
+        <p class="p-8">Today we travel from Curitiba to Rio de Janeiro in an Embraer 190 aircraft. The Brazilian company <a href="http://embraer.com/global" target="_blank">Embraer</a> is the world’s fourth largest aircraft manufacturer.</p>
         <img src="/images/journal/brazil/2017-09-17_01.jpg">
-        <p class="p-8">In the in-flight magazine of Latin America's largest airline LATAM, Baiersbronn in the Black Forest in Germany is recommended as one of the world's six most romantic places to spend a honeymoon.</p>
+        <p class="p-8">In the in-flight magazine of Latin America’s largest airline LATAM, Baiersbronn in the Black Forest in Germany is recommended as one of the world’s six most romantic places to spend a honeymoon.</p>
         <img class="px-8 max-h-9 mx-auto" src="/images/journal/brazil/2017-09-17_02.jpg">
         <p class="p-8">In the evening I have coconut with Sugarloaf. Delicious ;-)</p>
       </JournalCardItem>
@@ -487,7 +487,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/vAuMj1j56SE?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">One goal of Father Álido's project is the reforestation of the cleared areas that the indigenous population has received back. For this purpose, seedlings of various indigenous plant species are grown.</p>
+        <p class="p-8">One goal of Father Álido’s project is the reforestation of the cleared areas that the indigenous population has received back. For this purpose, seedlings of various indigenous plant species are grown.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="26" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-26_01.jpg">
@@ -501,7 +501,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/JJwJW84x__Q?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">In the <i>Aldeia Yvy Catu</i>, access to drinking water is not a matter of course. Often surface water is used that is dragged in from afar. The revitalisation of deep wells is therefore an important goal of Father Álido's project. A big challenge here is that there is no electricity.</p>
+        <p class="p-8">In the <i>Aldeia Yvy Catu</i>, access to drinking water is not a matter of course. Often surface water is used that is dragged in from afar. The revitalisation of deep wells is therefore an important goal of Father Álido’s project. A big challenge here is that there is no electricity.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="28" month="september" country="brazil">
         <p class="p-8">In Brazil, numerous humanitarian projects depend on donations from abroad. “Smile, these are the people who finance our salary” was therefore the recommendation of a woman when a group of donors from Germany recently visited them.</p>
@@ -581,7 +581,7 @@
         <div class="p-8">
           <p>In the centre of Buenos Aires, there are a striking number of people living on the streets. Some of them have really settled in - with chairs, small tables, mattresses and plastic curtains for their privacy.</p>
           <p class="pt-5">The streets of downtown Buenos Aires often smell of urine as an expression of poverty.</p>
-          <p class="pt-5">Opposite a McDonald's branch in Plaza de la República, a young mother begs with two small children in the evening. When she enter the McDonald's with the little girl around 11:30 p.m., she leaves the second one, who isfive years old at most, sleeping alone on the corner. People pass by without paying any attention to her.</p>
+          <p class="pt-5">Opposite a McDonald’s branch in Plaza de la República, a young mother begs with two small children in the evening. When she enter the McDonald’s with the little girl around 11:30 p.m., she leaves the second one, who isfive years old at most, sleeping alone on the corner. People pass by without paying any attention to her.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="14" month="october" country="argentina">
@@ -626,18 +626,18 @@
       <JournalCardItem weekday="saturday" day="21" month="october" country="argentina">
         <div class="p-8">
           <p>“Cristina and Lula are relatives, or at least they went to the same school,” says a taxi driver with a joking undertone, alluding to the corruption trials currently underway against the two former presidents of Argentina and Brazil.</p>
-          <p class="pt-5">The Archbishop of Buenos Aires, Cardinal Mario Aurelio Poli, holds a children's and youth service in the “Luna Park” indoor stadium, which is packed with around 10,000 people.</p>
+          <p class="pt-5">The Archbishop of Buenos Aires, Cardinal Mario Aurelio Poli, holds a children’s and youth service in the “Luna Park” indoor stadium, which is packed with around 10,000 people.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="22" month="october" country="argentina">
-        <p class="p-8">As predicted, the governing coalition of Argentine President Mauricio Macri won today's parliamentary elections. Former President Cristina Kirchner suffers a clear defeat, but nevertheless moves into the upper house of the Argentine National Congress as a senator.</p>
+        <p class="p-8">As predicted, the governing coalition of Argentine President Mauricio Macri won today’s parliamentary elections. Former President Cristina Kirchner suffers a clear defeat, but nevertheless moves into the upper house of the Argentine National Congress as a senator.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="23" month="october" country="argentina">
         <p class="p-8">There are high fees for withdrawing cash with foreign credit cards from ATMs. FinTech applications such as <a href="https://azimo.com/de/" target="_blank">Azimo</a> offer a cost-effective alternative for cash withdrawals.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="24" month="october" country="argentina">
         <div class="p-8">
-          <p>Today I am taking part in the ECOSUIZA 2017 event. This will take place under the motto “Sustainable Management - Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible”. Approaches for sustainable investments will be presented and discussed. The discussion will continue with lunch at the Swiss Ambassador's residence.</p>
+          <p>Today I am taking part in the ECOSUIZA 2017 event. This will take place under the motto “Sustainable Management - Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible”. Approaches for sustainable investments will be presented and discussed. The discussion will continue with lunch at the Swiss Ambassador’s residence.</p>
           <p class="pt-5">As early as 1776, Adam Smith gave an indication in his work Wealth of Nations of how companies can be persuaded to commit themselves to achieving the goals of sustainable development: “We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.”</p>
         </div>
       </JournalCardItem>
@@ -648,7 +648,7 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="26" month="october" country="argentina">
-        <p class="p-8">While all of the private sector's interlocutors were very reliable, another academic interlocutor did not appear at the agreed time today.</p>
+        <p class="p-8">While all of the private sector’s interlocutors were very reliable, another academic interlocutor did not appear at the agreed time today.</p>
         <img src="/images/journal/argentina/2017-10-26.jpg">
         <p class="p-8">Today we visit a final rehearsal of the Buenos Aires Philharmonic Orchestra at the renowned <a href="http://www.teatrocolon.org.ar/" target="_blank">Teatro Colón</a>. The play “Ein Heldenleben, Op. 40” by Richard Straus.</p>
       </JournalCardItem>
@@ -699,7 +699,7 @@
         <img class="pt-8" src="/images/journal/argentina/2017-11-03_01.jpg">
         <p class="p-8">At the end of your stay in Argentina, a tender sirloin steak in the <a href="https://www.facebook.com/santosmanjares" target="_blank">Santos Manjares</a> restaurant is a must :-)</p>
         <img src="/images/journal/argentina/2017-11-03_02.jpg">
-        <p class="p-8">After 28 days in Argentina it's time to say goodbye. At 18:05 local time, flight LH511 leaves Buenos Aires for Frankfurt am Main. A good 13 hours flight time lie ahead of us.</p>
+        <p class="p-8">After 28 days in Argentina it’s time to say goodbye. At 18:05 local time, flight LH511 leaves Buenos Aires for Frankfurt am Main. A good 13 hours flight time lie ahead of us.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="4" month="november" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-11-04.jpg">
