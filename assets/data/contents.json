@@ -2,6 +2,7 @@
   "contents": [
     {
       "imgPath": "/images/mexico/humanrights.jpg",
+      "imgThumbnail": "/images/mexico/thumbnails/humanrights.jpg",
       "title": {
         "de": "«Bei der unternehmerischen Verantwortung darf es kein Copyright geben»",
         "en": "«Responsible management must not include copyright»",
@@ -14,6 +15,7 @@
     },
     {
       "imgPath": "/images/mexico/environment.jpg",
+      "imgThumbnail": "/images/mexico/thumbnails/environment.jpg",
       "title": {
         "de": "«Langfristig betrachtet wird das Günstige teuer»",
         "en": "«In the long term, the cheap will be expensive»",
@@ -26,6 +28,7 @@
     },
     {
       "imgPath": "/images/mexico/corruption.jpg",
+      "imgThumbnail": "/images/mexico/thumbnails/corruption.jpg",
       "title": {
         "de": "«Korruption ist ein Krebsgeschwür in Mexiko»",
         "en": "«Corruption is a cancer in Mexico»",
@@ -38,6 +41,7 @@
     },
     {
       "imgPath": "/images/peru/humanrights.jpg",
+      "imgThumbnail": "/images/peru/thumbnails/humanrights.jpg",
       "title": {
         "de": "«In Peru findet keine ernsthafte Diskussion über Menschenrechte statt»",
         "en": "«There is no serious discussion of human rights in Peru»",
@@ -50,6 +54,7 @@
     },
     {
       "imgPath": "/images/peru/environment.jpg",
+      "imgThumbnail": "/images/peru/thumbnails/environment.jpg",
       "title": {
         "de": "«Alleine sind wir nur eine Kerze, zusammen leuchten wir viel stärker»",
         "en": "«Alone we are just a candle, together we shine much stronger»",
@@ -62,6 +67,7 @@
     },
     {
       "imgPath": "/images/peru/corruption.jpg",
+      "imgThumbnail": "/images/peru/thumbnails/corruption.jpg",
       "title": {
         "de": "«Korruption verursacht mehr Schäden als eine Naturkatastrophe»",
         "en": "«Corruption causes more damage than a natural disaster»",
@@ -74,6 +80,7 @@
     },
     {
       "imgPath": "/images/colombia/humanrights.jpg",
+      "imgThumbnail": "/images/colombia/thumbnails/humanrights.jpg",
       "title": {
         "de": "«Kolumbien durchlebte ein trauriges Zeitalter»",
         "en": "«Colombia went through a sad age»",
@@ -86,6 +93,7 @@
     },
     {
       "imgPath": "/images/colombia/environment.jpg",
+      "imgThumbnail": "/images/colombia/thumbnails/environment.jpg",
       "title": {
         "de": "«Umweltschutz zählt zu den größten Herausforderungen für Kolumbien»",
         "en": "«Environmental protection is one of the greatest challenges facing Colombia»",
@@ -98,6 +106,7 @@
     },
     {
       "imgPath": "/images/colombia/corruption.jpg",
+      "imgThumbnail": "/images/colombia/thumbnails/corruption.jpg",
       "title": {
         "de": "«Der informelle Sektor ist eine Tragödie für Kolumbien»",
         "en": "«The informal sector is a tragedy for Colombia»",
@@ -110,6 +119,7 @@
     },
     {
       "imgPath": "/images/brazil/humanrights.jpg",
+      "imgThumbnail": "/images/brazil/thumbnails/humanrights.jpg",
       "title": {
         "de": "«Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»",
         "en": "«Work is not lacking, but there are no jobs»",
@@ -122,6 +132,7 @@
     },
     {
       "imgPath": "/images/brazil/environment.jpg",
+      "imgThumbnail": "/images/brazil/thumbnails/environment.jpg",
       "title": {
         "de": "«Nachhaltigkeit muss in das Kerngeschäft integriert werden»",
         "en": "«Responsible management must be integrated into the core business»",
@@ -134,6 +145,7 @@
     },
     {
       "imgPath": "/images/brazil/corruption.jpg",
+      "imgThumbnail": "/images/brazil/thumbnails/corruption.jpg",
       "title": {
         "de": "«Das Gesetz gilt für alle»",
         "en": "«The law applies to all»",
@@ -146,6 +158,7 @@
     },
     {
       "imgPath": "/images/argentina/humanrights.jpg",
+      "imgThumbnail": "/images/argentina/thumbnails/humanrights.jpg",
       "title": {
         "de": "«In diesem Land erfährt man nie die ganze Wahrheit»",
         "en": "«In this country you never learn the whole truth»",
@@ -158,6 +171,7 @@
     },
     {
       "imgPath": "/images/argentina/environment.jpg",
+      "imgThumbnail": "/images/argentina/thumbnails/environment.jpg",
       "title": {
         "de": "«Wenn die anderen so handeln, wieso ich nicht auch?»",
         "en": "«If the others act like this, why can’t I?»",
@@ -170,6 +184,7 @@
     },
     {
       "imgPath": "/images/argentina/corruption.jpg",
+      "imgThumbnail": "/images/argentina/thumbnails/corruption.jpg",
       "title": {
         "de": "«It takes two to tango»",
         "en": "«It takes two to tango»",
