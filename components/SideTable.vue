@@ -8,7 +8,7 @@
     <!-- Table Data -->
     <div v-for="item in tableData.data" :key="item.title.en" class="bg-white px-4 py-2 border-b border-gray-400 flex items-center justify-between">
         <div class="text-xs font-bold mr-2">{{ $t(tableType + '.' + item.title) }}</div>
-        <div class="text-xs flex-shrink-0">{{ item.percentage }} %</div>
+        <div class="text-xs flex-shrink-0"><span v-html="punctuate(item.percentage)"></span> %</div>
     </div>
 
     <!-- Table Source -->
@@ -40,6 +40,12 @@ export default {
   methods: {
     toggleSource() {
       this.showSource = !this.showSource
+    },
+    punctuate(value) {
+      if (this.$i18n.locale !== "en") {
+        value = value.toString().replace(".", ",")
+      }
+      return value
     }
   },
   mounted(){

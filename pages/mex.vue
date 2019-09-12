@@ -90,10 +90,10 @@ export default {
       headerImg: "/images/mexico/header.jpg",
       bgPosition: "bg-center",
       iconData: {
-        elevation: "2'250",
-        gdp: "8'201",
-        inhabitants: "127'540'423",
-        area: "1'964'375"
+        elevation: "2&thinsp;250",
+        gdp: "8&thinsp;201",
+        inhabitants: "127&thinsp;540&thinsp;423",
+        area: "1&thinsp;964&thinsp;375"
       },
       sliderImages: [
         "/images/mexico/gallery/mexico_1.jpeg",

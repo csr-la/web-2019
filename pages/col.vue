@@ -88,10 +88,10 @@ export default {
       headerImg: "/images/colombia/header.jpg",
       bgPosition: "bg-center",
       iconData: {
-        elevation: "2'640",
-        gdp: "5'806",
-        inhabitants: "48'653'419",
-        area: "1'138'910"
+        elevation: "2&thinsp;640",
+        gdp: "5&thinsp;806",
+        inhabitants: "48&thinsp;653&thinsp;419",
+        area: "1&thinsp;138&thinsp;910"
       },
       sliderImages: [
         "/images/colombia/gallery/colombia_1.jpeg",

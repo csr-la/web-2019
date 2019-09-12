@@ -91,9 +91,9 @@ export default {
       bgPosition: "bg-top",
       iconData: {
         elevation: "161",
-        gdp: "6'046",
-        inhabitants: "31'773'839",
-        area: "1'285'216"
+        gdp: "6&thinsp;046",
+        inhabitants: "31&thinsp;773&thinsp;839",
+        area: "1&thinsp;285&thinsp;216"
       },
       sliderImages: [
         "/images/peru/gallery/peru_1.jpeg",

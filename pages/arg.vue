@@ -91,9 +91,9 @@ export default {
       bgPosition: "bg-center",
       iconData: {
         elevation: "25",
-        gdp: "12'449",
-        inhabitants: "43'847'430",
-        area: "2'780'400"
+        gdp: "12&thinsp;449",
+        inhabitants: "43&thinsp;847&thinsp;430",
+        area: "2&thinsp;780&thinsp;400"
       },
       sliderImages: [
         "/images/argentina/gallery/argentina_1.jpeg",

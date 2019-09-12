@@ -88,10 +88,10 @@ export default {
       headerImg: "/images/brazil/header.jpg",
       bgPosition: "bg-top-left",
       iconData: {
-        elevation: "1'172",
-        gdp: "8'650",
-        inhabitants: "207'652'865",
-        area: "8'515'770"
+        elevation: "1&thinsp;172",
+        gdp: "8&thinsp;650",
+        inhabitants: "207&thinsp;652&thinsp;865",
+        area: "8&thinsp;515&thinsp;770"
       },
       sliderImages: [
         "/images/brazil/gallery/brazil_1.jpeg",
