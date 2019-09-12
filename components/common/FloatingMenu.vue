@@ -1,6 +1,6 @@
 <template>
   <div class="floating-menu absolute z-30">
-    <button :aria-label="$t('common.close')" type="button" :class="[menuOpen ? '' : 'invisible-hidden']" @click="menuOpen = false; switcherOpen = false" class="bg-black-t-light block fixed inset-0 w-full h-full cursor-default transition-opacity transition-250 transition-ease-in-out"></button>
+    <button :aria-label="$t('common.close')" type="button" :class="[menuOpen ? '' : 'invisible-hidden']" @click="menuOpen = false;" class="bg-black-t-light block fixed inset-0 w-full h-full cursor-default transition-opacity transition-250 transition-ease-in-out"></button>
     <div :class="[menuOpen ? 'max-h-screen' : '']" class="fixed pb-8 ml-4 mt-6 left-0 top-0 select-none flex flex-col">
       <div class="inline-block relative flex-none">
         <div @click="toggleMenu" class="menu-button cursor-pointer hover:bg-gray-100 active:bg-gray-200 shadow-md bg-white rounded-full w-10 transition-all transition-100 transition-ease-in-out">
