@@ -3,3 +3,10 @@
   to = "https://csr-la.net"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/"
+  to = "/de"
+  status = 302
+  force = false
+  conditions = {Language = ["de"]}
