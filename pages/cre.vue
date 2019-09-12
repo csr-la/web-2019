@@ -27,6 +27,10 @@
       </div>
       <hr class="mt-10 border-t border-gray-300">
       <p class="mt-10">{{ $t('imprint.copyright') }}</p>
+      <hr class="mt-10 border-t border-gray-300">
+      <p class="mt-10">
+        <a :href="$t('imprint.dataProtectionLink')" target="_blank">{{ $t('imprint.dataProtectionTitle') }}</a>
+      </p>
     </template>
   </ContentBaseLayout>
 </template>

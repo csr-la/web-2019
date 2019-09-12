@@ -142,6 +142,8 @@ export default {
     sopla:
       "Programa Regional «Políticas Sociales en América Latina» (SOPLA) de la Konrad-Adenauer-Stiftung",
     copyright:
-      "El copyright de los materiales creados por el autor es exclusivo del autor. No se permite la reproducción total o parcial de los gráficos, audios, video y textos en otras publicaciones electrónicas o impresas sin el consentimiento expreso por escrito del autor."
+      "El copyright de los materiales creados por el autor es exclusivo del autor. No se permite la reproducción total o parcial de los gráficos, audios, video y textos en otras publicaciones electrónicas o impresas sin el consentimiento expreso por escrito del autor.",
+    dataProtectionTitle: "Data protection declaration HTW Chur",
+    dataProtectionLink: "https://www.fhgr.ch/en/data-protection-declaration/"
   }
 };

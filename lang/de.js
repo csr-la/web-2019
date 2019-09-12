@@ -142,6 +142,8 @@ export default {
     sopla:
       "Regionalprogramm «Soziale Ordnungspolitik in Lateinamerika» (SOPLA) der Konrad-Adenauer-Stiftung",
     copyright:
-      "Das Copyright für vom Autor selbst erstellte Objekte bleibt allein beim Autor. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche schriftliche Zustimmung des Autors nicht gestattet."
+      "Das Copyright für vom Autor selbst erstellte Objekte bleibt allein beim Autor. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche schriftliche Zustimmung des Autors nicht gestattet.",
+    dataProtectionTitle: "Datenschutzverordnung der HTW Chur",
+    dataProtectionLink: "https://www.fhgr.ch/datenschutzverordnung/"
   }
 };

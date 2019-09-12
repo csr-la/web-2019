@@ -141,6 +141,8 @@ export default {
     sopla:
       "Regional Programme «Social Policies in Latin America» (SOPLA) of the Konrad Adenauer Foundation",
     copyright:
-      "The copyright for any material created by the author is reserved. Any duplication or use of objects such as diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement."
+      "The copyright for any material created by the author is reserved. Any duplication or use of objects such as diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement.",
+    dataProtectionTitle: "Data protection declaration HTW Chur",
+    dataProtectionLink: "https://www.fhgr.ch/en/data-protection-declaration/"
   }
 };
