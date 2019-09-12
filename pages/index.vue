@@ -167,6 +167,13 @@ export default {
       this.contentsOpen = true
       this.$scrollTo(this.$route.hash, 300)
     }
+  },
+  watch: {
+    $route (to, from) {
+      if (this.$route.hash === '#chapter') {
+        this.contentsOpen = true
+      }
+    }
   }
 };
 </script>
