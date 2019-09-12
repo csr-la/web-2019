@@ -5,14 +5,22 @@
   force = true
 
 [[redirects]]
-from = "/"
-to = "/es"
-status = 302
-force = true
-condition = {Language=["es"]}
-
-[[redirects]]
   from = "/"
   to = "/de"
   status = 302
   force = true
+  condition = {Language=["de"]}
+
+[[redirects]]
+  from = "/"
+  to = "/es"
+  status = 302
+  force = true
+  condition = {Language=["es"]}
+
+[[redirects]]
+  from = "/"
+  to = "/pt"
+  status = 302
+  force = true
+  condition = {Language=["pt"]}
