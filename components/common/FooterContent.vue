@@ -3,10 +3,10 @@
     <footer class="pt-10 bg-gray-200 relative z-10 flex flex-col items-center">
       <div class="mt-8 pb-4 flex justify-center">
         <span>
-          <img v-lazy="img.htw" alt="HTW Chur" width="158" height="35">
+          <img :src="img.htw" alt="HTW Chur" width="158" height="35">
         </span>
         <span class="ml-5">
-          <img v-lazy="img.kas" alt="Konrad Adenauer Stiftung" width="115" height="35">
+          <img :src="img.kas" alt="Konrad Adenauer Stiftung" width="115" height="35">
         </span>
       </div>
       <p class="mt-4 text-center text-green-gray-500 leading-loose text-sm">
