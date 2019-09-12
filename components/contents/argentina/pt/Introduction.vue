@@ -8,7 +8,7 @@
     </div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        A taxa de 19,7% de importações e exportações em 2017 demonstra a deficiente integração da Argentina no comércio internacional. Em 2017, o país importou cerca de 85 bilhões de dólares americanos em bens e serviços e exportou aproximadamente 75 bilhões. O interesse reduzido dos investidores estrangeiros na Argentina nos últimos anos se reflete no total dos investimentos diretos, que chega a apenas 73 bilhões de dólares americanos em 2018, o que equivale a 4 % dos investimentos estrangeiros na América Latina.
+        A taxa de 19,7% de importações e exportações em 2017 demonstra a deficiente integração da Argentina no comércio internacional. Em 2017, o país importou cerca de 85 bilhões de dólares americanos em bens e serviços e exportou aproximadamente 75 bilhões. O interesse reduzido dos investidores estrangeiros na Argentina nos últimos anos se reflete no total dos investimentos diretos, que chega a apenas 73 bilhões de dólares americanos em 2018, o que equivale a 4% dos investimentos estrangeiros na América Latina.
       </p>
       <SideTable tableType="exports" :tableData="exportsData" :color="color"/>
     </div>

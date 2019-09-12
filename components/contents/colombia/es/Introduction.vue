@@ -20,7 +20,7 @@
     </p>
     <ImageSlider :sliderImages="sliderImages" :color="color"/>
     <p>
-      Según estadísticas oficiales, en el 81% de la población se recogen los residuos domésticos (2012), y alrededor del 1% de estos desechos son reciclados (2011). El 96,5% de la población tiene acceso a servicios básicos de agua potable (2015), con una clara brecha entre áreas urbanas (99.8%) y áreas rurales (86,0%). Llama la atención que solo el 71,1%  de la población tiene acceso a fuentes de agua dulce catalogadas como seguras. El 77% de la población está conectado a un sistema de alcantarillado (2010).
+      Según estadísticas oficiales, en el 81% de la población se recogen los residuos domésticos (2012), y alrededor del 1% de estos desechos son reciclados (2011). El 96,5% de la población tiene acceso a servicios básicos de agua potable (2015), con una clara brecha entre áreas urbanas (99,8%) y áreas rurales (86,0%). Llama la atención que solo el 71,1%  de la población tiene acceso a fuentes de agua dulce catalogadas como seguras. El 77% de la población está conectado a un sistema de alcantarillado (2010).
     </p>
     <p>
       Las emisiones colombianas de CO<sub>2</sub> per cápita de 1,8 toneladas, se ubican claramente por debajo del promedio mundial de 5,0 toneladas y del promedio latinoamericano de 3,1 toneladas.

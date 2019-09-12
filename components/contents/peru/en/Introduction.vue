@@ -2,13 +2,13 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        In 2018, Peru had a population of almost 32 million and an economic output of 222 billion US dollars. According to the World Bank (2017), an average income per capita of just over USD 6,000 corresponds to the country's classification as a middle-income country in the upper range. Peru ranks 89th in the United Nations Human Development Index. Measured in terms of life expectancy, educational level and standard of living, the country is thus attested to a high level of human development. However, the Gini coefficient of 43.3% (2017) makes it clear that Peru has considerable income disparities, even if these are not quite as pronounced as in other Latin American countries.
+        In 2018, Peru had a population of almost 32 million and an economic output of 222 billion US dollars. According to the World Bank (2017), an average income per capita of just over USD 6&thinsp;000 corresponds to the country's classification as a middle-income country in the upper range. Peru ranks 89th in the United Nations Human Development Index. Measured in terms of life expectancy, educational level and standard of living, the country is thus attested to a high level of human development. However, the Gini coefficient of 43.3% (2017) makes it clear that Peru has considerable income disparities, even if these are not quite as pronounced as in other Latin American countries.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        In 2018, Peru's foreign trade ratio was 49,0%, with the country importing just under $53 billion in goods and services and exporting  $56 billion. In the same year, foreign direct investment in Peru amounted to USD 104 billion, accounting for 6% of the country's investment in Latin America.
+        In 2018, Peru's foreign trade ratio was 49.0%, with the country importing just under $53 billion in goods and services and exporting  $56 billion. In the same year, foreign direct investment in Peru amounted to USD 104 billion, accounting for 6% of the country's investment in Latin America.
       </p>
       <SideTable tableType="exports" :tableData="exportsData" :color="color"/>
     </div>

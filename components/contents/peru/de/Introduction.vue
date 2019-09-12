@@ -2,13 +2,13 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        Im Jahr 2018 lebten in Peru knapp 32 Millionen Einwohner und das Land verfügte über eine Wirtschaftsleistung von 222 Milliarden US-Dollar. Ein durchschnittliches Pro-Kopf-Einkommen von knapp über 6'000 US-Dollar entspricht laut Weltbank (2017) der Einstufung als Land mit mittlerem Einkommen im oberen Bereich. Im Human Development Index der Vereinten Nationen belegt Peru den 89. Rang. Gemessen an der Lebenserwartung, dem Bildungsniveau sowie dem Lebensstandard wird dem Land damit eine hohe menschliche Entwicklung attestiert. Der Gini-Koeffizient von 43,3% (2017) macht jedoch deutlich, dass in Peru erhebliche Einkommensunterschiede existieren, auch wenn diese nicht ganz so ausgeprägt sind wie in anderen Ländern Lateinamerikas.
+        Im Jahr 2018 lebten in Peru knapp 32 Millionen Einwohner und das Land verfügte über eine Wirtschaftsleistung von 222 Milliarden US-Dollar. Ein durchschnittliches Pro-Kopf-Einkommen von knapp über 6&thinsp;000 US-Dollar entspricht laut Weltbank (2017) der Einstufung als Land mit mittlerem Einkommen im oberen Bereich. Im Human Development Index der Vereinten Nationen belegt Peru den 89. Rang. Gemessen an der Lebenserwartung, dem Bildungsniveau sowie dem Lebensstandard wird dem Land damit eine hohe menschliche Entwicklung attestiert. Der Gini-Koeffizient von 43,3% (2017) macht jedoch deutlich, dass in Peru erhebliche Einkommensunterschiede existieren, auch wenn diese nicht ganz so ausgeprägt sind wie in anderen Ländern Lateinamerikas.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        2018 lag die peruanische Außenhandelsquote bei 49.0%, wobei das Land Waren und Dienstleistungen im Wert von knapp unter 53 Milliarden US-Dollar importierte und von etwas mehr als 56 Milliarden US-Dollar exportierte. Im gleichen Jahr betrug der ausländische Direktinvestitionsbestand in Peru 104 Milliarden US-Dollar womit das Land 6% der in Lateinamerika getätigten Investitionen auf sich vereinigte.
+        2018 lag die peruanische Außenhandelsquote bei 49,0%, wobei das Land Waren und Dienstleistungen im Wert von knapp unter 53 Milliarden US-Dollar importierte und von etwas mehr als 56 Milliarden US-Dollar exportierte. Im gleichen Jahr betrug der ausländische Direktinvestitionsbestand in Peru 104 Milliarden US-Dollar womit das Land 6% der in Lateinamerika getätigten Investitionen auf sich vereinigte.
       </p>
       <SideTable tableType="exports" :tableData="exportsData" :color="color"/>
     </div>

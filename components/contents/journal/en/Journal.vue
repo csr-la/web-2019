@@ -37,7 +37,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="7" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-07_01.jpg">
-        <p class="p-8">According to Augusto Martínez of <a href="https://www.draeger.com/es_mx/Home" target="_blank">Draeger Mexico</a>, the definition of corruption is the same all over the world, without cultural differences. Accordingly, corruption means circumventing the rules in some way in order to gain an advantage. "Corrupción es brincar la ley mediante algún medio a ventajarse".</p>
+        <p class="p-8">According to Augusto Martínez of <a href="https://www.draeger.com/es_mx/Home" target="_blank">Draeger Mexico</a>, the definition of corruption is the same all over the world, without cultural differences. Accordingly, corruption means circumventing the rules in some way in order to gain an advantage. “Corrupción es brincar la ley mediante algún medio a ventajarse”.</p>
         <img class="px-8 max-h-9 mx-auto" src="/images/journal/mexico/2017-07-07_02.jpg">
         <p class="p-8">Alberto Equihua, local coordinator of the <a href="http://www.bdi-mexico.com/" target="_blank">BDI's</a> innovation partnership cooperation project in Mexico, notes that there is unfortunately a general belief in the country that social responsibility is a luxury that few companies can afford. And these are usually larger companies.</p>
       </JournalCardItem>
@@ -49,14 +49,14 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Qy3tKmrhDhc?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">Today we get an insight into a "different Mexico": The weekly market in the Municipio Coacalco de Berriozábal in the state of México is probably rarely visited by foreigners. On the way back, we experienced how fast the streets flood with rain and become small rivers.</p>
+        <p class="p-8">Today we get an insight into a “different Mexico”: The weekly market in the Municipio Coacalco de Berriozábal in the state of México is probably rarely visited by foreigners. On the way back, we experienced how fast the streets flood with rain and become small rivers.</p>
         <div class="video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/rK-RXRPBzAo?rel=0" frameborder="0"></iframe>
         </div>
         <p class="p-8">In the periphery of Mexico City, municipal waste disposal does not function properly. Private garbage collectors fill this gap.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="10" month="july" country="mexico">
-        <p class="p-8">Stefan Jost, head of the KAS foreign office in Mexico, reports that there is great patriotism in Mexico, but at the same time there is little trust in the government. The attitude "the less I am dependent on the official structures, the better off I am", strengthens the informal sector.</p>
+        <p class="p-8">Stefan Jost, head of the KAS foreign office in Mexico, reports that there is great patriotism in Mexico, but at the same time there is little trust in the government. The attitude “the less I am dependent on the official structures, the better off I am”, strengthens the informal sector.</p>
         <img src="/images/journal/mexico/2017-07-10.jpg">
         <p class="p-8">Jorge Aguirre, a young entrepreneur from the state of Sonora, stresses that corruption, like stairs, must be swept from top to bottom, otherwise it won't work.</p>
       </JournalCardItem>
@@ -73,7 +73,7 @@
         </div>
         <div class="p-8">
           <p>City traffic on the Avenida Arcos de Belén</p>
-          <p class="pt-5">The event "Bonos de Impacto en México: oportunidades y retos" discusses an innovative financing mechanism for social programmes. Social projects are pre-financed through social impact bonds from private, impact-oriented investors. Only if the projectachieves its agreed effect will the investors be reimbursed by the public client. A major hurdle for the approach is the lack of confidence that the Mexican state will actually fulfil the commitments it has entered into in case the project succeeds.</p>
+          <p class="pt-5">The event “Bonos de Impacto en México: oportunidades y retos” discusses an innovative financing mechanism for social programmes. Social projects are pre-financed through social impact bonds from private, impact-oriented investors. Only if the projectachieves its agreed effect will the investors be reimbursed by the public client. A major hurdle for the approach is the lack of confidence that the Mexican state will actually fulfil the commitments it has entered into in case the project succeeds.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="14" month="july" country="mexico">
@@ -102,18 +102,18 @@
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="18" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-18_01.jpg">
-        <p class="p-8">Javier Mestre, of Corresponsables, emphasizes "What is not measured cannot be improved". Therefore, sustainability must be measured in companies. In addition, he emphasizes that there should be no copyright on corporate social responsibility. Nevertheless, some companies do not communicate their commitment so that they cannot be copied. He thinks this approach is wrong.</p>
+        <p class="p-8">Javier Mestre, of Corresponsables, emphasizes “What is not measured cannot be improved”. Therefore, sustainability must be measured in companies. In addition, he emphasizes that there should be no copyright on corporate social responsibility. Nevertheless, some companies do not communicate their commitment so that they cannot be copied. He thinks this approach is wrong.</p>
         <img class="max-h-9 mx-auto" src="/images/journal/mexico/2017-07-18_02.jpg">
         <p class="p-8">The taco al pastor is a very popular type of pork taco in Mexico. Who invented it? The proprietors of the restaurant <a href="https://www.eltizoncito.com.mx/" target="_blank">El Tizoncito</a> claim that it was them.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="19" month="july" country="mexico">
-        <p class="p-8">Lorena Cortes of <a href="https://www.cemefi.org/" target="_blank">CEMEFI</a> points out that in Mexico, it is well regarded to spend as much time as possible at work. It is therefore one of the countries where most hours are worked, but at the same time productivity is among the lowest. There is a saying for this: "Hacer horas nalgas", doing hours in which you do nothing.</p>
+        <p class="p-8">Lorena Cortes of <a href="https://www.cemefi.org/" target="_blank">CEMEFI</a> points out that in Mexico, it is well regarded to spend as much time as possible at work. It is therefore one of the countries where most hours are worked, but at the same time productivity is among the lowest. There is a saying for this: “Hacer horas nalgas”, doing hours in which you do nothing.</p>
         <div class="video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/fa7977e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
         <div class="p-8">
           <p>In Mexico, being rich is often equated with being a villain. People think that you must have done something wrong to become rich. To be poor means not to want to study or work, hence to be lazy.</p>
-          <p class="pt-5">In Mexico, inequality is a bigger problem than poverty. Above all, the inequality before the law and with regard to access to justice is striking: "El que no tiene dinero no tiene a quien le defienda" ("He who has no money has no one to defend him").</p>
+          <p class="pt-5">In Mexico, inequality is a bigger problem than poverty. Above all, the inequality before the law and with regard to access to justice is striking: “El que no tiene dinero no tiene a quien le defienda” (“He who has no money has no one to defend him”).</p>
         </div>
         <audio class="px-8 w-full focus:outline-none" controls><source src="/audio/mexico/2017-07-19.mp3" type="audio/mpeg"></audio>
         <p class="p-8">A woman collecting bulky waste drives through the streets and draws attention to herself with the help of a megaphone.</p>
@@ -123,7 +123,7 @@
         <p class="p-8">Talk at Roche. The Head of Procurement Mexico Arturo Alonso describes how the Swiss pharmaceutical company ensures sustainability in its supply chain. In his experience, local suppliers can learn a lot from multinational companies. At the same time, local suppliers are important to multinationals. The targeted exchange with suppliers on the subject of sustainability is also used as a driving force for innovation.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="21" month="july" country="mexico">
-        <p class="p-8">Netflix night: In the satirical film comedy <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">"La dictadura perfecta"</a> an influential television station helps a notoriously corrupt governor to improve his image and become Mexican president in exchange for a high bribe. After all we've learned about Mexico's political system, this is unfortunately not an absurd plot.</p>
+        <p class="p-8">Netflix night: In the satirical film comedy <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">“La dictadura perfecta”</a> an influential television station helps a notoriously corrupt governor to improve his image and become Mexican president in exchange for a high bribe. After all we've learned about Mexico's political system, this is unfortunately not an absurd plot.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="22" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-22.jpg">
@@ -154,7 +154,7 @@
         </div>
         <div class="p-8">
           <p>First day in Lima: District Miraflores - the Polanco of Peru. Our apartment on the 10th floor offers a great view up to the Pacific Ocean. Here, Lima makes a very neat and clean impression. The streets are in better condition than in Mexico. Everything seems a bit like a film set, a bit unreal.</p>
-          <p class="pt-5">The first interviewee, Eduardo Benavides, stresses that there are two Peruvians: Lima and the rest of the country. For the indigenous population in the countryside, the Peruvians from Lima and other cities are also "foreigners".</p>
+          <p class="pt-5">The first interviewee, Eduardo Benavides, stresses that there are two Peruvians: Lima and the rest of the country. For the indigenous population in the countryside, the Peruvians from Lima and other cities are also “foreigners”.</p>
         </div>
         <div class="mb-8 video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/48cd7ed5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -167,7 +167,7 @@
       <JournalCardItem weekday="friday" day="28" month="july" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-07-28_01.jpg">
         <img class="pt-8" src="/images/journal/peru/2017-07-28_02.jpg">
-        <p class="p-8">Today we saw the "real Lima". We were in the old town - like many others. Due to the <i>Fiestas Patrias</i> the streets were partly overcrowded, but most shops were closed.</p>
+        <p class="p-8">Today we saw the “real Lima”. We were in the old town - like many others. Due to the <i>Fiestas Patrias</i> the streets were partly overcrowded, but most shops were closed.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="29" month="july" country="peru">
         <div class="mt-8 video-wrapper">
@@ -202,7 +202,7 @@
         <p class="p-8">On the occasion of the Swiss national holiday, a reception is held in the residence of the Swiss ambassador. Peruvian President Pedro Pablo Kuczynski also gives a brief address. His family has Swiss-German roots. The President emphasizes the exemplary character that Switzerland has for Peru in his opinion</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="2" month="august" country="peru">
-        <p class="p-8">Sandro Sanchez, professor at CENTRUM Católica Business School, points out that in Peru, the opinion is widespread that all public officials are corrupt. Therefore, it is primarily a question of whether a politician leaves buildings behind. There is a saying for this: "roba pero hace obras".</p>
+        <p class="p-8">Sandro Sanchez, professor at CENTRUM Católica Business School, points out that in Peru, the opinion is widespread that all public officials are corrupt. Therefore, it is primarily a question of whether a politician leaves buildings behind. There is a saying for this: “roba pero hace obras”.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="3" month="august" country="peru">
         <div class="mt-8 video-wrapper">
@@ -218,7 +218,7 @@
         <img class="pt-8" src="/images/journal/peru/2017-08-04_02.jpg">
         <div class="p-8">
           <p>Christian Hauser at the lecture in the AHK Peru.</p>
-          <p class="pt-5">Today the AHK Peru organizes a working breakfast on the topic: "Ética y negocios: enfoques y experiencias europeas frente a la corrupción". It becomes clear that so far there are hardly any platforms on which compliance officers can exchange information, but that there is a clear need for this. Many thanks to Rocío Villaran and her team!</p>
+          <p class="pt-5">Today the AHK Peru organizes a working breakfast on the topic: “Ética y negocios: enfoques y experiencias europeas frente a la corrupción”. It becomes clear that so far there are hardly any platforms on which compliance officers can exchange information, but that there is a clear need for this. Many thanks to Rocío Villaran and her team!</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="5" month="august" country="peru">
@@ -236,7 +236,7 @@
         <img src="/images/journal/peru/2017-08-07.jpg">
         <div class="p-8">
           <p>Javier Perla, Head of Sustainable Management at Libélula - Management in Climate Change and Communications, stresses that the CSR discussion must focus more on the question of how and with what methods a company earns its money. So far, the focus has been too much on how the company distributes part of its profits in projects with its stakeholders (philanthropy).</p>
-          <p class="pt-5">Cinema evening: <a href="https://www.filmaffinity.com/es/film331834.html" target="_blank">"Gemelos sin cura"</a> is a mix-up comedy with the Peruvian comedian Pablo Villanueva called Melcochita. The film is about the unequal twin brothers Pedro and Pablo. A priest and a bar musician on the run from unscrupulous debt collectors. Humour that needs getting used to.</p>
+          <p class="pt-5">Cinema evening: <a href="https://www.filmaffinity.com/es/film331834.html" target="_blank">“Gemelos sin cura”</a> is a mix-up comedy with the Peruvian comedian Pablo Villanueva called Melcochita. The film is about the unequal twin brothers Pedro and Pablo. A priest and a bar musician on the run from unscrupulous debt collectors. Humour that needs getting used to.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="8" month="august" country="peru">
@@ -249,7 +249,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="9" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-09_01.jpg">
-        <p class="p-8">Today I am giving the lecture "Lucha empresarial contra la corrupcion: enfoques y experiencias suizas" at the Swiss Embassy. The event, which will be attended by 27 company representatives, will be organized by the <a href="http://www.swisschamperu.org/" target="_blank">Swiss Chamber of Commerce in Peru</a>. Many thanks to Corinne Schirmer and her team!</p>
+        <p class="p-8">Today I am giving the lecture “Lucha empresarial contra la corrupcion: enfoques y experiencias suizas” at the Swiss Embassy. The event, which will be attended by 27 company representatives, will be organized by the <a href="http://www.swisschamperu.org/" target="_blank">Swiss Chamber of Commerce in Peru</a>. Many thanks to Corinne Schirmer and her team!</p>
         <img src="/images/journal/peru/2017-08-09_02.jpg">
         <p class="p-8">Christian Hauser after his lecture, among others with Corinne Schirmer, Managing Director of the Swiss Chamber of Commerce (3rd from right), and Christoph Sommer, Counsellor of the Embassy (2nd from right).</p>
       </JournalCardItem>
@@ -258,7 +258,7 @@
         <p class="p-8">According to Luis Enrique Aguilar of CHS Alternativo, multinational companies should proactively lobby for the alignment of national standards with international standards as they lobby for other issues. This would ensure a level playing field for all companies and reduce risks for themselves.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="11" month="august" country="peru">
-        <p class="p-8">On the last evening in Lima we watch the Peruvian film comedy <a href="https://www.filmaffinity.com/es/film406344.html" target="_blank">"Once machos"</a> in the cinema. A team of after-work kickers gets involved in a football match against a professional team and bets their houses for it. They want to tear down a real estate shark to build a shopping mall. Happy end pre-programmed?</p>
+        <p class="p-8">On the last evening in Lima we watch the Peruvian film comedy <a href="https://www.filmaffinity.com/es/film406344.html" target="_blank">“Once machos”</a> in the cinema. A team of after-work kickers gets involved in a football match against a professional team and bets their houses for it. They want to tear down a real estate shark to build a shopping mall. Happy end pre-programmed?</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="12" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-12.jpg">
@@ -280,7 +280,7 @@
       <JournalCardItem weekday="tuesday" day="15" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-15.jpg">
         <div class="p-8">
-          <p>The AHK Colombia in cooperation with the Swiss Chamber of Commerce in Colombia invites you today to my lecture "Lucha empresarial contra la corrupción". Many thanks to Yolanda Rodríguez and her team!</p>
+          <p>The AHK Colombia in cooperation with the Swiss Chamber of Commerce in Colombia invites you today to my lecture “Lucha empresarial contra la corrupción”. Many thanks to Yolanda Rodríguez and her team!</p>
           <p class="pt-5">Carlos Lozano of Coresponsables points out that no superhero, like Batman or Superman, will come to save Colombia. Rather, the Colombians themselves are called upon to tackle the country's social and ecological challenges.</p>
         </div>
       </JournalCardItem>
@@ -288,7 +288,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/m69imNpJL_Q?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">The <a href="http://www.eltiempo.com/pico-y-placa/" target="_blank">"pico y placa"</a> system has been in use in Bogotá since 1998 to prevent traffic congestion. During peak hours ("pico") between 6 a.m. and 8 a.m., as well as between 3 p.m. and 7.30 p.m., cars with certain final digits of the number plate ("placa") are not allowed to drive in the city area. Every day different end digits are affected. Failure to do so may result in drastic fines.</p>
+        <p class="p-8">The <a href="http://www.eltiempo.com/pico-y-placa/" target="_blank">“pico y placa”</a> system has been in use in Bogotá since 1998 to prevent traffic congestion. During peak hours (“pico”) between 6 a.m. and 8 a.m., as well as between 3 p.m. and 7.30 p.m., cars with certain final digits of the number plate (“placa”) are not allowed to drive in the city area. Every day different end digits are affected. Failure to do so may result in drastic fines.</p>
         <div class="mb-8 video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/88be16e4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
@@ -310,9 +310,9 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="21" month="august" country="colombia">
         <div class="p-8">
-          <p>Ascension was on the 15th of August. Colombians postpone most of the holidays to the following Monday, thus extending the weekend. They make "puente" (bridge). This regulation goes back to Raimundo Emiliani Román and is therefore called Ley Emiliani. The regulation is intended to promote Colombian tourism.</p>
+          <p>Ascension was on the 15th of August. Colombians postpone most of the holidays to the following Monday, thus extending the weekend. They make “puente” (bridge). This regulation goes back to Raimundo Emiliani Román and is therefore called Ley Emiliani. The regulation is intended to promote Colombian tourism.</p>
           <p class="pt-5">Originally we had three appointments for today. Luckily, we contacted all the people we talked to again. Two of them didn't have the holiday on their screens. If we hadn't asked, we would have been at the supposedly first appointment at 8 o'clock in front of a locked door.</p>
-          <p class="pt-5">A taxi driver complains that there are too many holidays in Colombia and therefore too little work. He says the government would invent a holiday for everything, to distract people from the real problems: "As long as they celebrate, they don't complain".</p>
+          <p class="pt-5">A taxi driver complains that there are too many holidays in Colombia and therefore too little work. He says the government would invent a holiday for everything, to distract people from the real problems: “As long as they celebrate, they don't complain”.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="22" month="august" country="colombia">
@@ -337,8 +337,8 @@
       <JournalCardItem weekday="friday" day="25" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-25.jpg">
         <div class="p-8">
-          <p>In the bakery "Brot", you are asked if you want to have your bread cut open. If the answer is in the affirmative, the seller cuts the bread open by hand.</p>
-          <p class="pt-5">Today we watched the documentary <a href="http://www.imdb.com/title/tt5116402/" target="_blank">"Amazona"</a> in the cinema. It describes the life of the British hippie dropout Valeria Meikle, who had left her young children to live in the Colombian jungle. She is of the opinion that a mother should not sacrifice herself for her children, but live her own dreams. In return, children do not have to sacrifice themselves for their parents.</p>
+          <p>In the bakery “Brot”, you are asked if you want to have your bread cut open. If the answer is in the affirmative, the seller cuts the bread open by hand.</p>
+          <p class="pt-5">Today we watched the documentary <a href="http://www.imdb.com/title/tt5116402/" target="_blank">“Amazona”</a> in the cinema. It describes the life of the British hippie dropout Valeria Meikle, who had left her young children to live in the Colombian jungle. She is of the opinion that a mother should not sacrifice herself for her children, but live her own dreams. In return, children do not have to sacrifice themselves for their parents.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="26" month="august" country="colombia">
@@ -348,7 +348,7 @@
         <p class="p-8">In order to strengthen the tourist's position on the Montserrat Mountain, there are numerous snack stalls offering regional specialities.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="27" month="august" country="colombia">
-        <p class="p-8">Meeting with Diana, a cousin's sister-in-law. We meet at the Parque de la 93 in Chicó, the district where our accommodation is located. Diana greets us by saying that she couldn't live here, it would be too "orderly" for her. She has just bought a flat in the centre. In a "barrio bien popular". Due to the location, the apartment was very cheap. Now she is hoping for the gentrification of the neighbourhood, as the city is planning a metro line that will have a stop nearby. To get an idea of the quarter, she goes to the apartment at different times of the day and week, which is currently being renovated.</p>
+        <p class="p-8">Meeting with Diana, a cousin's sister-in-law. We meet at the Parque de la 93 in Chicó, the district where our accommodation is located. Diana greets us by saying that she couldn't live here, it would be too “orderly” for her. She has just bought a flat in the centre. In a “barrio bien popular”. Due to the location, the apartment was very cheap. Now she is hoping for the gentrification of the neighbourhood, as the city is planning a metro line that will have a stop nearby. To get an idea of the quarter, she goes to the apartment at different times of the day and week, which is currently being renovated.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="28" month="august" country="colombia">
         <p class="p-8">Today we drove for the first time with a female Uber driver. She told us that she has been registered with Uber for 1.5 years, but has only been driving regularly for a few weeks because she has lost her job in the commercial sector. Finding a job in Bogotá is difficult; many companies have to close. In addition, many Venezuelans come to the country who accept a job for much less money than the Colombians. This is having an impact on the labour market. Our driver is currently looking for a new job and is working as a driver to bridge the gap.</p>
@@ -370,7 +370,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">
-        <p class="p-8">Many Paulistanos use the weekends to visit the <a href="https://goo.gl/maps/HLvBT4K1mUL2" target="_blank">city park Ibirapuera</a>. In the park, there is the <a href="http://www.museuafrobrasil.org.br/" target="_blank">Museu Afro Brasil</a> which is dedicated to the Afro-Brazilian history and culture. There is also a Code of Conduct for slave owners from 1870: "Instruções para a administração das fazendas" ("Instructions for farm management").</p>
+        <p class="p-8">Many Paulistanos use the weekends to visit the <a href="https://goo.gl/maps/HLvBT4K1mUL2" target="_blank">city park Ibirapuera</a>. In the park, there is the <a href="http://www.museuafrobrasil.org.br/" target="_blank">Museu Afro Brasil</a> which is dedicated to the Afro-Brazilian history and culture. There is also a Code of Conduct for slave owners from 1870: “Instruções para a administração das fazendas” (“Instructions for farm management”).</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="3" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-03_01.jpg">
@@ -390,11 +390,11 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="7" month="september" country="brazil">
-        <p class="p-8">Quote from an Uber driver: "São Paulo is not a city to live in, but a city to work in". This is why all those who can afford it leave the city on a holiday like today's Brazilian Independence Day. On 7 September 1822, the Portuguese crown prince Dom Petro proclaimed Brazil's independence with the <i>Grito do Ipiranga</i>.</p>
+        <p class="p-8">Quote from an Uber driver: “São Paulo is not a city to live in, but a city to work in”. This is why all those who can afford it leave the city on a holiday like today's Brazilian Independence Day. On 7 September 1822, the Portuguese crown prince Dom Petro proclaimed Brazil's independence with the <i>Grito do Ipiranga</i>.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="8" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-08.jpg">
-        <p class="p-8">The Brazilian feature film <a href="http://www.imdb.com/title/tt6471684/?ref_=nv_sr_1" target="_blank">"Polícia Federal - A Lei é Para Todos"</a> (in English: The law applies to everyone) tells the story of the beginnings of Operação Lava Jato (Operation Jet Wash). This started the biggest corruption scandal in the history of the country. Critics complain that the film is based on true events, but does not deal with them in a historically correct way. In some cases, the film is interpreted dramaturgically freely. It is always excitingly staged.</p>
+        <p class="p-8">The Brazilian feature film <a href="http://www.imdb.com/title/tt6471684/?ref_=nv_sr_1" target="_blank">“Polícia Federal - A Lei é Para Todos”</a> (in English: The law applies to everyone) tells the story of the beginnings of Operação Lava Jato (Operation Jet Wash). This started the biggest corruption scandal in the history of the country. Critics complain that the film is based on true events, but does not deal with them in a historically correct way. In some cases, the film is interpreted dramaturgically freely. It is always excitingly staged.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="9" month="september" country="brazil">
         <div class="mt-8 video-wrapper">
@@ -407,7 +407,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="11" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-11.jpg">
-        <p class="p-8">In the context of the 6th regional meeting of the <a href="http://www2.csf.itesm.mx/egade/prme/index.html" target="_blank">PRME Chapter Latin America</a>, I participated in a panel discussion on "CSR in Latin America" and presented the first results of my research trip. University representatives from numerous countries in the region discussed how responsible management can be anchored more strongly in research and teaching at universities and business schools.</p>
+        <p class="p-8">In the context of the 6th regional meeting of the <a href="http://www2.csf.itesm.mx/egade/prme/index.html" target="_blank">PRME Chapter Latin America</a>, I participated in a panel discussion on “CSR in Latin America” and presented the first results of my research trip. University representatives from numerous countries in the region discussed how responsible management can be anchored more strongly in research and teaching at universities and business schools.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="12" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-12_01.jpg">
@@ -417,13 +417,13 @@
       <JournalCardItem weekday="wednesday" day="13" month="september" country="brazil">
         <div class="p-8">
           <p>The <a href="http://rmeconference.com/" target="_blank">4th RME Research Conference</a> is a complete success. More scientists than ever before present their research results for discussion at the conference. The conference was first launchedin 2014 at the <a href="http://www.htwchur.ch/prme" target="_blank">HTW Chur</a>.</p>
-          <p class="pt-5">Within the panel discussion "Leaders training for SDG 16 - Peace, justice and strong institutions", I discussed with colleagues and company representatives from Latin America the role of higher education and in-company training in achieving the goals for sustainable development of the United Nations.</p>
+          <p class="pt-5">Within the panel discussion “Leaders training for SDG 16 - Peace, justice and strong institutions”, I discussed with colleagues and company representatives from Latin America the role of higher education and in-company training in achieving the goals for sustainable development of the United Nations.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="14" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-14.jpg">
         <div class="p-8">
-          <p>Today I am giving a lecture on "Corruption in international business" at the <a href="http://rmeconference.com/" target="_blank">4th RME Research Conference</a>. The topic is highly relevant for Brazil and is discussed with corresponding interest.</p>
+          <p>Today I am giving a lecture on “Corruption in international business” at the <a href="http://rmeconference.com/" target="_blank">4th RME Research Conference</a>. The topic is highly relevant for Brazil and is discussed with corresponding interest.</p>
           <p class="pt-5">Paraná is regarded as one of the states with the best education system in the country. According to a media report, however, there are schools that have not yet received any textbooks even ten months after the start of the school year.</p>
         </div>
       </JournalCardItem>
@@ -444,7 +444,7 @@
         <p class="p-8">In the evening I have coconut with Sugarloaf. Delicious ;-)</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="18" month="september" country="brazil">
-        <p class="p-8">The economic crisis has hit Rio de Janeiro hard. Many try to supplement their salaries with apps like Uber or earn their entire livelihood with them. As the saying goes: "Está faltando emprego, mas não está faltando trabalho" ("There is work, but there are no jobs").</p>
+        <p class="p-8">The economic crisis has hit Rio de Janeiro hard. Many try to supplement their salaries with apps like Uber or earn their entire livelihood with them. As the saying goes: “Está faltando emprego, mas não está faltando trabalho” (“There is work, but there are no jobs”).</p>
         <img src="/images/journal/brazil/2017-09-18_01.jpg">
         <img class="pt-8" src="/images/journal/brazil/2017-09-18_02.jpg">
         <p class="p-8">Some impressions from the “Cidade Maravilhosa”</p>
@@ -456,7 +456,7 @@
         <img class="pt-8" src="/images/journal/brazil/2017-09-20.jpg">
         <div class="p-8">
           <p>The old port area of Rio de Janeiro was revitalised for the 2016 Summer Olympics. Today, the area is also a popular excursion destination thanks to the futuristic Museu do Amanhã (Museum of Tomorrow) by the Spanish-Swiss star architect Santiago Calatrava.</p>
-          <p class="pt-5">In Rio de Janeiro, the violence has reached such proportions that the companies in the city centre have joined forces and launched the "Centro presente" initiative. Now armed private security guards are patrolling the city centre in addition to the police.</p>
+          <p class="pt-5">In Rio de Janeiro, the violence has reached such proportions that the companies in the city centre have joined forces and launched the “Centro presente” initiative. Now armed private security guards are patrolling the city centre in addition to the police.</p>
         </div>
         <div class="video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/ubPfZ_JjEQg?rel=0" frameborder="0"></iframe>
@@ -504,7 +504,7 @@
         <p class="p-8">In the <i>Aldeia Yvy Catu</i>, access to drinking water is not a matter of course. Often surface water is used that is dragged in from afar. The revitalisation of deep wells is therefore an important goal of Father Álido's project. A big challenge here is that there is no electricity.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="28" month="september" country="brazil">
-        <p class="p-8">In Brazil, numerous humanitarian projects depend on donations from abroad. "Smile, these are the people who finance our salary" was therefore the recommendation of a woman when a group of donors from Germany recently visited them.</p>
+        <p class="p-8">In Brazil, numerous humanitarian projects depend on donations from abroad. “Smile, these are the people who finance our salary” was therefore the recommendation of a woman when a group of donors from Germany recently visited them.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="29" month="september" country="brazil">
         <p class="p-8">In Brazil, many adults wear braces to have their teeth straightened as soon as they get some money. At the same time you can see many adults who are missing teeth.</p>
@@ -514,7 +514,7 @@
         <p class="p-8">The shopping centers of Pedro Juan Caballero in Paraguay are located directly on the border to Ponta Porã in Mato Grosso do Sul and offer many imported products that are not available or very expensive in Brazil. On weekends the shopping centres are very well frequented.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="1" month="october" country="brazil">
-        <p class="p-8">"The Indians smell like fire." Whether one really dives into the world of the poor/others can be recognized by whether one smells like them..</p>
+        <p class="p-8">“The Indians smell like fire.” Whether one really dives into the world of the poor/others can be recognized by whether one smells like them..</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="2" month="october" country="brazil">
         <div class="p-8">
@@ -523,22 +523,22 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="3" month="october" country="brazil">
-        <p class="p-8">The Brazilian film comedy <a href="http://www.imdb.com/title/tt5813948/?ref_=fn_al_tt_2" target="_blank">"Divórcio"</a> by Pedro Amorim tells the story of the Rose War of a rich entrepreneur couple from the city of Ribeirão Preto in the interior of the state of São Paulo: "Morar no interior é um cu".</p>
+        <p class="p-8">The Brazilian film comedy <a href="http://www.imdb.com/title/tt5813948/?ref_=fn_al_tt_2" target="_blank">“Divórcio”</a> by Pedro Amorim tells the story of the Rose War of a rich entrepreneur couple from the city of Ribeirão Preto in the interior of the state of São Paulo: “Morar no interior é um cu”.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="4" month="october" country="brazil">
-        <p class="p-8">The <a href="http://www.quintadaestancia.com.br/" target="_blank">Quinta da Estância</a> eco-farm uses innovative and creative solutions to operate its core business in a socially and ecologically responsible and economically successful manner. The heat from the coal fire in Churrasqueira is also used to generate hot water for hotels and restaurants. A suitable name for the method was also invented: "Banho gaúcho".</p>
+        <p class="p-8">The <a href="http://www.quintadaestancia.com.br/" target="_blank">Quinta da Estância</a> eco-farm uses innovative and creative solutions to operate its core business in a socially and ecologically responsible and economically successful manner. The heat from the coal fire in Churrasqueira is also used to generate hot water for hotels and restaurants. A suitable name for the method was also invented: “Banho gaúcho”.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="5" month="october" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-10-05.jpg">
         <div class="p-8">
-          <p>Today, the German-Brazilian Chamber of Industry and Commerce Rio Grande do Sul in cooperation with the Konrad-Adenauer-Stiftung organised the seminar "Ética e Reputação empresarial na visão alemã e suiça", where I gave a lecture on the topic of corruption prevention.</p>
+          <p>Today, the German-Brazilian Chamber of Industry and Commerce Rio Grande do Sul in cooperation with the Konrad-Adenauer-Stiftung organised the seminar “Ética e Reputação empresarial na visão alemã e suiça”, where I gave a lecture on the topic of corruption prevention.</p>
           <p class="pt-5">The president of the <a href="http://www.ahkrs.com.br/" target="_blank">AHK Porto Alegre</a>, Everson Oppermann, stated that the interaction of companies with their stakeholders often resembles a battlefield and rarely a space for cooperation.</p>
           <p class="pt-5">Matthias Schmidt, Professor at Beuth University of Applied Sciences Berlin, emphasised that companies cannot be responsible for everything. Those who are supposed to be responsible for everything are ultimately not responsible for anything. But a company has to ask itself which responsibilities arise from its core business. A company must define its core values for its core business.</p>
           <p class="pt-5">Today, Carlos Arthur Nuzman was arrested in the noble Jardim Pernambuco (Leblon) district of Rio de Janeiro. Nuzman has been President of the National Olympic Committee since 1995 and was President of the Organizing Committee of the <a href="https://www.olympic.org/brazil" target="_blank">2016 Olympic Games</a>. He is accused of having bought votes in the run-up to the award of the Summer Games to Rio de Janeiro.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="6" month="october" country="brazil">
-        <p class="p-8">On the last evening in Brazil another film comedy: <a href="http://www.imdb.com/title/tt6987798/" target="_blank">"Chocante"</a> revives the 1990s. Twenty years after their one-hit wonder, the ex-members of a Brazilian boy band try to continue their success. Musically and cineastically unconvincing.</p>
+        <p class="p-8">On the last evening in Brazil another film comedy: <a href="http://www.imdb.com/title/tt6987798/" target="_blank">“Chocante”</a> revives the 1990s. Twenty years after their one-hit wonder, the ex-members of a Brazilian boy band try to continue their success. Musically and cineastically unconvincing.</p>
       </JournalCardItem>
     </JournalCard>
     <JournalCard country="argentina" fromDay="7" fromMonth="october" toDay="4" toMonth="november">
@@ -555,7 +555,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="9" month="october" country="argentina">
         <audio class="mt-8 px-8 w-full focus:outline-none" controls><source src="/audio/argentina/2017-10-09.mp3" type="audio/mpeg"></audio>
-        <p class="p-8">Walking through the pedestrian zone Calle Florida, you will meet numerous money changers who offer to exchange Euro and US Dollar for Argentine Pesos. Already from a distance, you can hear them shouting "cambio, cambio".</p>
+        <p class="p-8">Walking through the pedestrian zone Calle Florida, you will meet numerous money changers who offer to exchange Euro and US Dollar for Argentine Pesos. Already from a distance, you can hear them shouting “cambio, cambio”.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="10" month="october" country="argentina">
         <p class="p-8">Argentina qualifies for the 2018 FIFA World Cup in Russia on the final matchday thanks to three goals scored by Lionel Messi. The event is seen as a proof of God and will be celebrated with a horn concert in the Plaza de la República.</p>
@@ -585,13 +585,13 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="14" month="october" country="argentina">
-        <p class="p-8">On the Avenida 9 de Julio, one of the main traffic arteries of Buenos Aires, the Metrobus travels on the left while the individual travels on the right. This leads again and again to dangerous situations with pedestrians, because they do not expect the bus from the "wrong" side.</p>
+        <p class="p-8">On the Avenida 9 de Julio, one of the main traffic arteries of Buenos Aires, the Metrobus travels on the left while the individual travels on the right. This leads again and again to dangerous situations with pedestrians, because they do not expect the bus from the “wrong” side.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="15" month="october" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-10-15_01.jpg">
-        <p class="p-8">In Buenos Aires, one repeatedly comes across politically motivated graffiti: "We all have Mapuche blood: the poor in our veins, the rich on our hands".</p>
+        <p class="p-8">In Buenos Aires, one repeatedly comes across politically motivated graffiti: “We all have Mapuche blood: the poor in our veins, the rich on our hands”.</p>
         <img src="/images/journal/argentina/2017-10-15_02.jpg">
-        <p class="p-8">On the way back from the modern harbour district Puerto Madero to the accommodation at the obelisk, I become victim of the tourist trap "bird droppings attack". From behind, I was sprayed with bird droppings. A "nice" woman is there "by chance" and offers me a wrinkled handkerchief. I reject this thankfully and go on briskly. Thanks to this reaction no harm was caused.</p>
+        <p class="p-8">On the way back from the modern harbour district Puerto Madero to the accommodation at the obelisk, I become victim of the tourist trap “bird droppings attack”. From behind, I was sprayed with bird droppings. A “nice” woman is there “by chance” and offers me a wrinkled handkerchief. I reject this thankfully and go on briskly. Thanks to this reaction no harm was caused.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="16" month="october" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-10-16.jpg">
@@ -621,12 +621,12 @@
         <p class="p-8">Two months ago, a young student named Santiago Maldonado disappeared after attending a rally in the south of the country in solidarity with the Mapuche indigenous people. State institutions are accused of having something to do with the disappearance of Santiago Maldonado. Government and opposition blame each other of being responsible for the case.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="20" month="october" country="argentina">
-        <p class="p-8">The documentary <a href="http://www.imdb.com/title/tt6818874/?ref_=nv_sr_1" target="_blank">"El mensajero del caballo blanco"</a> tells the story of Robert J. Cox. During the military dictatorship, he was editor-in-chief of the English-language Argentine daily newspaper <a href="http://www.buenosairesherald.com/printed-edition/" target="_blank">"Buenos Aires Herald"</a>. This newspaper reported more openly about the numerous disappeared (Desaparecidos) and the concerns of the Madres de Plaza de Mayo, who still demonstrate today for the clarification of the deeds and the punishment of the perpetrators.</p>
+        <p class="p-8">The documentary <a href="http://www.imdb.com/title/tt6818874/?ref_=nv_sr_1" target="_blank">“El mensajero del caballo blanco”</a> tells the story of Robert J. Cox. During the military dictatorship, he was editor-in-chief of the English-language Argentine daily newspaper <a href="http://www.buenosairesherald.com/printed-edition/" target="_blank">“Buenos Aires Herald”</a>. This newspaper reported more openly about the numerous disappeared (Desaparecidos) and the concerns of the Madres de Plaza de Mayo, who still demonstrate today for the clarification of the deeds and the punishment of the perpetrators.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="21" month="october" country="argentina">
         <div class="p-8">
-          <p>"Cristina and Lula are relatives, or at least they went to the same school," says a taxi driver with a joking undertone, alluding to the corruption trials currently underway against the two former presidents of Argentina and Brazil.</p>
-          <p class="pt-5">The Archbishop of Buenos Aires, Cardinal Mario Aurelio Poli, holds a children's and youth service in the "Luna Park" indoor stadium, which is packed with around 10,000 people.</p>
+          <p>“Cristina and Lula are relatives, or at least they went to the same school,” says a taxi driver with a joking undertone, alluding to the corruption trials currently underway against the two former presidents of Argentina and Brazil.</p>
+          <p class="pt-5">The Archbishop of Buenos Aires, Cardinal Mario Aurelio Poli, holds a children's and youth service in the “Luna Park” indoor stadium, which is packed with around 10,000 people.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="22" month="october" country="argentina">
@@ -637,8 +637,8 @@
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="24" month="october" country="argentina">
         <div class="p-8">
-          <p>Today I am taking part in the ECOSUIZA 2017 event. This will take place under the motto "Sustainable Management - Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible". Approaches for sustainable investments will be presented and discussed. The discussion will continue with lunch at the Swiss Ambassador's residence.</p>
-          <p class="pt-5">As early as 1776, Adam Smith gave an indication in his work Wealth of Nations of how companies can be persuaded to commit themselves to achieving the goals of sustainable development: "We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages."</p>
+          <p>Today I am taking part in the ECOSUIZA 2017 event. This will take place under the motto “Sustainable Management - Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible”. Approaches for sustainable investments will be presented and discussed. The discussion will continue with lunch at the Swiss Ambassador's residence.</p>
+          <p class="pt-5">As early as 1776, Adam Smith gave an indication in his work Wealth of Nations of how companies can be persuaded to commit themselves to achieving the goals of sustainable development: “We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.”</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="25" month="october" country="argentina">
@@ -650,12 +650,12 @@
       <JournalCardItem weekday="thursday" day="26" month="october" country="argentina">
         <p class="p-8">While all of the private sector's interlocutors were very reliable, another academic interlocutor did not appear at the agreed time today.</p>
         <img src="/images/journal/argentina/2017-10-26.jpg">
-        <p class="p-8">Today we visit a final rehearsal of the Buenos Aires Philharmonic Orchestra at the renowned <a href="http://www.teatrocolon.org.ar/" target="_blank">Teatro Colón</a>. The play "Ein Heldenleben, Op. 40" by Richard Straus.</p>
+        <p class="p-8">Today we visit a final rehearsal of the Buenos Aires Philharmonic Orchestra at the renowned <a href="http://www.teatrocolon.org.ar/" target="_blank">Teatro Colón</a>. The play “Ein Heldenleben, Op. 40” by Richard Straus.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="27" month="october" country="argentina">
         <div class="p-8">
           <p>During my research stay, I spoke with numerous company representatives who wanted to be part of the solution. This stands in contrast to the actual behaviour of many companies, which you read about in the newspaper or which you perceive yourself. Here the companies seem to be part of the problem. How can this discrepancy be explained?</p>
-          <p class="pt-5">The Turkish sociologist Zeynep Tufekci addresses this phenomenon in her <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank">TED talk</a>, which I am going to watch today: "I read the many well-intended statements that these people [owners of big internet companies] put out. But, it is not the intent or the statements that matter, it is the structures and business models they are building. And that is the core of the problem."</p>
+          <p class="pt-5">The Turkish sociologist Zeynep Tufekci addresses this phenomenon in her <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank">TED talk</a>, which I am going to watch today: “I read the many well-intended statements that these people [owners of big internet companies] put out. But, it is not the intent or the statements that matter, it is the structures and business models they are building. And that is the core of the problem.”</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="28" month="october" country="argentina">
@@ -666,7 +666,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/i_WMvxUlI3o?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">The Peruvian municipality of Buenos Aires today hosts the traditional procession "del Señor de los Milagros". The procession begins in the Basílica de La Piedad and continues along the Avenida de Mayo.</p>
+        <p class="p-8">The Peruvian municipality of Buenos Aires today hosts the traditional procession “del Señor de los Milagros”. The procession begins in the Basílica de La Piedad and continues along the Avenida de Mayo.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="30" month="october" country="argentina">
         <p class="p-8">Today, the first contact person from the private sector forgot our appointment. However, he has no other obligation, so that we could still conduct our conversation as planned.</p>
@@ -681,7 +681,7 @@
       <JournalCardItem weekday="tuesday" day="31" month="october" country="argentina">
         <div class="p-8">
           <p>Pablo Manrique of Nestlé Argentina points out that due to subsidies, electricity and water are so cheap in Argentina that investments to conserve resources are unlikely to pay for themselves. Due to the lack of ROI, it is difficult to justify such investments. Nevertheless, the Swiss company is investing in environmental protection measures.</p>
-          <p class="pt-5">The documentary <a href="https://www.filmaffinity.com/es/film125539.html" target="_blank">"El futuro llegó"</a> deals with the social and ecological consequences of the petrochemical industrial park in the port city of Ingeniero White, 650 km south-west of Buenos Aires. The construction of the industrial park was associated with a strong hope for progress. Today, however, many residents feel that they are not benefiting from the economic activity, but on the contrary are negatively affected. Massive environmental pollution and fatal accidents at work occur time and again.</p>
+          <p class="pt-5">The documentary <a href="https://www.filmaffinity.com/es/film125539.html" target="_blank">“El futuro llegó”</a> deals with the social and ecological consequences of the petrochemical industrial park in the port city of Ingeniero White, 650 km south-west of Buenos Aires. The construction of the industrial park was associated with a strong hope for progress. Today, however, many residents feel that they are not benefiting from the economic activity, but on the contrary are negatively affected. Massive environmental pollution and fatal accidents at work occur time and again.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="1" month="november" country="argentina">

@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        Em 2018, o México tinha uma população de 126 milhões e um produto interno bruto de 1,223 trilhões de dólares americanos. O México forma parte dos países de renda média-alta e no índice do desenvolvimento humano das Nações Unidas (2018), o país está na 74ª posição em nível mundial. Portanto, o México é considerado um país com um alto grau de desenvolvimento em termos da expectativa de vida, nível educacional e padrão de vida. No entanto, um coeficiente de Gini de 43,3% (2016) põe em evidência a grande desigualdade de renda.
+        Em 2018, o México tinha uma população de 126 milhões e um produto interno bruto de 1&thinsp;223 trilhões de dólares americanos. O México forma parte dos países de renda média-alta e no índice do desenvolvimento humano das Nações Unidas (2018), o país está na 74ª posição em nível mundial. Portanto, o México é considerado um país com um alto grau de desenvolvimento em termos da expectativa de vida, nível educacional e padrão de vida. No entanto, um coeficiente de Gini de 43,3% (2016) põe em evidência a grande desigualdade de renda.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

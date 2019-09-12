@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        2018 lebten in Mexiko mehr als  126 Millionen Menschen, die ein Brut&shy;to&shy;in&shy;lands&shy;pro&shy;dukt von 1‘223 Milliarden US-Dollar erwirtschafteten. Das Land zählt zur Gruppe der Staaten mit höherem mittleren Pro-Kopf-Einkommen und rangiert auf dem Index der menschlichen Entwicklung (2018) auf Platz 74. Damit gilt Mexiko gemessen an der Lebenserwartung, dem Bildungsniveau sowie dem Lebensstandard als Land mit hohem Entwicklungsstand. Ein Gini-Koeffizient von 43,4% (2016) macht jedoch deutlich, dass das Einkommen in Mexiko recht ungleich verteilt ist.
+        2018 lebten in Mexiko mehr als  126 Millionen Menschen, die ein Brut&shy;to&shy;in&shy;lands&shy;pro&shy;dukt von 1&thinsp;223 Milliarden US-Dollar erwirtschafteten. Das Land zählt zur Gruppe der Staaten mit höherem mittleren Pro-Kopf-Einkommen und rangiert auf dem Index der menschlichen Entwicklung (2018) auf Platz 74. Damit gilt Mexiko gemessen an der Lebenserwartung, dem Bildungsniveau sowie dem Lebensstandard als Land mit hohem Entwicklungsstand. Ein Gini-Koeffizient von 43,4% (2016) macht jedoch deutlich, dass das Einkommen in Mexiko recht ungleich verteilt ist.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        In 2018, over 126 million people lived in Mexico, generating a gross domestic product of 1,223 billion US dollars. The country belongs to the group of countries with a higher average income per capita and ranks 74th on the human development index (2018). Measured in terms of life expectancy, educational level and standard of living, Mexico is regarded as a country with a high level of development. However, a Gini coefficient of 43.4% (2016) makes it clear that income in Mexico is quite unequally distributed.
+        In 2018, over 126 million people lived in Mexico, generating a gross domestic product of 1&thinsp;223 billion US dollars. The country belongs to the group of countries with a higher average income per capita and ranks 74th on the human development index (2018). Measured in terms of life expectancy, educational level and standard of living, Mexico is regarded as a country with a high level of development. However, a Gini coefficient of 43.4% (2016) makes it clear that income in Mexico is quite unequally distributed.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

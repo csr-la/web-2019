@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        En el año 2018, más  de 126 millones de personas vivían en México, generando un producto interno bruto de 1.223 mil millones de dólares. El país pertenece al grupo de estados con mayor promedio de ingreso per cápita y ocupa el puesto 74 en el Índice de Desarrollo Humano (2018). Por ende, México es considerado un país con un alto nivel de desarrollo en términos de esperanza de vida, educación y nivel de vida. Sin embargo, un coeficiente de Gini del 43,3% (2016) deja en claro que los ingresos se distribuyen de manera bastante desigual.
+        En el año 2018, más  de 126 millones de personas vivían en México, generando un producto interno bruto de 1&thinsp;223 mil millones de dólares. El país pertenece al grupo de estados con mayor promedio de ingreso per cápita y ocupa el puesto 74 en el Índice de Desarrollo Humano (2018). Por ende, México es considerado un país con un alto nivel de desarrollo en términos de esperanza de vida, educación y nivel de vida. Sin embargo, un coeficiente de Gini del 43,3% (2016) deja en claro que los ingresos se distribuyen de manera bastante desigual.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

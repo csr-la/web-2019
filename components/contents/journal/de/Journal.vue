@@ -37,7 +37,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="7" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-07_01.jpg">
-        <p class="p-8">Nach Einschätzung von Augusto Martínez von <a href="https://www.draeger.com/es_mx/Home" target="_blank">Draeger Mexico</a> ist die Definition von Korruption überall auf der Welt die gleiche, ohne kulturelle Unterschiede. Demnach bedeutet Korruption die Regeln auf irgendeine Weise zu umgehen, um sich einen Vorteil zu verschaffen. «Corrupción es brincar la ley mediante algún medio a ventajarse».</p>
+        <p class="p-8">Nach Einschätzung von Augusto Martínez von <a href="https://www.draeger.com/es_mx/Home" target="_blank">Draeger Mexico</a> ist die Definition von Korruption überall auf der Welt die gleiche, ohne kulturelle Unterschiede. Demnach bedeutet Korruption die Regeln auf irgendeine Weise zu umgehen, um sich einen Vorteil zu verschaffen. „Corrupción es brincar la ley mediante algún medio a ventajarse“.</p>
         <img class="px-8 max-h-9 mx-auto" src="/images/journal/mexico/2017-07-07_02.jpg">
         <p class="p-8">Alberto Equihua, ortsansässiger Koordinator des Kooperationsprojekts Innovationspartnerschaft des <a href="http://www.bdi-mexico.com/" target="_blank">BDI in Mexiko</a>, merkt an, dass es leider eine allgemeine Überzeugung im Land gäbe, dass soziale Verantwortung ein Luxus sei, den sich nur wenige Unternehmen leisten könnten. Und dies seien in der Regel größere Unternehmen.</p>
       </JournalCardItem>
@@ -49,14 +49,14 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Qy3tKmrhDhc?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">Heute erhalten wir einen Einblick in ein «anderes Mexiko»: Der Wochenmarkt im Municipio Coacalco de Berriozábal im Bundesstaat México wird wohl eher selten von Ausländern besucht. Auf dem Rückweg erleben wir, wie schnell die Straßen bei Regen überfluten und zu kleinen Flüssen werden.</p>
+        <p class="p-8">Heute erhalten wir einen Einblick in ein „anderes Mexiko“: Der Wochenmarkt im Municipio Coacalco de Berriozábal im Bundesstaat México wird wohl eher selten von Ausländern besucht. Auf dem Rückweg erleben wir, wie schnell die Straßen bei Regen überfluten und zu kleinen Flüssen werden.</p>
         <div class="video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/rK-RXRPBzAo?rel=0" frameborder="0"></iframe>
         </div>
         <p class="p-8">In der Peripherie Mexiko-Stadts funktioniert die kommunale Müllentsorgung nicht richtig. Private Müllsammler füllen diese Lücke.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="10" month="july" country="mexico">
-        <p class="p-8">Stefan Jost, Leiter des KAS-Auslandsbüros in Mexiko berichtet, dass in Mexiko großer Patriotismus vorhanden sei, gleichzeitig aber wenig Vertrauen in die Regierung herrsche. Die Haltung «je weniger ich von den offiziellen Strukturen abhängig bin, desto besser bin ich dran», stärke den informellen Sektor.</p>
+        <p class="p-8">Stefan Jost, Leiter des KAS-Auslandsbüros in Mexiko berichtet, dass in Mexiko großer Patriotismus vorhanden sei, gleichzeitig aber wenig Vertrauen in die Regierung herrsche. Die Haltung „je weniger ich von den offiziellen Strukturen abhängig bin, desto besser bin ich dran“, stärke den informellen Sektor.</p>
         <img src="/images/journal/mexico/2017-07-10.jpg">
         <p class="p-8">Jorge Aguirre, Jungunternehmer aus dem Bundesstaat Sonora betont, dass bei der Korruption, wie bei einer Treppe, von oben nach unten gefegt werden müsse, sonst funktioniere es nicht.</p>
       </JournalCardItem>
@@ -73,7 +73,7 @@
         </div>
         <div class="p-8">
           <p>Stadtverkehr auf der Avenida Arcos de Belén</p>
-          <p class="pt-5">Bei der Veranstaltung «Bonos de Impacto en México: oportunidades y retos» wird über einen innovativen Finanzierungsmechanismus für soziale Programme diskutiert. Mittels Social Impact Bonds finanzieren private, wirkungsorientierte Investoren ein soziales Vorhaben vor. Nur wenn dieses seine vereinbarte Wirkung erzielt, werden die Investoren vom öffentlichen Auftraggeber rückvergütet. Eine große Hürde für den Ansatz ist das fehlende Vertrauen darauf, dass der mexikanische Staat die eingegangenen Verpflichtungen im Erfolgsfall auch tatsächlich erfüllt.</p>
+          <p class="pt-5">Bei der Veranstaltung „Bonos de Impacto en México: oportunidades y retos“ wird über einen innovativen Finanzierungsmechanismus für soziale Programme diskutiert. Mittels Social Impact Bonds finanzieren private, wirkungsorientierte Investoren ein soziales Vorhaben vor. Nur wenn dieses seine vereinbarte Wirkung erzielt, werden die Investoren vom öffentlichen Auftraggeber rückvergütet. Eine große Hürde für den Ansatz ist das fehlende Vertrauen darauf, dass der mexikanische Staat die eingegangenen Verpflichtungen im Erfolgsfall auch tatsächlich erfüllt.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="14" month="july" country="mexico">
@@ -102,18 +102,18 @@
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="18" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-18_01.jpg">
-        <p class="p-8">Javier Mestre, von Corresponsables hebt hervor «Was nicht gemessen wird, kann nicht verbessert werden». Daher müsse Nachhaltigkeit in den Unternehmen gemessen werden. Darüber hinaus betont er, dass es auf die soziale Verantwortung von Unternehmen kein Urheberrecht geben dürfe. Dennoch kommunizieren einige Unternehmen ihr Engagement nicht, damit sie nicht kopiert werden können. Diesen Ansatz hält er für falsch.</p>
+        <p class="p-8">Javier Mestre, von Corresponsables hebt hervor „Was nicht gemessen wird, kann nicht verbessert werden“. Daher müsse Nachhaltigkeit in den Unternehmen gemessen werden. Darüber hinaus betont er, dass es auf die soziale Verantwortung von Unternehmen kein Urheberrecht geben dürfe. Dennoch kommunizieren einige Unternehmen ihr Engagement nicht, damit sie nicht kopiert werden können. Diesen Ansatz hält er für falsch.</p>
         <img class="max-h-9 mx-auto" src="/images/journal/mexico/2017-07-18_02.jpg">
         <p class="p-8">Der Taco al pastor ist eine in Mexiko sehr beliebte Taco-Art mit Schweinefleisch. Wer hat‘s erfunden? Die Betreiber des Restaurants <a href="https://www.eltizoncito.com.mx/" target="_blank">El Tizoncito</a> beanspruchen, dass sie es waren.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="19" month="july" country="mexico">
-        <p class="p-8">Lorena Cortes von <a href="https://www.cemefi.org/" target="_blank">CEMEFI</a> weist darauf hin, dass es in Mexiko gut angesehen sei, möglichst viel Zeit auf der Arbeit zu verbringen. Daher sei es eines der Länder, in denen die meisten Arbeitsstunden geleistet würden, gleichzeitig sei die Produktivität aber mit am geringsten. Hierfür gibt es ein geflügeltes Wort: «Hacer horas nalgas», Stunden machen, in denen man nichts tut.</p>
+        <p class="p-8">Lorena Cortes von <a href="https://www.cemefi.org/" target="_blank">CEMEFI</a> weist darauf hin, dass es in Mexiko gut angesehen sei, möglichst viel Zeit auf der Arbeit zu verbringen. Daher sei es eines der Länder, in denen die meisten Arbeitsstunden geleistet würden, gleichzeitig sei die Produktivität aber mit am geringsten. Hierfür gibt es ein geflügeltes Wort: „Hacer horas nalgas“, Stunden machen, in denen man nichts tut.</p>
         <div class="video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/fa7977e9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
         <div class="p-8">
-          <p>In Mexiko wird reich sein häufig mit «ein Schuft sein» gleichgesetzt. Die Leute denken, dass man etwas Unrechtes getan haben muss, um reich geworden zu sein. Arm zu sein bedeutet, dass man nicht studieren bzw. arbeiten wolle, sondern faul sei.</p>
-          <p class="pt-5">In Mexiko ist die Ungleichheit ein größeres Problem als die Armut. Vor allem die Ungleichheit vor dem Gesetz und bzgl. des Zugangs zur Justiz ist frappant: «El que no tiene dinero no tiene a quien le defienda» («Wer kein Geld hat, hat niemanden, der ihn verteidigt»).</p>
+          <p>In Mexiko wird reich sein häufig mit „ein Schuft sein“ gleichgesetzt. Die Leute denken, dass man etwas Unrechtes getan haben muss, um reich geworden zu sein. Arm zu sein bedeutet, dass man nicht studieren bzw. arbeiten wolle, sondern faul sei.</p>
+          <p class="pt-5">In Mexiko ist die Ungleichheit ein größeres Problem als die Armut. Vor allem die Ungleichheit vor dem Gesetz und bzgl. des Zugangs zur Justiz ist frappant: „El que no tiene dinero no tiene a quien le defienda“ („Wer kein Geld hat, hat niemanden, der ihn verteidigt“).</p>
         </div>
         <audio class="px-8 w-full focus:outline-none" controls><source src="/audio/mexico/2017-07-19.mp3" type="audio/mpeg"></audio>
         <p class="p-8">Eine Sperrmüllsammlerin fährt durch die Straßen und macht mithilfe eines Megaphons auf sich aufmerksam.</p>
@@ -123,7 +123,7 @@
         <p class="p-8">Gespräch bei Roche. Der Head of Procurement Mexico Arturo Alonso schildert, wie das Schweizer Pharmaunternehmen Nachhaltigkeit in seiner Lieferkette sicherstellt. Nach seiner Erfahrung können lokale Zulieferer viel von multinationalen Unternehmen lernen. Gleichzeitig sind die lokalen Zulieferer wichtig für die multinationalen Unternehmen. Der gezielte Austausch mit den Zulieferern über das Thema Nachhaltigkeit wird auch als Triebfeder für Innovationen genutzt.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="21" month="july" country="mexico">
-        <p class="p-8">Netflix-Abend: In der satirischen Filmkomödie <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">«La dictadura perfecta»</a> hilft ein einflussreicher Fernsehsender gegen ein hohes Bestechungsgeld einem notorisch korruptem Gouverneur sein Image zu verbessern und mexikanischer Präsident zu werden. Nach allem, was wir über das politische System Mexikos erfahren haben, leider kein abwegiger Plot.</p>
+        <p class="p-8">Netflix-Abend: In der satirischen Filmkomödie <a href="http://www.imdb.com/title/tt3970854/?ref_=nv_sr_1" target="_blank">„La dictadura perfecta“</a> hilft ein einflussreicher Fernsehsender gegen ein hohes Bestechungsgeld einem notorisch korruptem Gouverneur sein Image zu verbessern und mexikanischer Präsident zu werden. Nach allem, was wir über das politische System Mexikos erfahren haben, leider kein abwegiger Plot.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="22" month="july" country="mexico">
         <img class="pt-8" src="/images/journal/mexico/2017-07-22.jpg">
@@ -154,7 +154,7 @@
         </div>
         <div class="p-8">
           <p>Erster Tag in Lima: Stadtteil Miraflores – das Polanco Perus. Unsere Wohnung im 10. Stock bietet einen tollen Ausblick bis zum Pazifik. Hier macht Lima einen sehr gepflegten und sauberen Eindruck. Die Straßen sind in besserem Zustand als in Mexiko. Es erscheint alles ein wenig wie in einer Filmkulisse, etwas unwirklich.</p>
-          <p class="pt-5">Der erste Interviewpartner, Eduardo Benavides, betont, dass es zwei Perus gäbe: Lima und den Rest des Landes. Für die indigene Bevölkerung auf dem Land seien auch die Peruaner aus Lima bzw. aus anderen Städten «Ausländer».</p>
+          <p class="pt-5">Der erste Interviewpartner, Eduardo Benavides, betont, dass es zwei Perus gäbe: Lima und den Rest des Landes. Für die indigene Bevölkerung auf dem Land seien auch die Peruaner aus Lima bzw. aus anderen Städten „Ausländer“.</p>
         </div>
         <div class="mb-8 video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/48cd7ed5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -167,7 +167,7 @@
       <JournalCardItem weekday="friday" day="28" month="july" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-07-28_01.jpg">
         <img class="pt-8" src="/images/journal/peru/2017-07-28_02.jpg">
-        <p class="p-8">Heute haben wir das «wirkliche Lima» gesehen. Wir waren in der Altstadt unterwegs – wie viele andere auch. Durch die <i>Fiestas Patrias</i> waren die Straßen teilweise stark überfüllt, die meisten Geschäfte waren jedoch geschlossen.</p>
+        <p class="p-8">Heute haben wir das „wirkliche Lima“ gesehen. Wir waren in der Altstadt unterwegs – wie viele andere auch. Durch die <i>Fiestas Patrias</i> waren die Straßen teilweise stark überfüllt, die meisten Geschäfte waren jedoch geschlossen.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="29" month="july" country="peru">
         <div class="mt-8 video-wrapper">
@@ -202,7 +202,7 @@
         <p class="p-8">Anlässlich des Schweizer Nationalfeiertags findet ein Empfang in der Residenz des Schweizer Botschafters statt. Auch der peruanische Präsident Pedro Pablo Kuczynski hält eine kurze Ansprache. Seine Familie hat schweizerisch-deutsche Wurzeln. Der Präsident betont den Vorbildcharakter, den die Schweiz seiner Meinung nach für Peru hat.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="2" month="august" country="peru">
-        <p class="p-8">Sandro Sanchez, Professor an der CENTRUM Católica Business School, weist darauf hin, dass in Peru die Meinung weit verbreitet sei, dass alle öffentlichen Amtsträger korrupt seien. Daher werde in erster Linie darauf geachtet, ob ein Politiker Bauwerke hinterlasse. Hierfür gibt es ein geflügeltes Wort: «roba pero hace obras».</p>
+        <p class="p-8">Sandro Sanchez, Professor an der CENTRUM Católica Business School, weist darauf hin, dass in Peru die Meinung weit verbreitet sei, dass alle öffentlichen Amtsträger korrupt seien. Daher werde in erster Linie darauf geachtet, ob ein Politiker Bauwerke hinterlasse. Hierfür gibt es ein geflügeltes Wort: „roba pero hace obras“.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="3" month="august" country="peru">
         <div class="mt-8 video-wrapper">
@@ -218,7 +218,7 @@
         <img class="pt-8" src="/images/journal/peru/2017-08-04_02.jpg">
         <div class="p-8">
           <p>Christian Hauser beim Vortrag in der AHK Peru.</p>
-          <p class="pt-5">Heute organisiert die AHK Peru ein Arbeitsfrühstück zum Thema: «Ética y negocios: enfoques y experiencias europeas frente a la corrupción». Es wird deutlich, dass es bisher kaum Plattformen gibt, auf denen sich Compliance-Verantwortliche austauschen können, hierfür aber ein klarer Bedarf gesehen wird. Vielen Dank an Rocío Villaran und ihr Team!</p>
+          <p class="pt-5">Heute organisiert die AHK Peru ein Arbeitsfrühstück zum Thema: „Ética y negocios: enfoques y experiencias europeas frente a la corrupción“. Es wird deutlich, dass es bisher kaum Plattformen gibt, auf denen sich Compliance-Verantwortliche austauschen können, hierfür aber ein klarer Bedarf gesehen wird. Vielen Dank an Rocío Villaran und ihr Team!</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="5" month="august" country="peru">
@@ -236,20 +236,20 @@
         <img src="/images/journal/peru/2017-08-07.jpg">
         <div class="p-8">
           <p>Javier Perla, Leiter Nachhaltiges Wirtschaften von Libélula – Management in Climate Change and Communications, betont, dass in der CSR-Diskussion die Frage, auf welche Weise und mit welchen Methoden ein Unternehmen sein Geld verdient, stärker ins Zentrum rücken müsse. Bislang liege der Fokus zu stark auf der Frage, wie das Unternehmen einen Teil seiner Gewinne in Projekten mit seinen Anspruchsgruppen verteile (Philanthropie).</p>
-          <p class="pt-5">Kinoabend: <a href="https://www.filmaffinity.com/es/film331834.html" target="_blank">«Gemelos sin cura»</a> ist eine Verwechslungskomödie mit dem peruanischen Komiker Pablo Villanueva genannt Melcochita. Der Film handelt von den ungleichen Zwillingsbrüdern Pedro und Pablo. Ein Pfarrer und ein abgehalfterter Kneipenmusiker auf der Flucht vor skrupellosen Schuldeneintreibern. Gewöhnungsbedürftiger Humor.</p>
+          <p class="pt-5">Kinoabend: <a href="https://www.filmaffinity.com/es/film331834.html" target="_blank">„Gemelos sin cura“</a> ist eine Verwechslungskomödie mit dem peruanischen Komiker Pablo Villanueva genannt Melcochita. Der Film handelt von den ungleichen Zwillingsbrüdern Pedro und Pablo. Ein Pfarrer und ein abgehalfterter Kneipenmusiker auf der Flucht vor skrupellosen Schuldeneintreibern. Gewöhnungsbedürftiger Humor.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="8" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-08_01.jpg">
         <div class="p-8">
-          <p>Heute nehmen wir an der internationalen Konferenz zum Thema «Kampf gegen die Korruption» teil, die von der <a href="http://www.kas.de/peru/" target="_blank">Konrad-Adenauer-Stiftung</a> und dem peruanischen <a href="https://www.minjus.gob.pe/" target="_blank">Ministerium für Justiz und Menschenrechte</a> veranstaltet wird. Da wir zwischenzeitlich für Repräsentanten der deutschen Botschaft gehalten werden, erhalten wir bevorzugten Zutritt.</p>
+          <p>Heute nehmen wir an der internationalen Konferenz zum Thema „Kampf gegen die Korruption“ teil, die von der <a href="http://www.kas.de/peru/" target="_blank">Konrad-Adenauer-Stiftung</a> und dem peruanischen <a href="https://www.minjus.gob.pe/" target="_blank">Ministerium für Justiz und Menschenrechte</a> veranstaltet wird. Da wir zwischenzeitlich für Repräsentanten der deutschen Botschaft gehalten werden, erhalten wir bevorzugten Zutritt.</p>
           <p class="pt-5">Die peruanische Regierung hat erklärt mit aller Härte gegen Korruption vorgehen zu wollen. Dies macht Präsident Pedro Pablo Kuczynski im Februar 2017 in einer Fernsehansprache zum Korruptionsskandal um den brasilianischen Baukonzern Odebrecht in Peru deutlich und benennt die konkreten Maßnahmen seiner Regierung zur Korruptionsprävention:</p>
         </div>
         <img class="pb-8" src="/images/journal/peru/2017-08-08_02.jpg">
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="9" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-09_01.jpg">
-        <p class="p-8">In den Räumlichkeiten der Schweizer Botschaft halte ich heute den Vortrag «Lucha empresarial contra la corrupcion: enfoques y experiencias suizas». Die Veranstaltung, an der 27 Unternehmensvertreter teilnehmen, wird von der <a href="http://www.swisschamperu.org/" target="_blank">Schweizerischen Handelskammer in Peru</a> organisiert. Herzlichen Dank an Corinne Schirmer und ihr Team!</p>
+        <p class="p-8">In den Räumlichkeiten der Schweizer Botschaft halte ich heute den Vortrag „Lucha empresarial contra la corrupcion: enfoques y experiencias suizas“. Die Veranstaltung, an der 27 Unternehmensvertreter teilnehmen, wird von der <a href="http://www.swisschamperu.org/" target="_blank">Schweizerischen Handelskammer in Peru</a> organisiert. Herzlichen Dank an Corinne Schirmer und ihr Team!</p>
         <img src="/images/journal/peru/2017-08-09_02.jpg">
         <p class="p-8">Christian Hauser nach seinem Vortrag, u.a. mit Corinne Schirmer, Geschäftsführerin der Schweizerischen Handelskammer (3.v.r.), und Christoph Sommer, Botschaftsrat (2.v.r.).</p>
       </JournalCardItem>
@@ -258,7 +258,7 @@
         <p class="p-8">Nach Einschätzung von Luis Enrique Aguilar von CHS Alternativo sollten die multinationalen Unternehmen für eine Angleichung der nationalen Standards an die internationalen Standards proaktiv Lobby machen, wie sie auch für andere Themen lobbyieren. Damit würden sie für gleiche Wettbewerbsbedingungen für alle Unternehmen sorgen und Risiken für sich verringern.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="11" month="august" country="peru">
-        <p class="p-8">Am letzten Abend in Lima schauen wir im Kino die peruanische Filmkomödie <a href="https://www.filmaffinity.com/es/film406344.html" target="_blank">«Once machos»</a>. Ein Team von Feierabendkickern lässt sich auf ein Fußballspiel gegen eine Profimannschaft ein und verwettet dafür seine Häuser. Diese möchte ein Immobilienhai abreißen, um ein Einkaufszentrum zu errichten. Happy End vorprogrammiert?</p>
+        <p class="p-8">Am letzten Abend in Lima schauen wir im Kino die peruanische Filmkomödie <a href="https://www.filmaffinity.com/es/film406344.html" target="_blank">„Once machos“</a>. Ein Team von Feierabendkickern lässt sich auf ein Fußballspiel gegen eine Profimannschaft ein und verwettet dafür seine Häuser. Diese möchte ein Immobilienhai abreißen, um ein Einkaufszentrum zu errichten. Happy End vorprogrammiert?</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="12" month="august" country="peru">
         <img class="pt-8" src="/images/journal/peru/2017-08-12.jpg">
@@ -280,7 +280,7 @@
       <JournalCardItem weekday="tuesday" day="15" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-15.jpg">
         <div class="p-8">
-          <p>Die AHK Kolumbien lädt heute in Kooperation mit der Schweizer Kammer in Kolumbien zu meinem Vortrag «Lucha empresarial contra la corrupción» ein. Vielen Dank an Yolanda Rodríguez und ihr Team!</p>
+          <p>Die AHK Kolumbien lädt heute in Kooperation mit der Schweizer Kammer in Kolumbien zu meinem Vortrag „Lucha empresarial contra la corrupción“ ein. Vielen Dank an Yolanda Rodríguez und ihr Team!</p>
           <p class="pt-5">Carlos Lozano von Corresponsables hebt hervor, dass kein Superheld, wie Batman oder Superman, kommen werde, um Kolumbien zu retten. Vielmehr seien die Kolumbianer selbst gefordert, die sozialen und ökologischen Herausforderungen des Landes anzugehen.</p>
         </div>
       </JournalCardItem>
@@ -288,7 +288,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/m69imNpJL_Q?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">Um einen Verkehrsinfarkt zu verhindern, gilt seit 1998 in Bogotá das System <a href="http://www.eltiempo.com/pico-y-placa/" target="_blank">«pico y placa»</a>. Zu den Hauptverkehrszeiten («pico») zwischen 6 und 8 Uhr sowie zwischen 15 und 19:30 Uhr dürfen im Stadtgebiet Autos mit bestimmten Endziffern des Nummernschilds («placa») nicht fahren. Jeden Tag sind andere Endziffern betroffen. Bei Zuwiderhandeln drohen drastische Bußgelder.</p>
+        <p class="p-8">Um einen Verkehrsinfarkt zu verhindern, gilt seit 1998 in Bogotá das System <a href="http://www.eltiempo.com/pico-y-placa/" target="_blank">„pico y placa“</a>. Zu den Hauptverkehrszeiten („pico“) zwischen 6 und 8 Uhr sowie zwischen 15 und 19:30 Uhr dürfen im Stadtgebiet Autos mit bestimmten Endziffern des Nummernschilds („placa“) nicht fahren. Jeden Tag sind andere Endziffern betroffen. Bei Zuwiderhandeln drohen drastische Bußgelder.</p>
         <div class="mb-8 video-wrapper">
           <iframe width="640" height="360" src="https://tube.switch.ch/embed/88be16e4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
@@ -310,9 +310,9 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="21" month="august" country="colombia">
         <div class="p-8">
-          <p>Am 15. August war Maria Himmelfahrt. Die Kolumbianer verlegen die meisten Feiertage auf den darauffolgenden Montag und verlängern so das Wochenende. Sie machen «puente» (Brücke). Diese Regelung geht auf Raimundo Emiliani Román zurück und wird daher Ley Emiliani genannt. Die Regelung soll den kolumbianischen Tourismus fördern.</p>
+          <p>Am 15. August war Maria Himmelfahrt. Die Kolumbianer verlegen die meisten Feiertage auf den darauffolgenden Montag und verlängern so das Wochenende. Sie machen „puente“ (Brücke). Diese Regelung geht auf Raimundo Emiliani Román zurück und wird daher Ley Emiliani genannt. Die Regelung soll den kolumbianischen Tourismus fördern.</p>
           <p class="pt-5">Ursprünglich hatten wir drei Termine für heute vereinbart. Zum Glück haben wir alle Gesprächspartner nochmals kontaktierter. Zwei davon hatten den Feiertag nicht auf dem Schirm. Hätten wir nicht nachgefragt, wären wir um 8 Uhr beim vermeintlich ersten Termin vor verschlossener Tür gestanden.</p>
-          <p class="pt-5">Ein Taxifahrer beklagt, dass es in Kolumbien zu viele Feiertage gäbe und deshalb zu wenig gearbeitet würde. Er meint, die Regierung würde für alles einen Feiertag erfinden, um die Leute von den wirklichen Problemen abzulenken: «So lange sie feiern, beschweren sie sich nicht.»</p>
+          <p class="pt-5">Ein Taxifahrer beklagt, dass es in Kolumbien zu viele Feiertage gäbe und deshalb zu wenig gearbeitet würde. Er meint, die Regierung würde für alles einen Feiertag erfinden, um die Leute von den wirklichen Problemen abzulenken: „So lange sie feiern, beschweren sie sich nicht.“</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="22" month="august" country="colombia">
@@ -337,8 +337,8 @@
       <JournalCardItem weekday="friday" day="25" month="august" country="colombia">
         <img class="pt-8" src="/images/journal/colombia/2017-08-25.jpg">
         <div class="p-8">
-          <p>In der Bäckerei «Brot» wird man gefragt, ob man sein Brot aufgeschnitten haben will. Wenn man dies bejaht, schneidet die Verkäuferin das Brot von Hand auf.</p>
-          <p class="pt-5">Heute schauen wir im Kino den Dokumentarfilm <a href="http://www.imdb.com/title/tt5116402/" target="_blank">«Amazona»</a>. Dieser schildert das Leben der britischen Hippie-Aussteigerin Valeria Meikle, die ihre noch jungen Kinder verlassen hatte, um im kolumbianischen Urwald zu leben. Sie ist der Meinung, dass sich eine Mutter nicht für ihre Kinder aufopfern müsse, sondern ihre eigenen Träume leben solle. Im Gegenzug müssten sich Kinder auch nicht für ihre Eltern aufopfern.</p>
+          <p>In der Bäckerei „Brot“ wird man gefragt, ob man sein Brot aufgeschnitten haben will. Wenn man dies bejaht, schneidet die Verkäuferin das Brot von Hand auf.</p>
+          <p class="pt-5">Heute schauen wir im Kino den Dokumentarfilm <a href="http://www.imdb.com/title/tt5116402/" target="_blank">„Amazona“</a>. Dieser schildert das Leben der britischen Hippie-Aussteigerin Valeria Meikle, die ihre noch jungen Kinder verlassen hatte, um im kolumbianischen Urwald zu leben. Sie ist der Meinung, dass sich eine Mutter nicht für ihre Kinder aufopfern müsse, sondern ihre eigenen Träume leben solle. Im Gegenzug müssten sich Kinder auch nicht für ihre Eltern aufopfern.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="26" month="august" country="colombia">
@@ -348,7 +348,7 @@
         <p class="p-8">Zur Stärkung der Touristen gibt es auf dem Hausberg Montserrate zahlreiche Imbissbuden, die regionale Spezialitäten anbieten.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="27" month="august" country="colombia">
-        <p class="p-8">Treffen mit Diana, der Schwägerin einer Cousine. Wir verabreden uns beim Parque de la 93 in Chicó, dem Viertel, in dem unsere Unterkunft liegt. Diana sagt uns zur Begrüßung, dass sie hier nicht leben könnte, es wäre ihr zu «ordentlich». Sie hat sich gerade eine Wohnung im Zentrum gekauft. In einem «barrio bien popular». Aufgrund der Lage war die Wohnung sehr günstig. Nun hofft sie auf die Gentrifizierung des Viertels, da die Stadt eine Metrolinie plant, die in der Nähe eine Haltestelle bekommen soll. Um sich ein Bild von dem Viertel zu machen, geht sie zu unterschiedlichen Tages- und Wochenzeiten zur Wohnung, die derzeit noch renoviert wird.</p>
+        <p class="p-8">Treffen mit Diana, der Schwägerin einer Cousine. Wir verabreden uns beim Parque de la 93 in Chicó, dem Viertel, in dem unsere Unterkunft liegt. Diana sagt uns zur Begrüßung, dass sie hier nicht leben könnte, es wäre ihr zu „ordentlich“. Sie hat sich gerade eine Wohnung im Zentrum gekauft. In einem „barrio bien popular“. Aufgrund der Lage war die Wohnung sehr günstig. Nun hofft sie auf die Gentrifizierung des Viertels, da die Stadt eine Metrolinie plant, die in der Nähe eine Haltestelle bekommen soll. Um sich ein Bild von dem Viertel zu machen, geht sie zu unterschiedlichen Tages- und Wochenzeiten zur Wohnung, die derzeit noch renoviert wird.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="28" month="august" country="colombia">
         <p class="p-8">Heute fahren wir das erste Mal mit einem weiblichen Uberfahrer. Sie erzählt uns, dass sie seit 1,5 Jahren bei Uber gemeldet sei, aber erst seit einigen Wochen regelmäßig fahre, da sie ihre Stelle im kaufmännischen Bereich verloren habe. Die Arbeitssuche in Bogotá sei schwierig; viele Firmen müssten schließen. Außerdem kämen viele Venezolaner ins Land, die eine Stelle für viel weniger Geld annehmen als die Kolumbianer. Dies mache sich auf dem Arbeitsmarkt bemerkbar. Unsere Uberfahrerin ist momentan auf der Suche nach einer neuen Stelle und ist zur Überbrückung als Fahrerin tätig.</p>
@@ -370,7 +370,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="2" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-02.jpg">
-        <p class="p-8">Die Wochenenden nutzen viele Paulistanos für einen Besuch im <a href="https://goo.gl/maps/HLvBT4K1mUL2" target="_blank">Stadtpark Ibirapuera</a>. Im Park befindet sich u.a. das <a href="http://www.museuafrobrasil.org.br/" target="_blank">Museu Afro Brasil</a>, dass sich der afro-brasilianischen Geschichte und Kultur widmet. Dort ist auch ein Code of Conduct für Sklavenhalter aus dem Jahr 1870 ausgestellt: «Instruções para a administração das fazendas» («Anweisungen für die Farmverwaltung»).</p>
+        <p class="p-8">Die Wochenenden nutzen viele Paulistanos für einen Besuch im <a href="https://goo.gl/maps/HLvBT4K1mUL2" target="_blank">Stadtpark Ibirapuera</a>. Im Park befindet sich u.a. das <a href="http://www.museuafrobrasil.org.br/" target="_blank">Museu Afro Brasil</a>, dass sich der afro-brasilianischen Geschichte und Kultur widmet. Dort ist auch ein Code of Conduct für Sklavenhalter aus dem Jahr 1870 ausgestellt: „Instruções para a administração das fazendas“ („Anweisungen für die Farmverwaltung“).</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="3" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-03_01.jpg">
@@ -390,11 +390,11 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="7" month="september" country="brazil">
-        <p class="p-8">Zitat eines Uber-Fahrers: «São Paulo ist keine Stadt zum Leben, sondern eine Stadt zum Arbeiten». Deshalb verlassen alle, die es sich leisten können, an einem Feiertag wie dem heutigen brasilianischen Unabhängigkeitstag die Stadt. Am 7. September 1822 hatte der portugiesische Kronprinz Dom Petro mit dem <i>Grito do Ipiranga</i> die Unabhängigkeit Brasiliens ausgerufen.</p>
+        <p class="p-8">Zitat eines Uber-Fahrers: „São Paulo ist keine Stadt zum Leben, sondern eine Stadt zum Arbeiten“. Deshalb verlassen alle, die es sich leisten können, an einem Feiertag wie dem heutigen brasilianischen Unabhängigkeitstag die Stadt. Am 7. September 1822 hatte der portugiesische Kronprinz Dom Petro mit dem <i>Grito do Ipiranga</i> die Unabhängigkeit Brasiliens ausgerufen.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="8" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-08.jpg">
-        <p class="p-8">Der brasilianische Spielfilm <a href="http://www.imdb.com/title/tt6471684/?ref_=nv_sr_1" target="_blank">«Polícia Federal – A Lei é Para Todos»</a> erzählt die Anfänge der Operação Lava Jato (Operation Hochdruckreiniger). Diese brachte den größten Korruptionsskandal in der Geschichte des Landes ins Rollen. Kritiker bemängeln, dass der Film zwar auf wahren Begebenheiten beruhe, diese aber nicht historisch korrekt verarbeite. Zum Teil werde dramaturgisch frei interpretiert. Spannend inszeniert ist er allemal.</p>
+        <p class="p-8">Der brasilianische Spielfilm <a href="http://www.imdb.com/title/tt6471684/?ref_=nv_sr_1" target="_blank">„Polícia Federal – A Lei é Para Todos“</a> erzählt die Anfänge der Operação Lava Jato (Operation Hochdruckreiniger). Diese brachte den größten Korruptionsskandal in der Geschichte des Landes ins Rollen. Kritiker bemängeln, dass der Film zwar auf wahren Begebenheiten beruhe, diese aber nicht historisch korrekt verarbeite. Zum Teil werde dramaturgisch frei interpretiert. Spannend inszeniert ist er allemal.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="9" month="september" country="brazil">
         <div class="mt-8 video-wrapper">
@@ -407,7 +407,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="11" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-11.jpg">
-        <p class="p-8">Im Rahmen des 6. Regionaltreffens des <a href="http://www2.csf.itesm.mx/egade/prme/index.html" target="_blank">PRME Chapter Lateinamerika</a> nehme ich an einer Paneldiskussion zum Thema «CSR in Latin America» teil und präsentiere erste Ergebnisse meiner Forschungsreise. Hochschulvertreter aus zahlreichen Ländern der Region diskutieren, wie verantwortungsvolle Unternehmensführung stärker in Forschung und Lehre von Hochschulen und Business Schools verankert werden kann.</p>
+        <p class="p-8">Im Rahmen des 6. Regionaltreffens des <a href="http://www2.csf.itesm.mx/egade/prme/index.html" target="_blank">PRME Chapter Lateinamerika</a> nehme ich an einer Paneldiskussion zum Thema „CSR in Latin America“ teil und präsentiere erste Ergebnisse meiner Forschungsreise. Hochschulvertreter aus zahlreichen Ländern der Region diskutieren, wie verantwortungsvolle Unternehmensführung stärker in Forschung und Lehre von Hochschulen und Business Schools verankert werden kann.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="12" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-12_01.jpg">
@@ -417,13 +417,13 @@
       <JournalCardItem weekday="wednesday" day="13" month="september" country="brazil">
         <div class="p-8">
           <p>Die <a href="http://rmeconference.com/" target="_blank">4. RME Research Conference</a> ist ein voller Erfolg. So viele Wissenschaftler wie noch nie stellen anlässlich der Tagung ihre Forschungsergebnisse zur Diskussion. Aus der Taufe gehoben wurde die Konferenz 2014 an der <a href="http://www.htwchur.ch/prme" target="_blank">HTW Chur</a>.</p>
-          <p class="pt-5">Im Rahmen der Podiumsdiskussion «Leaders training for SDG 16 – Peace, justice and strong institutions» diskutiere ich mit Kollegen und Unternehmensvertretern aus Lateinamerika, welche Rolle die Hochschulausbildung und die betriebliche Weiterbildung haben, um die Ziele für nachhaltige Entwicklung der Vereinten Nationen zu erreichen.</p>
+          <p class="pt-5">Im Rahmen der Podiumsdiskussion „Leaders training for SDG 16 – Peace, justice and strong institutions“ diskutiere ich mit Kollegen und Unternehmensvertretern aus Lateinamerika, welche Rolle die Hochschulausbildung und die betriebliche Weiterbildung haben, um die Ziele für nachhaltige Entwicklung der Vereinten Nationen zu erreichen.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="14" month="september" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-09-14.jpg">
         <div class="p-8">
-          <p>Heute halte ich im Rahmen der <a href="http://rmeconference.com/" target="_blank">4. RME Research Conference</a> einen Vortrag zum Thema «Corruption in international business». Das Thema ist für Brasilien hoch aktuell und wird entsprechend interessiert diskutiert.</p>
+          <p>Heute halte ich im Rahmen der <a href="http://rmeconference.com/" target="_blank">4. RME Research Conference</a> einen Vortrag zum Thema „Corruption in international business“. Das Thema ist für Brasilien hoch aktuell und wird entsprechend interessiert diskutiert.</p>
           <p class="pt-5">Paraná gilt als einer der Bundesstaaten mit dem besten Bildungssystem des Landes. Laut einem Medienbericht gibt es dennoch Schulen, die auch zehn Monate nach Beginn des Schuljahrs noch keine Schulbücher erhalten haben.</p>
         </div>
       </JournalCardItem>
@@ -444,10 +444,10 @@
         <p class="p-8">Am Abend gibt es Kokosnuss mit Zuckerhut. Lecker ;-)</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="18" month="september" country="brazil">
-        <p class="p-8">Die wirtschaftliche Krise hat Rio de Janeiro hart getroffen. Viele versuchen mit Apps wie Uber ihr Gehalt aufzubessern oder bestreiten ihren gesamten Lebensunterhalt damit. Oder wie ein Sprichwort sagt: «Está faltando emprego, mas não está faltando trabalho», («Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»).</p>
+        <p class="p-8">Die wirtschaftliche Krise hat Rio de Janeiro hart getroffen. Viele versuchen mit Apps wie Uber ihr Gehalt aufzubessern oder bestreiten ihren gesamten Lebensunterhalt damit. Oder wie ein Sprichwort sagt: „Está faltando emprego, mas não está faltando trabalho“, („Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine“).</p>
         <img src="/images/journal/brazil/2017-09-18_01.jpg">
         <img class="pt-8" src="/images/journal/brazil/2017-09-18_02.jpg">
-        <p class="p-8">Einige Impressionen aus der «Cidade Maravilhosa».</p>
+        <p class="p-8">Einige Impressionen aus der „Cidade Maravilhosa“.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="19" month="september" country="brazil">
         <p class="p-8">Wenn in letzter Zeit Helikopter über den noblen Stadtvierteln im südlichen Teil von Rio de Janeiro kreisten, wusste man, dass wieder eine Hausdurchsuchung im Rahmen der Operation Lava Jato durchgeführt wird. Heute sind die Helikopter jedoch wegen des massiven Gewaltausbruchs in der Favela Rocinha unterwegs.</p>
@@ -456,7 +456,7 @@
         <img class="pt-8" src="/images/journal/brazil/2017-09-20.jpg">
         <div class="p-8">
           <p>Für die Olympischen Sommerspielen 2016 wurde das alte Hafengebiet von Rio de Janeiro revitalisiert. Heute ist das Areal auch dank des futuristischen Museu do Amanhã (Museum von Morgen) des spanisch-schweizerischen Stararchitekten Santiago Calatrava ein beliebtes Ausflugsziel.</p>
-          <p class="pt-5">In Rio de Janeiro hat die Gewalt solche Ausmaße angenommen, dass sich die Unternehmen im Zentrum der Stadt zusammengeschlossen und die Initiative «Centro presente» ins Leben gerufen haben. Nun patrouillieren neben der Polizei auch bewaffnete private Sicherheitsleute im Stadtzentrum.</p>
+          <p class="pt-5">In Rio de Janeiro hat die Gewalt solche Ausmaße angenommen, dass sich die Unternehmen im Zentrum der Stadt zusammengeschlossen und die Initiative „Centro presente“ ins Leben gerufen haben. Nun patrouillieren neben der Polizei auch bewaffnete private Sicherheitsleute im Stadtzentrum.</p>
         </div>
         <div class="video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/ubPfZ_JjEQg?rel=0" frameborder="0"></iframe>
@@ -504,7 +504,7 @@
         <p class="p-8">In der <i>Aldeia Yvy Catu</i> ist der Zugang zu Trinkwasser keine Selbstverständlichkeit. Oft wird Oberflächenwasser genutzt, das von weither angeschleppt wird. Die Revitalisierung von Tiefbrunnen ist daher ein wichtiges Ziel des Projektes von Pater Álido. Eine große Herausforderung hierbei ist, dass es keinen Strom gibt.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="28" month="september" country="brazil">
-        <p class="p-8">In Brasilien hängen zahlreiche humanitäre Projekte von Spenden aus dem Ausland ab. «Lächle, das sind die Leute die unser Gehalt finanzieren», war daher die Empfehlung einer Frau, als vor kurzem eine Gruppe von Spendern aus Deutschland zu Besuch war.</p>
+        <p class="p-8">In Brasilien hängen zahlreiche humanitäre Projekte von Spenden aus dem Ausland ab. „Lächle, das sind die Leute die unser Gehalt finanzieren“, war daher die Empfehlung einer Frau, als vor kurzem eine Gruppe von Spendern aus Deutschland zu Besuch war.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="29" month="september" country="brazil">
         <p class="p-8">In Brasilien tragen zahlreiche Erwachsene Zahnspangen, um sich die Zähne richten zu lassen sobald sie zu etwas Geld gekommen sind. Gleichzeitig sieht man zahlreiche Erwachsene, denen Zähne fehlen.</p>
@@ -514,7 +514,7 @@
         <p class="p-8">Die Einkaufszentren von Pedro Juan Caballero in Paraguay liegen direkt an der Grenze zu Ponta Porã in Mato Grosso do Sul und bieten viele importierte Produkte an, die in Brasilien nicht erhältlich oder sehr teuer sind. An den Wochenenden sind die Einkaufszentren entsprechend sehr gut besucht.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="1" month="october" country="brazil">
-        <p class="p-8">«Die Indios riechen nach Feuer.» Ob man tatsächlich in die Welt der Armen/Anderen eintaucht, erkennt man daran, ob man nach ihnen riecht.</p>
+        <p class="p-8">„Die Indios riechen nach Feuer.“ Ob man tatsächlich in die Welt der Armen/Anderen eintaucht, erkennt man daran, ob man nach ihnen riecht.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="2" month="october" country="brazil">
         <div class="p-8">
@@ -523,22 +523,22 @@
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="3" month="october" country="brazil">
-        <p class="p-8">Die brasilianische Filmkomödie <a href="http://www.imdb.com/title/tt5813948/?ref_=fn_al_tt_2" target="_blank">«Divórcio»</a> von Pedro Amorim erzählt den Rosenkrieg eines reichen Unternehmerehepaars aus der Stadt Ribeirão Preto im Landesinneren des Bundesstaates São Paulo: «Morar no interior é um cu».</p>
+        <p class="p-8">Die brasilianische Filmkomödie <a href="http://www.imdb.com/title/tt5813948/?ref_=fn_al_tt_2" target="_blank">„Divórcio“</a> von Pedro Amorim erzählt den Rosenkrieg eines reichen Unternehmerehepaars aus der Stadt Ribeirão Preto im Landesinneren des Bundesstaates São Paulo: „Morar no interior é um cu“.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="4" month="october" country="brazil">
-        <p class="p-8">Die Öko-Farm <a href="http://www.quintadaestancia.com.br/" target="_blank">Quinta da Estância</a> nutzt innovative und kreative Lösungen, um ihr Kerngeschäft sozial und ökologisch verantwortlich sowie wirtschaftlich erfolgreich zu betreiben. Die Hitze des Kohlefeuers in der Churrasqueira wird auch dazu genutzt, um das Warmwasser für den Hotel- und Gaststättenbetrieb zu erzeugen. Auch ein passender Name für die Methode wurde erfunden: «Banho gaúcho».</p>
+        <p class="p-8">Die Öko-Farm <a href="http://www.quintadaestancia.com.br/" target="_blank">Quinta da Estância</a> nutzt innovative und kreative Lösungen, um ihr Kerngeschäft sozial und ökologisch verantwortlich sowie wirtschaftlich erfolgreich zu betreiben. Die Hitze des Kohlefeuers in der Churrasqueira wird auch dazu genutzt, um das Warmwasser für den Hotel- und Gaststättenbetrieb zu erzeugen. Auch ein passender Name für die Methode wurde erfunden: „Banho gaúcho“.</p>
       </JournalCardItem>
       <JournalCardItem weekday="thursday" day="5" month="october" country="brazil">
         <img class="pt-8" src="/images/journal/brazil/2017-10-05.jpg">
         <div class="p-8">
-          <p>Heute veranstaltet die Deutsch-Brasilianische Industrie- und Handelskammer Rio Grande do Sul in Kooperation mit der Konrad-Adenauer-Stiftung das Seminar «Ética e Reputação empresarial na visão alemã e suiça», bei der ich einen Vortrag zum Thema Korruptionsprävention halte.</p>
+          <p>Heute veranstaltet die Deutsch-Brasilianische Industrie- und Handelskammer Rio Grande do Sul in Kooperation mit der Konrad-Adenauer-Stiftung das Seminar „Ética e Reputação empresarial na visão alemã e suiça“, bei der ich einen Vortrag zum Thema Korruptionsprävention halte.</p>
           <p class="pt-5">Der Präsident der <a href="http://www.ahkrs.com.br/" target="_blank">AHK Porto Alegre</a>, Everson Oppermann, konstatiert, dass die Interaktion von Unternehmen mit ihren Stakeholdern häufig einem Schlachtfeld und nur selten einem Raum für Zusammenarbeit gleiche.</p>
           <p class="pt-5">Matthias Schmidt, Professor an der Beuth Hochschule für Technik Berlin, betont, dass Unternehmen nicht für alles verantwortlich sein können. Wer vermeintlich für alles verantwortlich sei, sei schlussendlich für nichts verantwortlich. Ein Unternehmen müsse sich aber fragen, welche Verantwortungen sich aus seinem Kerngeschäft ergeben. Für sein Kerngeschäft muss ein Unternehmen seine Kernwerte definieren.</p>
           <p class="pt-5">Heute wird im noblen Stadtviertel Jardim Pernambuco (Leblon) in Rio de Janeiro Carlos Arthur Nuzman verhaftet. Nuzman ist seit 1995 Präsident des Nationalen Olympischen Komitees und war Präsident des Organisationskomitees der <a href="https://www.olympic.org/brazil" target="_blank">Olympischen Spiele 2016</a>. Ihm wird vorgeworfen, im Vorfeld der Vergabe der Sommerspiele an Rio de Janeiro Stimmen gekauft zu haben.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="6" month="october" country="brazil">
-        <p class="p-8">Am letzten Abend in Brasilien nochmals eine Filmkomödie: <a href="http://www.imdb.com/title/tt6987798/" target="_blank">«Chocante»</a> lässt die 1990er Jahre wieder aufleben. Zwanzig Jahre nach ihrem One-Hit-Wonder versuchen die abgehalfterten Ex-Mitglieder einer brasilianischen Boyband an ihren Erfolg anzuknüpfen. Musikalisch wie cineastisch wenig überzeugend.</p>
+        <p class="p-8">Am letzten Abend in Brasilien nochmals eine Filmkomödie: <a href="http://www.imdb.com/title/tt6987798/" target="_blank">„Chocante“</a> lässt die 1990er Jahre wieder aufleben. Zwanzig Jahre nach ihrem One-Hit-Wonder versuchen die abgehalfterten Ex-Mitglieder einer brasilianischen Boyband an ihren Erfolg anzuknüpfen. Musikalisch wie cineastisch wenig überzeugend.</p>
       </JournalCardItem>
     </JournalCard>
     <JournalCard country="argentina" fromDay="7" fromMonth="october" toDay="4" toMonth="november">
@@ -555,7 +555,7 @@
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="9" month="october" country="argentina">
         <audio class="mt-8 px-8 w-full focus:outline-none" controls><source src="/audio/argentina/2017-10-09.mp3" type="audio/mpeg"></audio>
-        <p class="p-8">Beim Gang durch die Fußgängerzone Calle Florida begegnet man zahlreichen Geldwechslern, die anbieten Euro und US-Dollar in Argentinische Pesos umzutauschen. Schon von weitem hört man sie «cambio, cambio» rufen.</p>
+        <p class="p-8">Beim Gang durch die Fußgängerzone Calle Florida begegnet man zahlreichen Geldwechslern, die anbieten Euro und US-Dollar in Argentinische Pesos umzutauschen. Schon von weitem hört man sie „cambio, cambio“ rufen.</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="10" month="october" country="argentina">
         <p class="p-8">Nach einer durchwachsenen WM-Qualifikation qualifiziert sich Argentinien am letzten Spieltag dank dreier Tore von Lionel Messi für die Fußballweltmeisterschaft 2018 in Russland. Das Ereignis wird als Gottesbeweis verstanden und mit einem Hupkonzert auf der Plaza de la República gefeiert.</p>
@@ -579,19 +579,19 @@
       <JournalCardItem weekday="friday" day="13" month="october" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-10-13.jpg">
         <div class="p-8">
-          <p>Im Zentrum von Buenos Aires leben auffallend viele Menschen auf der Straße. Teilweise haben sie sich richtig «häuslich» eingerichtet – mit Stühlen, Tischchen, Matratzen und Plastikvorhängen als Sichtschutz.</p>
+          <p>Im Zentrum von Buenos Aires leben auffallend viele Menschen auf der Straße. Teilweise haben sie sich richtig „häuslich“ eingerichtet – mit Stühlen, Tischchen, Matratzen und Plastikvorhängen als Sichtschutz.</p>
           <p class="pt-5">In den Straßen der Innenstadt von Buenos Aires riecht es als Ausdruck der Armut häufig nach Urin.</p>
           <p class="pt-5">Gegenüber der McDonald’s Filiale an der Plaza de la República bettelt eine junge Mutter abends mit zwei kleinen Kindern. Als sie gegen 23:30 Uhr mit dem kleineren Mädchen in den McDonald’s geht, lässt sie das zweite, höchstens fünf Jahre alte Mädchen, alleine schlafend an der Ecke zurück. Die Menschen gehen, ohne ihm Beachtung zu schenken, vorbei.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="14" month="october" country="argentina">
-        <p class="p-8">Auf der Avenida 9 de Julio, eine der Hauptverkehrsadern von Buenos Aires, verkehrt der Metrobus im Linksverkehr während der Individualverkehr im üblichen Rechtsverkehr unterwegs ist. Dies führt immer wieder zu brenzligen Situationen mit Fußgängern, da diese den Bus nicht von der «falschen» Seite erwarten.</p>
+        <p class="p-8">Auf der Avenida 9 de Julio, eine der Hauptverkehrsadern von Buenos Aires, verkehrt der Metrobus im Linksverkehr während der Individualverkehr im üblichen Rechtsverkehr unterwegs ist. Dies führt immer wieder zu brenzligen Situationen mit Fußgängern, da diese den Bus nicht von der „falschen“ Seite erwarten.</p>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="15" month="october" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-10-15_01.jpg">
-        <p class="p-8">In Buenos Aires stößt man immer wieder auf politisch motivierte Graffiti: «Wir haben alle Mapucheblut: die Armen in den Venen, die Reichen an den Händen»</p>
+        <p class="p-8">In Buenos Aires stößt man immer wieder auf politisch motivierte Graffiti: „Wir haben alle Mapucheblut: die Armen in den Venen, die Reichen an den Händen“</p>
         <img src="/images/journal/argentina/2017-10-15_02.jpg">
-        <p class="p-8">Auf dem Rückweg vom modernen Hafenviertel Puerto Madero in die Unterkunft am Obelisk werde ich heute Opfer der Touristenfalle «Vogeldreck-Anschlag». Von hinten werde ich mit Vogelkot vollgespritzt. Eine «nette» Frau ist «zufällig» zur Stelle und bietet mir ein verrunzeltes Taschentuch an. Dieses lehne ich dankend ab und gehe zügig weiter. Durch diese Reaktion entsteht Gott sei Dank nicht mehr Schaden.</p>
+        <p class="p-8">Auf dem Rückweg vom modernen Hafenviertel Puerto Madero in die Unterkunft am Obelisk werde ich heute Opfer der Touristenfalle „Vogeldreck-Anschlag“. Von hinten werde ich mit Vogelkot vollgespritzt. Eine „nette“ Frau ist „zufällig“ zur Stelle und bietet mir ein verrunzeltes Taschentuch an. Dieses lehne ich dankend ab und gehe zügig weiter. Durch diese Reaktion entsteht Gott sei Dank nicht mehr Schaden.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="16" month="october" country="argentina">
         <img class="pt-8" src="/images/journal/argentina/2017-10-16.jpg">
@@ -621,12 +621,12 @@
         <p class="p-8">Seit zwei Monaten ist ein junger Student namens Santiago Maldonado verschwunden, nachdem er im Süden des Landes an einer Kundgebung teilgenommen hatte, die aus Solidarität mit dem indigenen Volk der Mapuche stattfand. Den staatlichen Institutionen wird vorgeworfen, etwas mit dem Verschwinden von Santiago Maldonado zu tun zu haben. Regierung und Opposition werfen sich gegenseitig vor, für den Fall verantwortlich zu sein.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="20" month="october" country="argentina">
-        <p class="p-8">Der Dokumentarfilm <a href="http://www.imdb.com/title/tt6818874/?ref_=nv_sr_1" target="_blank">«El mensajero del caballo blanco»</a> erzählt die Geschichte von Robert J. Cox. Dieser war während der Militärdiktatur Chefredakteur der englischsprachigen argentinischen Tageszeitung <a href="http://www.buenosairesherald.com/printed-edition/" target="_blank">«Buenos Aires Herald»</a>. Diese berichtete damals offener über die zahlreichen Verschwundenen (Desaparecidos) und die Anliegen der Madres de Plaza de Mayo, die bis heute für die Aufklärung der Taten und die Bestrafung der Täter demonstrieren.</p>
+        <p class="p-8">Der Dokumentarfilm <a href="http://www.imdb.com/title/tt6818874/?ref_=nv_sr_1" target="_blank">„El mensajero del caballo blanco“</a> erzählt die Geschichte von Robert J. Cox. Dieser war während der Militärdiktatur Chefredakteur der englischsprachigen argentinischen Tageszeitung <a href="http://www.buenosairesherald.com/printed-edition/" target="_blank">„Buenos Aires Herald“</a>. Diese berichtete damals offener über die zahlreichen Verschwundenen (Desaparecidos) und die Anliegen der Madres de Plaza de Mayo, die bis heute für die Aufklärung der Taten und die Bestrafung der Täter demonstrieren.</p>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="21" month="october" country="argentina">
         <div class="p-8">
-          <p>«Cristina und Lula sind Verwandte, oder sind zumindest auf die gleiche Schule gegangen», sagt eine Taxifahrerin mit scherzhaftem Unterton und spielt damit auf die Korruptionsverfahren an, die derzeit gegen die beiden ehemaligen Präsidenten von Argentinien und Brasilien laufen.</p>
-          <p class="pt-5">Der Erzbischof von Buenos Aires, Kardinal Mario Aurelio Poli, hält im mit ca. 10‘000 Personen vollbesetzten Hallenstadion «Luna Park» einen Kinder- und Jugendgottesdienst.</p>
+          <p>„Cristina und Lula sind Verwandte, oder sind zumindest auf die gleiche Schule gegangen“, sagt eine Taxifahrerin mit scherzhaftem Unterton und spielt damit auf die Korruptionsverfahren an, die derzeit gegen die beiden ehemaligen Präsidenten von Argentinien und Brasilien laufen.</p>
+          <p class="pt-5">Der Erzbischof von Buenos Aires, Kardinal Mario Aurelio Poli, hält im mit ca. 10‘000 Personen vollbesetzten Hallenstadion „Luna Park“ einen Kinder- und Jugendgottesdienst.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="sunday" day="22" month="october" country="argentina">
@@ -637,8 +637,8 @@
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="24" month="october" country="argentina">
         <div class="p-8">
-          <p>Heute nehme ich an der Veranstaltung ECOSUIZA 2017 teil. Diese findet unter dem Motto «Sustainable Management – Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible» statt. Es werden Ansätze für nachhaltige Investitionen vorgestellt und diskutiert. Die Diskussion wird beim anschließenden Mittagsessen in der Residenz des Schweizer Botschafters fortgesetzt.</p>
-          <p class="pt-5">Bereits 1776 hat Adam Smith in seinem Werk Wealth of Nations einen Hinweis gegeben, wie man Unternehmen dazu bringen kann, sich für das Erreichen der Ziele für nachhaltige Entwicklung zu engagieren: «We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.»</p>
+          <p>Heute nehme ich an der Veranstaltung ECOSUIZA 2017 teil. Diese findet unter dem Motto „Sustainable Management – Sustainable Investments: Las Inversiones en la era de los Objetivos de Desarrollo Sostenible“ statt. Es werden Ansätze für nachhaltige Investitionen vorgestellt und diskutiert. Die Diskussion wird beim anschließenden Mittagsessen in der Residenz des Schweizer Botschafters fortgesetzt.</p>
+          <p class="pt-5">Bereits 1776 hat Adam Smith in seinem Werk Wealth of Nations einen Hinweis gegeben, wie man Unternehmen dazu bringen kann, sich für das Erreichen der Ziele für nachhaltige Entwicklung zu engagieren: „We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.“</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="25" month="october" country="argentina">
@@ -650,12 +650,12 @@
       <JournalCardItem weekday="thursday" day="26" month="october" country="argentina">
         <p class="p-8">Während sämtliche Gesprächspartner aus der Privatwirtschaft sehr zuverlässig waren, erscheint heute erneut ein Gesprächspartner aus dem akademischen Bereich nicht zum vereinbarten Termin.</p>
         <img src="/images/journal/argentina/2017-10-26.jpg">
-        <p class="p-8">Heute besuchen wir eine Generalprobe des Philharmonischen Orchesters Buenos Aires im renommierten <a href="http://www.teatrocolon.org.ar/" target="_blank">Teatro Colón</a>. Gespielt wird «Ein Heldenleben, Op. 40» von Richard Strauss.</p>
+        <p class="p-8">Heute besuchen wir eine Generalprobe des Philharmonischen Orchesters Buenos Aires im renommierten <a href="http://www.teatrocolon.org.ar/" target="_blank">Teatro Colón</a>. Gespielt wird „Ein Heldenleben, Op. 40“ von Richard Strauss.</p>
       </JournalCardItem>
       <JournalCardItem weekday="friday" day="27" month="october" country="argentina">
         <div class="p-8">
           <p>Während meines Forschungsaufenthalts habe ich mit zahlreichen Unternehmensvertretern gesprochen, die Teil der Lösung sein wollen. Dies steht im Gegensatz zum realen Verhalten vieler Unternehmen, über das man in der Zeitung liest bzw. das man selbst wahrnimmt. Hier erscheinen die Unternehmen vielmehr noch Teil des Problems zu sein. Wie lässt sich dieser Diskrepanz erklären?</p>
-          <p class="pt-5">Die türkische Soziologin Zeynep Tufekci thematisiert dieses Phänomen in ihrem <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank">TED-Talk</a>, den ich heute anschaue: «I read the many well-intended statements that these people [owners of big internet companies] put out. But, it is not the intent or the statements that matter, it is the structures and business models they are building. And that is the core of the problem».</p>
+          <p class="pt-5">Die türkische Soziologin Zeynep Tufekci thematisiert dieses Phänomen in ihrem <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads" target="_blank">TED-Talk</a>, den ich heute anschaue: „I read the many well-intended statements that these people [owners of big internet companies] put out. But, it is not the intent or the statements that matter, it is the structures and business models they are building. And that is the core of the problem“.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="saturday" day="28" month="october" country="argentina">
@@ -666,7 +666,7 @@
         <div class="mt-8 video-wrapper">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/i_WMvxUlI3o?rel=0" frameborder="0"></iframe>
         </div>
-        <p class="p-8">Die peruanische Gemeinde von Buenos Aires veranstaltet heute die traditionelle Prozession «del Señor de los Milagros». Diese beginnt in der Basílica de La Piedad und führt über die Avenida de Mayo.</p>
+        <p class="p-8">Die peruanische Gemeinde von Buenos Aires veranstaltet heute die traditionelle Prozession „del Señor de los Milagros“. Diese beginnt in der Basílica de La Piedad und führt über die Avenida de Mayo.</p>
       </JournalCardItem>
       <JournalCardItem weekday="monday" day="30" month="october" country="argentina">
         <p class="p-8">Heute hat der erste Gesprächspartner aus dem Privatsektor unseren Termin vergessen. Er hat jedoch keine andere Verpflichtung, so dass wir unser Gespräch dennoch wie geplant durchführen können.</p>
@@ -681,7 +681,7 @@
       <JournalCardItem weekday="tuesday" day="31" month="october" country="argentina">
         <div class="p-8">
           <p>Pablo Manrique von Nestlé Argentina weist darauf hin, dass aufgrund von Subventionen Strom und Wasser in Argentinien so billig seien, dass sich Investitionen zur Einsparung von Ressourcen kaum amortisieren lassen. Aufgrund des fehlenden ROI sei es schwierig derartige Investitionen zu rechtfertigen. Dennoch investiere das Schweizer Unternehmen in Maßnahmen zum Umweltschutz.</p>
-          <p class="pt-5">Der Dokumentarfilm <a href="https://www.filmaffinity.com/es/film125539.html" target="_blank">«El futuro llegó»</a> thematisiert die sozialen und ökologischen Folgen des petrochemischen Industrieparks in der Hafenstadt Ingeniero White; 650km süd-westlich von Buenos Aires. Die Errichtung des Industrieparks wurde mit einer starken Fortschritts-Hoffnung verbunden. Heute fühlen jedoch zahlreiche Anwohner, dass sie von der wirtschaftlichen Aktivität nicht profitieren, sondern im Gegenteil negativ betroffen sind. Es kommt immer wieder zu massiven Umweltbelastungen und tödlichen Arbeitsunfällen.</p>
+          <p class="pt-5">Der Dokumentarfilm <a href="https://www.filmaffinity.com/es/film125539.html" target="_blank">„El futuro llegó“</a> thematisiert die sozialen und ökologischen Folgen des petrochemischen Industrieparks in der Hafenstadt Ingeniero White; 650km süd-westlich von Buenos Aires. Die Errichtung des Industrieparks wurde mit einer starken Fortschritts-Hoffnung verbunden. Heute fühlen jedoch zahlreiche Anwohner, dass sie von der wirtschaftlichen Aktivität nicht profitieren, sondern im Gegenteil negativ betroffen sind. Es kommt immer wieder zu massiven Umweltbelastungen und tödlichen Arbeitsunfällen.</p>
         </div>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="1" month="november" country="argentina">

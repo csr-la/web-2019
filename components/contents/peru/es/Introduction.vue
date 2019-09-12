@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        En el año 2018, cerca de 32 millones de personas vivían en Perú, generando un producto interno bruto de 222 mil millones de dólares. Un ingreso promedio per cápita de poco más de US$ 6.000, según el Banco Mundial (2017), clasifica a Perú como un país de ingreso medio en el rango superior. Perú ocupa el puesto 89 en el Índice de Desarrollo Humano de las Naciones Unidas. Respecto de la esperanza de vida, el nivel de educación y el nivel de vida, el país está evaluado con un alto desarrollo humano. Sin embargo, el coeficiente de Gini de 43,3% (2017) deja en claro que existen diferencias de ingreso significativas en el Perú, aunque no tan pronunciadas como en otros países de América Latina.
+        En el año 2018, cerca de 32 millones de personas vivían en Perú, generando un producto interno bruto de 222 mil millones de dólares. Un ingreso promedio per cápita de poco más de US$ 6&thinsp;000, según el Banco Mundial (2017), clasifica a Perú como un país de ingreso medio en el rango superior. Perú ocupa el puesto 89 en el Índice de Desarrollo Humano de las Naciones Unidas. Respecto de la esperanza de vida, el nivel de educación y el nivel de vida, el país está evaluado con un alto desarrollo humano. Sin embargo, el coeficiente de Gini de 43,3% (2017) deja en claro que existen diferencias de ingreso significativas en el Perú, aunque no tan pronunciadas como en otros países de América Latina.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

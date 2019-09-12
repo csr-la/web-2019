@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        Em 2018, o Peru tinha uma população de cerca de 32 milhões de pessoas e uma renda de 222 bilhões de dólares americanos. Uma renda média per capita de cerca de 6.000 dólares americanos e, segundo o Banco Mundial (2017), trata-se de um país com renda média-alta. O Peru ocupa a 89ª posição no ranking do índice de desenvolvimento humano das Nações Unidas (2016). Referente à expectativa de vida, o nível de educação e o padrão de vida, o Peru pertence à categoria dos países com um nível alto de desenvolvimento humano. No entanto, o coeficiente Gini de 43,3% (2017) indica uma desigualdade significativa na distribuição da renda, mesmo que não seja tão marcante como a de outros países da América Latina.
+        Em 2018, o Peru tinha uma população de cerca de 32 milhões de pessoas e uma renda de 222 bilhões de dólares americanos. Uma renda média per capita de cerca de 6&thinsp;000 dólares americanos e, segundo o Banco Mundial (2017), trata-se de um país com renda média-alta. O Peru ocupa a 89ª posição no ranking do índice de desenvolvimento humano das Nações Unidas (2016). Referente à expectativa de vida, o nível de educação e o padrão de vida, o Peru pertence à categoria dos países com um nível alto de desenvolvimento humano. No entanto, o coeficiente Gini de 43,3% (2017) indica uma desigualdade significativa na distribuição da renda, mesmo que não seja tão marcante como a de outros países da América Latina.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>
