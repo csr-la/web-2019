@@ -17,6 +17,10 @@ export default {
       {
         property: "og:image",
         content: "https://csr-la.net/images/home/index.jpg"
+      },
+      {
+        property: "og:type",
+        content: "website"
       }
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
