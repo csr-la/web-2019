@@ -31,14 +31,14 @@
             <div class="flex flex-col md:flex-row md:items-center">
               <p class="w-24">{{ $t('home.world') }}</p>
               <div class="w-40 sm:w-60 h-5 bg-gray-600 text-right px-1 flex items-center sm:justify-end">
-                <span class="text-white text-xs font-bold text-shadow-info">{{ index.world.co2 }}t / {{ $t('home.person') }}</span>
+                <span class="text-white text-xs font-bold text-shadow-info"><span v-html="punctuate(index.world.co2)"></span>t / {{ $t('home.person') }}</span>
               </div>
             </div>
             <div v-if="selectedCountry" class="mt-1 flex flex-col md:flex-row md:items-center">
               <p class="w-24">{{ $t('pages.' + index[selectedCountry].name) }}</p>
               <div class="w-40 sm:w-60 sm:min-w-60">
                 <div :style="calcWidth(selectedCountry, 'co2')" :class="index[selectedCountry].fill" class="h-5 text-right px-1 flex items-center sm:justify-end transition-all transition-250 transition-ease-in-out">
-                  <span class="whitespace-no-wrap text-white text-xs font-bold text-shadow-info">{{ index[selectedCountry].co2 }}t / {{ $t('home.person') }}</span>
+                  <span class="whitespace-no-wrap text-white text-xs font-bold text-shadow-info"><span v-html="punctuate(index[selectedCountry].co2)"></span>t / {{ $t('home.person') }}</span>
                 </div>
               </div>
             </div>
@@ -50,14 +50,14 @@
             <div class="flex flex-col md:flex-row md:items-center">
               <p class="w-24">{{ $t('home.world') }}</p>
               <div class="w-40 sm:w-60 h-5 bg-gray-600 text-right px-1 flex items-center sm:justify-end">
-                <span class="text-white text-xs font-bold text-shadow-info">{{ index.world.age }} {{ $t('home.years') }}</span>
+                <span class="text-white text-xs font-bold text-shadow-info"><span v-html="punctuate(index.world.age)"></span> {{ $t('home.years') }}</span>
               </div>
             </div>
             <div v-if="selectedCountry" class="mt-1 flex flex-col md:flex-row md:items-center">
               <p class="w-24">{{ $t('pages.' + index[selectedCountry].name) }}</p>
               <div class="w-40 sm:w-60 sm:min-w-60">
                 <div :style="calcWidth(selectedCountry, 'age')" :class="index[selectedCountry].fill" class="h-5 text-right px-1 flex items-center sm:justify-end transition-all transition-250 transition-ease-in-out">
-                  <span class="whitespace-no-wrap text-white text-xs font-bold text-shadow-info">{{ index[selectedCountry].age }} {{ $t('home.years') }}</span>
+                  <span class="whitespace-no-wrap text-white text-xs font-bold text-shadow-info"><span v-html="punctuate(index[selectedCountry].age)"></span> {{ $t('home.years') }}</span>
                 </div>
               </div>
             </div>
@@ -141,6 +141,12 @@ export default {
     },
     changeCountry(selected) {
       this.selectedCountry = selected
+    },
+    punctuate(value) {
+      if (this.$i18n.locale !== "en") {
+        value = value.toString().replace(".", ",")
+      }
+      return value
     }
   },
   mixins: [smoothReflow],
