@@ -5,8 +5,7 @@
   force = true
 
 [[redirects]]
-  from = "/de/*"
-  to = "/en/:splat"
+  from = "/"
+  to = "/de"
   status = 302
   force = true
-  conditions = {Language = ["de"]}
