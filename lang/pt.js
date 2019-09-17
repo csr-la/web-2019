@@ -53,7 +53,7 @@ export default {
     peru: "«O Peru é um mendigo, sentado sobre um banco de ouro»",
     colombia: "«Na Colômbia ainda reina uma grande desconfiança»",
     brazil: "«O Brasil é um país maravilhoso, dominado por uma elite corrupta»",
-    argentina: "«Argentina é o país do ’até quando vai continuar assim?’»",
+    argentina: "«Argentina é o país do ’na realidade, deveríamos’»",
     conclusion:
       "«As sementes estão plantadas, agora é preciso conhecimento e ferramentas para fazê-las crescer»",
     recommendations:

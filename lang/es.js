@@ -129,7 +129,7 @@ export default {
     population: "Habitantes",
     area: "Territorio",
     flightRoute: "Recorridos",
-    taxiRides: "Viagens de táxi",
+    taxiRides: "Viajes en taxi",
     interviewMins: "Minutos de entrevista",
     metersAltitude: "Metros de altura"
   },

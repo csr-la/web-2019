@@ -2,7 +2,7 @@
   <div>
     <div class="clearfix-left">
       <p class="xl:float-left">
-        Kolumbien verfügte 2018 über knapp 50 Millionen Einwohnern und erzielte eine Wirtschaftsleistung von gut 330 Milliarden US-Dollar. Gemäß Einteilung der Weltbank (2018) zählt Kolumbien zu den Ländern mit höherem mittlerem Einkommen und belegt im Index der menschlichen Entwicklung der Vereinten Nationen den 90. Rang. Somit wird Kolumbien bezüglich Lebenserwartung, Bildungsniveau und Lebensstandard als Land mit hohem Entwicklungsstand eingestuft. Bei diesen auf Mittelwerten basierenden Indikatoren bleiben jedoch die großen Einkommensunterschiede weitgehend unberücksichtigt, die in Kolumbien herrschen, und die in einem Gini-Koeffizient von 49,7% (2017) zum Ausdruck kommen.
+        Kolumbien verfügte 2018 über knapp 50 Millionen Einwohner und erzielte eine Wirtschaftsleistung von gut 330 Milliarden US-Dollar. Gemäß Einteilung der Weltbank (2018) zählt Kolumbien zu den Ländern mit höherem mittlerem Einkommen und belegt im Index der menschlichen Entwicklung der Vereinten Nationen den 90. Rang. Somit wird Kolumbien bezüglich Lebenserwartung, Bildungsniveau und Lebensstandard als Land mit hohem Entwicklungsstand eingestuft. Bei diesen auf Mittelwerten basierenden Indikatoren bleiben jedoch die großen Einkommensunterschiede weitgehend unberücksichtigt, die in Kolumbien herrschen, und die in einem Gini-Koeffizient von 49,7% (2017) zum Ausdruck kommen.
       </p>
       <SideTable tableType="gdp" :tableData="gdpData" :color="color"/>
     </div>

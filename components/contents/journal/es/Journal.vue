@@ -558,12 +558,12 @@
         <p class="p-8">Al caminar por el paseo peatonal de la calle Florida uno se topa con numerosos cambistas que ofrecen intercambiar euros y dólares estadounidenses por pesos argentinos. Desde lejos se les escucha gritando «cambio, cambio».</p>
       </JournalCardItem>
       <JournalCardItem weekday="tuesday" day="10" month="october" country="argentina">
-        <p class="p-8">Decisiones sobre el sector agrícola ya no viven en el campo sino en la ciudad. Esto tendría impacto en los métodos utilizados para el manejo de la agricultura industrial y conduciría a un uso excesivo de las tierras de cultivo.</p>
+        <p class="p-8">Después de una ambigua clasificación a la Copa Mundial de la FIFA, Argentina se clasifica en la última jornada para la Copa Mundial 2018 en Rusia gracias a tres goles de Lionel Messi. El suceso se entiende como una prueba de la existencia de Dios y se celebra con un concierto de bocinazos en la Plaza de la República.</p>
       </JournalCardItem>
       <JournalCardItem weekday="wednesday" day="11" month="october" country="argentina">
         <div class="p-8">
-          <p>Según Daniel Krull, con sus actividades de RSE las compañías intentan resolver problemas internos, y, en general, no se basan en razones humanitarias.</p>
-          <p class="pt-5">Nach Einschätzung von Daniel Krull versuchen die Unternehmen mit ihren CSR-Aktivitäten betriebsinterne Probleme zu lösen und engagieren sich i.d.R. nicht aus humanistischen Überlegungen.</p>
+          <p>Decisiones sobre el sector agrícola ya no viven en el campo sino en la ciudad. Esto tendría impacto en los métodos utilizados para el manejo de la agricultura industrial y conduciría a un uso excesivo de las tierras de cultivo.</p>
+          <p class="pt-5">Según Daniel Krull, con sus actividades de RSE las compañías intentan resolver problemas internos, y, en general, no se basan en razones humanitarias.</p>
           <p class="pt-5">Esta noche doy una charla en la Universidad del CEMA, en la cual presento los primeros resultados de mi viaje de investigación. El grupo internacional de estudiantes analiza los hallazgos con entusiasmo y los relaciona con sus respectivos países de origen.</p>
         </div>
         <div class="mb-8 video-wrapper">

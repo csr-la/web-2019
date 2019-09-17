@@ -53,7 +53,7 @@ export default {
     peru: "«Peru is a beggar sitting on a treasure chest»",
     colombia: "«In Colombia, there is still great mistrust»",
     brazil: "«Brazil is a wonderful country ruled by a corrupt elite»",
-    argentina: "«Argentina is the land of ‚actually we should‘»",
+    argentina: "«Argentina is the land of ’actually we should‘»",
     conclusion:
       "«The seeds are sown, now it takes knowledge and tools to make them thrive»",
     recommendations:
